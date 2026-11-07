@@ -1,0 +1,184 @@
+{
+ "unit": 5,
+ "path": 1,
+ "title": "Past simple (I did)",
+ "titleId": "Kejadian di masa lalu",
+ "bookPages": "10-11",
+ "lessons": [
+  {
+   "id": "u005-l1",
+   "cards": [
+    {
+     "text": "Past simple untuk kejadian yang sudah selesai di masa lalu. Kata kerja beraturan ditambah -ed (worked, studied, stopped). Banyak kata kerja tidak beraturan: go → went, see → saw, buy → bought (lihat Appendix 1 buku).",
+     "examples": [
+      {
+       "en": "We visited Yogyakarta last year.",
+       "id": "Kami mengunjungi Yogyakarta tahun lalu."
+      },
+      {
+       "en": "I saw Rina yesterday.",
+       "id": "Saya melihat Rina kemarin."
+      }
+     ],
+     "trap": "Bahasa Indonesia cukup menambah kata \"kemarin\". Bahasa Inggris wajib mengubah kata kerjanya: I go → I went."
+    },
+    {
+     "text": "Untuk kalimat tanya dan negatif, pakai did/didn't + kata kerja bentuk dasar.",
+     "examples": [
+      {
+       "en": "Did you enjoy the film?",
+       "id": "Apakah kamu menikmati filmnya?"
+      },
+      {
+       "en": "I didn't buy anything.",
+       "id": "Saya tidak membeli apa-apa."
+      }
+     ],
+     "trap": "Setelah did/didn't, kata kerja kembali ke bentuk dasar: didn't buy, bukan didn't bought."
+    },
+    {
+     "text": "Bentuk lampau dari be adalah was (I/he/she/it) dan were (we/you/they).",
+     "examples": [
+      {
+       "en": "I was tired after work.",
+       "id": "Saya capek sepulang kerja."
+      },
+      {
+       "en": "Were they at home last night?",
+       "id": "Apakah mereka di rumah tadi malam?"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "verbform",
+     "prompt": "Yesterday I ___ (go) to the market.",
+     "answer": "went",
+     "accept": [],
+     "why": "Kejadian selesai kemarin memakai past simple. go tidak beraturan: went.",
+     "id": "u005-q01",
+     "ref": 5
+    },
+    {
+     "type": "choice",
+     "prompt": "___ you watch the football match last night?",
+     "choices": [
+      "Did",
+      "Were",
+      "Do"
+     ],
+     "correct": 0,
+     "why": "Pertanyaan past simple dengan kata kerja biasa (watch) memakai Did + bentuk dasar.",
+     "id": "u005-q02",
+     "ref": 5
+    },
+    {
+     "type": "correct",
+     "prompt": "I didn't went to work yesterday.",
+     "isCorrect": false,
+     "answer": "I didn't go to work yesterday.",
+     "accept": [],
+     "why": "Setelah didn't, kata kerjanya bentuk dasar.",
+     "id": "u005-q03",
+     "ref": 5
+    },
+    {
+     "type": "verbform",
+     "prompt": "The concert ___ (be) fantastic. We loved it.",
+     "answer": "was",
+     "accept": [],
+     "why": "Bentuk lampau be untuk subjek tunggal (the concert) adalah was.",
+     "id": "u005-q04",
+     "ref": 5
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Apa yang kamu lakukan akhir pekan lalu?\"",
+     "tokens": [
+      "What",
+      "did",
+      "you",
+      "do",
+      "last weekend?"
+     ],
+     "answer": "What did you do last weekend?",
+     "accept": [],
+     "why": "Pertanyaan past simple: What + did + you + do. Jangan hilangkan do (kata kerja utama).",
+     "id": "u005-q05",
+     "ref": 5
+    },
+    {
+     "type": "fill",
+     "prompt": "They ___ at home when I called, so I left a message.",
+     "answer": "weren't",
+     "accept": [
+      "were not"
+     ],
+     "why": "Mereka tidak ada di rumah (karena saya meninggalkan pesan). Subjek they, jadi negatif lampau be: weren't.",
+     "id": "u005-q06",
+     "ref": 5
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan kata kerja dengan bentuk lampaunya.",
+     "pairs": [
+      [
+       "buy",
+       "bought"
+      ],
+      [
+       "teach",
+       "taught"
+      ],
+      [
+       "catch",
+       "caught"
+      ],
+      [
+       "think",
+       "thought"
+      ]
+     ],
+     "why": "Keempatnya kata kerja tidak beraturan. Daftar lengkapnya ada di Appendix 1 buku.",
+     "id": "u005-q07",
+     "ref": 5
+    },
+    {
+     "type": "translate",
+     "source": "Saya tidak tidur nyenyak semalam.",
+     "answer": "I did not sleep well last night",
+     "accept": [
+      "I slept badly last night"
+     ],
+     "why": "Kejadian semalam memakai past simple: didn't + bentuk dasar (sleep).",
+     "id": "u005-q08",
+     "ref": 5
+    },
+    {
+     "type": "choice",
+     "prompt": "She ___ hard, so she passed the exam.",
+     "choices": [
+      "studyed",
+      "studied",
+      "study"
+     ],
+     "correct": 1,
+     "why": "study berakhiran konsonan + y, jadi y diganti i lalu ditambah -ed: studied (Appendix 6 buku).",
+     "id": "u005-q09",
+     "ref": 5
+    },
+    {
+     "type": "correct",
+     "prompt": "Where you went on holiday?",
+     "isCorrect": false,
+     "answer": "Where did you go on holiday?",
+     "accept": [],
+     "why": "Pertanyaan past simple memakai did + subjek + kata kerja dasar.",
+     "id": "u005-q10",
+     "ref": 5
+    }
+   ]
+  }
+ ]
+}

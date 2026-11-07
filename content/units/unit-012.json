@@ -1,0 +1,181 @@
+{
+ "unit": 12,
+ "path": 2,
+ "title": "for and since / when ... ? and how long ... ?",
+ "titleId": "for, since, when, dan how long",
+ "bookPages": "24-25",
+ "lessons": [
+  {
+   "id": "u012-l1",
+   "cards": [
+    {
+     "text": "for + lamanya waktu (two hours, five years, ages). since + titik awal waktu (Monday, 2015, 8 o'clock, I was a child).",
+     "examples": [
+      {
+       "en": "I've been waiting for two hours.",
+       "id": "Saya sudah menunggu dua jam."
+      },
+      {
+       "en": "I've been waiting since 8 o'clock.",
+       "id": "Saya sudah menunggu sejak jam 8."
+      }
+     ],
+     "trap": "\"Sejak tiga bulan\" bukan since three months. Yang benar: for three months."
+    },
+    {
+     "text": "for sering boleh dihilangkan, kecuali di kalimat negatif. Jangan pakai for di depan all (all day, all my life).",
+     "examples": [
+      {
+       "en": "They've been married ten years.",
+       "id": "Mereka sudah menikah sepuluh tahun."
+      },
+      {
+       "en": "I've lived here all my life.",
+       "id": "Saya tinggal di sini seumur hidup. (bukan for all my life)"
+      }
+     ]
+    },
+    {
+     "text": "When ...? memakai past simple (kapan dimulai). How long ...? memakai present perfect (sudah berapa lama).",
+     "examples": [
+      {
+       "en": "When did you start this job? I started in March.",
+       "id": "Kapan kamu mulai pekerjaan ini? Bulan Maret."
+      },
+      {
+       "en": "How long have you had this job? Since March.",
+       "id": "Sudah berapa lama? Sejak Maret."
+      }
+     ]
+    },
+    {
+     "text": "It's (atau It's been) + waktu + since ... untuk menyatakan sudah berapa lama sejak sesuatu terakhir terjadi.",
+     "examples": [
+      {
+       "en": "It's two years since I last saw him.",
+       "id": "Sudah dua tahun sejak terakhir saya melihatnya."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "fill",
+     "prompt": "I've been learning English ___ six months.",
+     "answer": "for",
+     "accept": [],
+     "why": "six months adalah lamanya waktu, jadi for.",
+     "id": "u012-q01",
+     "ref": 12
+    },
+    {
+     "type": "choice",
+     "prompt": "Sinta has worked here ___ 2019.",
+     "choices": [
+      "for",
+      "since",
+      "from"
+     ],
+     "correct": 1,
+     "why": "2019 adalah titik awal waktu, jadi since.",
+     "id": "u012-q02",
+     "ref": 12
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Kapan kamu mulai bekerja di sini?\"",
+     "tokens": [
+      "When",
+      "did",
+      "you",
+      "start",
+      "working",
+      "here?"
+     ],
+     "answer": "When did you start working here?",
+     "accept": [],
+     "why": "Menanyakan kapan (When) memakai past simple: When did you start ...?",
+     "id": "u012-q03",
+     "ref": 12
+    },
+    {
+     "type": "correct",
+     "prompt": "I've lived in this town for all my life.",
+     "isCorrect": false,
+     "answer": "I have lived in this town all my life.",
+     "accept": [],
+     "why": "Jangan pakai for di depan all.",
+     "id": "u012-q04",
+     "ref": 12
+    },
+    {
+     "type": "verbform",
+     "prompt": "When ___ (Rudi / start) his new job?",
+     "answer": "did Rudi start",
+     "accept": [],
+     "why": "Pertanyaan When memakai past simple: did + subjek + kata kerja dasar.",
+     "id": "u012-q05",
+     "ref": 12
+    },
+    {
+     "type": "fill",
+     "prompt": "It's three years ___ I last went to the cinema.",
+     "answer": "since",
+     "accept": [],
+     "why": "Pola It's + waktu + since + kejadian terakhir.",
+     "id": "u012-q06",
+     "ref": 12
+    },
+    {
+     "type": "translate",
+     "source": "Kami sudah menunggu sejak jam 8.",
+     "answer": "We have been waiting since 8 o'clock",
+     "accept": [
+      "We have been waiting since 8",
+      "We have been waiting since eight o'clock",
+      "We have been waiting since eight",
+      "We have been waiting since 8.00",
+      "We have been waiting since 8:00"
+     ],
+     "why": "Lama kegiatan sampai sekarang memakai present perfect continuous; jam 8 adalah titik awal, jadi since.",
+     "id": "u012-q07",
+     "ref": 12
+    },
+    {
+     "type": "choice",
+     "prompt": "They've been married ___ ten years.",
+     "choices": [
+      "since",
+      "for",
+      "ago"
+     ],
+     "correct": 1,
+     "why": "ten years adalah lamanya waktu, jadi for.",
+     "id": "u012-q08",
+     "ref": 12
+    },
+    {
+     "type": "verbform",
+     "prompt": "How long ___ (it / be) since you visited your grandparents?",
+     "answer": "has it been",
+     "accept": [
+      "is it"
+     ],
+     "why": "Polanya How long has it been since + kejadian; bentuk How long is it since juga benar.",
+     "id": "u012-q09",
+     "ref": 12
+    },
+    {
+     "type": "correct",
+     "prompt": "Budi has been studying here since three months.",
+     "isCorrect": false,
+     "answer": "Budi has been studying here for three months.",
+     "accept": [],
+     "why": "three months adalah lamanya waktu, jadi pakai for.",
+     "id": "u012-q10",
+     "ref": 12
+    }
+   ]
+  }
+ ]
+}

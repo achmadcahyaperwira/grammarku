@@ -1,0 +1,177 @@
+{
+ "unit": 10,
+ "path": 2,
+ "title": "Present perfect continuous and simple (I have been doing and I have done)",
+ "titleId": "Kegiatan vs. hasil (have been doing / have done)",
+ "bookPages": "20-21",
+ "lessons": [
+  {
+   "id": "u010-l1",
+   "cards": [
+    {
+     "text": "have been -ing memusatkan perhatian pada kegiatannya (mungkin belum selesai). have done memusatkan perhatian pada hasil yang sudah selesai.",
+     "examples": [
+      {
+       "en": "I've been painting the room.",
+       "id": "Saya habis mengecat kamar (ada cat di baju, mungkin belum selesai)."
+      },
+      {
+       "en": "I've painted the room.",
+       "id": "Saya sudah selesai mengecat kamar."
+      }
+     ]
+    },
+    {
+     "text": "Untuk \"berapa lama\" (how long, for, since, all morning) pakai continuous. Untuk \"berapa banyak / berapa kali\" (how much, how many, three times) pakai simple.",
+     "examples": [
+      {
+       "en": "Amel has been writing emails all morning.",
+       "id": "Amel menulis email sepanjang pagi."
+      },
+      {
+       "en": "Amel has written ten emails.",
+       "id": "Amel sudah menulis sepuluh email."
+      }
+     ]
+    },
+    {
+     "text": "Kata kerja keadaan seperti know, dan have yang berarti \"punya\", tetap memakai bentuk simple.",
+     "examples": [
+      {
+       "en": "I've known her for years.",
+       "id": "Saya sudah kenal dia bertahun-tahun."
+      },
+      {
+       "en": "How long have you had that phone?",
+       "id": "Sudah berapa lama kamu punya HP itu?"
+      }
+     ],
+     "trap": "Bukan I've been knowing atau have you been having."
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "My little brother ___ all the cake! There is nothing left.",
+     "choices": [
+      "has been eating",
+      "has eaten"
+     ],
+     "correct": 1,
+     "why": "Yang penting hasilnya: kuenya sudah habis. Jadi present perfect simple: has eaten.",
+     "id": "u010-q01",
+     "ref": 10
+    },
+    {
+     "type": "verbform",
+     "prompt": "How many pages ___ (you / read) so far?",
+     "answer": "have you read",
+     "accept": [],
+     "why": "Menanyakan berapa banyak (how many) memakai present perfect simple.",
+     "id": "u010-q02",
+     "ref": 10
+    },
+    {
+     "type": "correct",
+     "prompt": "I've been knowing Dian for ten years.",
+     "isCorrect": false,
+     "answer": "I have known Dian for ten years.",
+     "accept": [],
+     "why": "know adalah kata kerja keadaan, jadi pakai present perfect simple.",
+     "id": "u010-q03",
+     "ref": 10
+    },
+    {
+     "type": "fill",
+     "prompt": "My hands are dirty. I've ___ repairing my car.",
+     "answer": "been",
+     "accept": [],
+     "why": "Hasil kegiatan terlihat (tangan kotor), fokus pada kegiatannya: have been + -ing.",
+     "id": "u010-q04",
+     "ref": 10
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Sudah berapa kali kamu mengunjungi Bali?\"",
+     "tokens": [
+      "How many times",
+      "have",
+      "you",
+      "visited",
+      "Bali?"
+     ],
+     "answer": "How many times have you visited Bali?",
+     "accept": [],
+     "why": "Menanyakan berapa kali memakai present perfect simple: How many times + have + you + past participle.",
+     "id": "u010-q05",
+     "ref": 10
+    },
+    {
+     "type": "verbform",
+     "prompt": "Sari is tired. She ___ (clean) the house all morning.",
+     "answer": "has been cleaning",
+     "accept": [],
+     "why": "Lamanya kegiatan (all morning) memakai present perfect continuous.",
+     "id": "u010-q06",
+     "ref": 10
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan pertanyaan dengan jawabannya.",
+     "pairs": [
+      [
+       "Why is there paint on your shirt?",
+       "I've been painting the fence."
+      ],
+      [
+       "Is the fence finished?",
+       "Yes, I've painted it."
+      ],
+      [
+       "How long have you been learning Korean?",
+       "For about six months."
+      ],
+      [
+       "How many words have you learnt?",
+       "About 500."
+      ]
+     ],
+     "why": "Kegiatan dan lamanya memakai have been -ing; hasil selesai dan jumlah memakai have done.",
+     "id": "u010-q07",
+     "ref": 10
+    },
+    {
+     "type": "translate",
+     "source": "Saya sudah menulis tiga surat hari ini.",
+     "answer": "I have written three letters today",
+     "accept": [],
+     "why": "Jumlah yang sudah selesai (tiga surat) memakai present perfect simple: have written.",
+     "id": "u010-q08",
+     "ref": 10
+    },
+    {
+     "type": "choice",
+     "prompt": "How long ___ that phone?",
+     "choices": [
+      "have you had",
+      "have you been having"
+     ],
+     "correct": 0,
+     "why": "have yang berarti \"punya\" tidak dipakai dalam bentuk continuous.",
+     "id": "u010-q09",
+     "ref": 10
+    },
+    {
+     "type": "correct",
+     "prompt": "Rudi has been sending 50 messages this morning.",
+     "isCorrect": false,
+     "answer": "Rudi has sent 50 messages this morning.",
+     "accept": [],
+     "why": "Jumlah yang sudah selesai (50 pesan) memakai present perfect simple.",
+     "id": "u010-q10",
+     "ref": 10
+    }
+   ]
+  }
+ ]
+}

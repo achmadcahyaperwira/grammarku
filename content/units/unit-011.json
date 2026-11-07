@@ -1,0 +1,194 @@
+{
+ "unit": 11,
+ "path": 2,
+ "title": "how long have you (been) ... ?",
+ "titleId": "Sudah berapa lama?",
+ "bookPages": "22-23",
+ "lessons": [
+  {
+   "id": "u011-l1",
+   "cards": [
+    {
+     "text": "Untuk sesuatu yang dimulai di masa lalu dan masih berlanjut sekarang, pakai present perfect, bukan present simple.",
+     "examples": [
+      {
+       "en": "How long have you been married?",
+       "id": "Sudah berapa lama kamu menikah?"
+      },
+      {
+       "en": "I've lived here for five years.",
+       "id": "Saya sudah tinggal di sini lima tahun."
+      }
+     ],
+     "trap": "Kesalahan khas: \"Saya tinggal di sini sejak 2019\" diterjemahkan I live here since 2019. Yang benar: I have lived here since 2019."
+    },
+    {
+     "text": "Untuk how long, bentuk continuous lebih umum. Tetapi kata kerja keadaan (know, like, have = punya) tetap simple.",
+     "examples": [
+      {
+       "en": "I've been learning English since January.",
+       "id": "Saya belajar bahasa Inggris sejak Januari."
+      },
+      {
+       "en": "How long have you known Rina?",
+       "id": "Sudah berapa lama kamu kenal Rina?"
+      }
+     ]
+    },
+    {
+     "text": "live dan work boleh simple atau continuous. Dengan always, pakai simple.",
+     "examples": [
+      {
+       "en": "She has worked here for a long time. / She has been working here ...",
+       "id": "Dia sudah lama bekerja di sini."
+      },
+      {
+       "en": "I've always lived in Jakarta.",
+       "id": "Saya selalu tinggal di Jakarta."
+      }
+     ]
+    },
+    {
+     "text": "I haven't ... since/for ... dipakai untuk mengatakan kapan terakhir kali sesuatu terjadi.",
+     "examples": [
+      {
+       "en": "I haven't seen her since June.",
+       "id": "Saya tidak bertemu dia sejak Juni."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "How long ___ in Bandung?",
+     "choices": [
+      "do you live",
+      "have you lived",
+      "are you living"
+     ],
+     "correct": 1,
+     "why": "Menanyakan lama sesuatu yang masih berlanjut memakai present perfect: have you lived.",
+     "id": "u011-q01",
+     "ref": 11
+    },
+    {
+     "type": "verbform",
+     "prompt": "We ___ (know) each other since primary school.",
+     "answer": "have known",
+     "accept": [
+      "'ve known"
+     ],
+     "why": "know adalah kata kerja keadaan, jadi present perfect simple: have known.",
+     "id": "u011-q02",
+     "ref": 11
+    },
+    {
+     "type": "correct",
+     "prompt": "I am working here for three years.",
+     "isCorrect": false,
+     "answer": "I have been working here for three years.",
+     "accept": [
+      "I have worked here for three years."
+     ],
+     "why": "Untuk lama waktu sampai sekarang, pakai present perfect, bukan present continuous.",
+     "id": "u011-q03",
+     "ref": 11
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Sudah berapa lama mereka menikah?\"",
+     "tokens": [
+      "How long",
+      "have",
+      "they",
+      "been",
+      "married?"
+     ],
+     "answer": "How long have they been married?",
+     "accept": [],
+     "why": "be married sampai sekarang memakai present perfect: have they been married.",
+     "id": "u011-q04",
+     "ref": 11
+    },
+    {
+     "type": "fill",
+     "prompt": "I haven't seen Ali ___ last Friday.",
+     "answer": "since",
+     "accept": [],
+     "why": "last Friday adalah titik awal waktu, jadi pakai since.",
+     "id": "u011-q05",
+     "ref": 11
+    },
+    {
+     "type": "translate",
+     "source": "Saya tinggal di Jakarta sejak 2018.",
+     "answer": "I have lived in Jakarta since 2018",
+     "accept": [
+      "I have been living in Jakarta since 2018"
+     ],
+     "why": "Sesuatu yang dimulai di masa lalu dan masih berlanjut memakai present perfect, bukan I live.",
+     "id": "u011-q06",
+     "ref": 11
+    },
+    {
+     "type": "verbform",
+     "prompt": "Rina ___ (always / want) to visit Japan.",
+     "answer": "has always wanted",
+     "accept": [],
+     "why": "Dengan always untuk periode sampai sekarang, pakai present perfect simple: has always wanted.",
+     "id": "u011-q07",
+     "ref": 11
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan situasi dengan kalimat yang tepat.",
+     "pairs": [
+      [
+       "Raka is in hospital.",
+       "He's been there since Monday."
+      ],
+      [
+       "Raka and I are friends.",
+       "We've known each other for years."
+      ],
+      [
+       "Raka has a motorbike.",
+       "He's had it for two years."
+      ],
+      [
+       "Raka is waiting for a bus.",
+       "He's been waiting for ten minutes."
+      ]
+     ],
+     "why": "Kalimat kiri memakai present (keadaan sekarang); kalimat kanan memakai present perfect untuk menyatakan sudah berapa lama.",
+     "id": "u011-q08",
+     "ref": 11
+    },
+    {
+     "type": "choice",
+     "prompt": "Dina ___ ill since Sunday.",
+     "choices": [
+      "is",
+      "has been",
+      "was"
+     ],
+     "correct": 1,
+     "why": "Sakit sejak Minggu sampai sekarang, jadi present perfect: has been.",
+     "id": "u011-q09",
+     "ref": 11
+    },
+    {
+     "type": "correct",
+     "prompt": "How long have you had this car?",
+     "isCorrect": true,
+     "answer": "How long have you had this car?",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: have (punya) memakai present perfect simple untuk lama waktu.",
+     "id": "u011-q10",
+     "ref": 11
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "unit": 13,
+ "path": 2,
+ "title": "Present perfect and past 1 (I have done and I did)",
+ "titleId": "Present perfect vs. past simple 1",
+ "bookPages": "26-27",
+ "lessons": [
+  {
+   "id": "u013-l1",
+   "cards": [
+    {
+     "text": "Present perfect memberi tahu keadaan sekarang. Past simple hanya menceritakan masa lalu.",
+     "examples": [
+      {
+       "en": "Ari has lost his key.",
+       "id": "Kunci Ari hilang (sekarang masih hilang)."
+      },
+      {
+       "en": "Ari lost his key, but he found it later.",
+       "id": "Ari pernah kehilangan kuncinya, tapi kemudian ketemu."
+      }
+     ]
+    },
+    {
+     "text": "Untuk hal yang bukan kabar baru atau terkini, pakai past simple.",
+     "examples": [
+      {
+       "en": "Chairil Anwar wrote many famous poems.",
+       "id": "Chairil Anwar menulis banyak puisi terkenal."
+      },
+      {
+       "en": "Who invented the telephone?",
+       "id": "Siapa yang menemukan telepon?"
+      }
+     ]
+    },
+    {
+     "text": "Kabar baru biasanya memakai present perfect. Saat melanjutkan cerita tentang kabar itu, pakai past simple.",
+     "examples": [
+      {
+       "en": "I've cut my finger.",
+       "id": "Jari saya teriris."
+      },
+      {
+       "en": "How did you do that?",
+       "id": "Bagaimana kejadiannya?"
+      },
+      {
+       "en": "I was cutting vegetables.",
+       "id": "Saya sedang memotong sayur."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "The rain ___ for a while this afternoon, but now it's raining again.",
+     "choices": [
+      "has stopped",
+      "stopped"
+     ],
+     "correct": 1,
+     "why": "Sekarang hujan lagi, jadi berhentinya hanya cerita masa lalu: past simple.",
+     "id": "u013-q01",
+     "ref": 13
+    },
+    {
+     "type": "verbform",
+     "prompt": "Who ___ (paint) the Mona Lisa?",
+     "answer": "painted",
+     "accept": [],
+     "why": "Ini bukan kabar baru, melainkan peristiwa masa lalu, jadi past simple.",
+     "id": "u013-q02",
+     "ref": 13
+    },
+    {
+     "type": "correct",
+     "prompt": "My grandfather has grown up in Medan.",
+     "isCorrect": false,
+     "answer": "My grandfather grew up in Medan.",
+     "accept": [],
+     "why": "Masa kecil kakek adalah masa lalu yang sudah selesai, jadi pakai past simple.",
+     "id": "u013-q03",
+     "ref": 13
+    },
+    {
+     "type": "fill",
+     "prompt": "\"I've broken my glasses.\" \"Oh no! How ___ you do that?\"",
+     "answer": "did",
+     "accept": [],
+     "why": "Setelah kabar baru, pertanyaan lanjutan tentang kejadiannya memakai past simple.",
+     "id": "u013-q04",
+     "ref": 13
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Siapa yang menemukan internet?\"",
+     "tokens": [
+      "Who",
+      "invented",
+      "the internet?"
+     ],
+     "answer": "Who invented the internet?",
+     "accept": [],
+     "why": "Peristiwa sejarah memakai past simple, bukan present perfect.",
+     "id": "u013-q05",
+     "ref": 13
+    },
+    {
+     "type": "verbform",
+     "prompt": "Look! Somebody ___ (spill) coffee on the sofa.",
+     "answer": "has spilled",
+     "accept": [
+      "has spilt"
+     ],
+     "why": "Kabar baru yang hasilnya terlihat sekarang memakai present perfect.",
+     "id": "u013-q06",
+     "ref": 13
+    },
+    {
+     "type": "translate",
+     "source": "Ibu saya lahir di Solo.",
+     "answer": "My mother was born in Solo",
+     "accept": [],
+     "why": "Kelahiran adalah peristiwa masa lalu yang selesai, jadi was born (past simple).",
+     "id": "u013-q07",
+     "ref": 13
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan kabar dengan pertanyaan lanjutannya.",
+     "pairs": [
+      [
+       "I've burnt my hand.",
+       "How did you do that?"
+      ],
+      [
+       "Lia has had a baby!",
+       "When was the baby born?"
+      ],
+      [
+       "Our team has won the cup!",
+       "What was the score?"
+      ],
+      [
+       "Someone has stolen my bike.",
+       "Where did you leave it?"
+      ]
+     ],
+     "why": "Kabar baru memakai present perfect; pertanyaan lanjutan tentang detailnya memakai past simple.",
+     "id": "u013-q08",
+     "ref": 13
+    },
+    {
+     "type": "choice",
+     "prompt": "Shakespeare ___ many famous plays.",
+     "choices": [
+      "has written",
+      "wrote"
+     ],
+     "correct": 1,
+     "why": "Ini peristiwa masa lalu, bukan kabar baru, jadi past simple: wrote.",
+     "id": "u013-q09",
+     "ref": 13
+    },
+    {
+     "type": "correct",
+     "prompt": "They've gone out. They'll be back at six.",
+     "isCorrect": true,
+     "answer": "They've gone out. They'll be back at six.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: mereka masih di luar sekarang, jadi present perfect.",
+     "id": "u013-q10",
+     "ref": 13
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "unit": 16,
+ "path": 2,
+ "title": "Past perfect continuous (I had been doing)",
+ "titleId": "Sudah berlangsung sebelum titik di masa lalu",
+ "bookPages": "32-33",
+ "lessons": [
+  {
+   "id": "u016-l1",
+   "cards": [
+    {
+     "text": "Past perfect continuous: had been + -ing. Untuk kegiatan yang berlangsung sebelum suatu titik di masa lalu, sering hasilnya masih terlihat saat itu.",
+     "examples": [
+      {
+       "en": "The road was wet. It had been raining.",
+       "id": "Jalannya basah. Tadinya hujan."
+      },
+      {
+       "en": "Tom was tired. He'd been working all day.",
+       "id": "Tom capek. Dia bekerja seharian."
+      }
+     ]
+    },
+    {
+     "text": "Juga untuk lamanya kegiatan sampai sesuatu terjadi di masa lalu.",
+     "examples": [
+      {
+       "en": "We'd been playing for an hour when the lights went out.",
+       "id": "Kami sudah bermain satu jam ketika lampu padam."
+      }
+     ]
+    },
+    {
+     "text": "Bandingkan: has been -ing (sampai sekarang), had been -ing (sampai titik di masa lalu), was -ing (sedang berlangsung saat itu).",
+     "examples": [
+      {
+       "en": "I've been waiting for 20 minutes.",
+       "id": "Saya sudah menunggu 20 menit (sampai sekarang)."
+      },
+      {
+       "en": "The bus finally came. I'd been waiting for 20 minutes.",
+       "id": "Akhirnya bus datang. Saya sudah menunggu 20 menit."
+      }
+     ],
+     "trap": "Kata kerja keadaan tetap tidak memakai -ing: We had known each other for years."
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "Rina's eyes were red. She ___.",
+     "choices": [
+      "had been crying",
+      "has been crying",
+      "cries"
+     ],
+     "correct": 0,
+     "why": "Ceritanya di masa lalu dan hasil kegiatan terlihat saat itu, jadi had been crying.",
+     "id": "u016-q01",
+     "ref": 16
+    },
+    {
+     "type": "verbform",
+     "prompt": "We ___ (walk) for two hours when we finally found a cafe.",
+     "answer": "had been walking",
+     "accept": [
+      "'d been walking"
+     ],
+     "why": "Lama kegiatan sampai titik di masa lalu memakai had been + -ing.",
+     "id": "u016-q02",
+     "ref": 16
+    },
+    {
+     "type": "correct",
+     "prompt": "I was tired because I have been working all day.",
+     "isCorrect": false,
+     "answer": "I was tired because I had been working all day.",
+     "accept": [],
+     "why": "Ceritanya di masa lalu (was tired), jadi pakai had been + -ing.",
+     "id": "u016-q03",
+     "ref": 16
+    },
+    {
+     "type": "fill",
+     "prompt": "When I arrived, Andi was angry. He had ___ waiting for an hour.",
+     "answer": "been",
+     "accept": [],
+     "why": "Past perfect continuous: had + been + -ing.",
+     "id": "u016-q04",
+     "ref": 16
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Sudah berapa lama kamu menunggu ketika bus datang?\"",
+     "tokens": [
+      "How long",
+      "had",
+      "you",
+      "been",
+      "waiting",
+      "when",
+      "the bus",
+      "came?"
+     ],
+     "answer": "How long had you been waiting when the bus came?",
+     "accept": [],
+     "why": "Lama kegiatan sampai titik di masa lalu: How long had you been + -ing.",
+     "id": "u016-q05",
+     "ref": 16
+    },
+    {
+     "type": "verbform",
+     "prompt": "We were good friends. We ___ (know) each other for years.",
+     "answer": "had known",
+     "accept": [
+      "'d known"
+     ],
+     "why": "know adalah kata kerja keadaan, jadi past perfect simple: had known.",
+     "id": "u016-q06",
+     "ref": 16
+    },
+    {
+     "type": "translate",
+     "source": "Tanahnya basah karena tadinya hujan.",
+     "answer": "The ground was wet because it had been raining",
+     "accept": [
+      "The ground was wet because it had been raining before",
+      "The ground was wet because it had been raining earlier"
+     ],
+     "why": "Hujan berlangsung sebelum titik di masa lalu dan hasilnya terlihat, jadi had been raining.",
+     "id": "u016-q07",
+     "ref": 16
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan situasi dengan penjelasannya.",
+     "pairs": [
+      [
+       "The man was out of breath.",
+       "He'd been running."
+      ],
+      [
+       "My hands were dirty.",
+       "I'd been fixing the bike."
+      ],
+      [
+       "The children were very hungry.",
+       "They'd been playing outside all day."
+      ],
+      [
+       "Sari was very tired.",
+       "She'd been studying all night."
+      ]
+     ],
+     "why": "Setiap penjelasan memakai had been -ing untuk kegiatan yang berlangsung sebelum titik di masa lalu.",
+     "id": "u016-q08",
+     "ref": 16
+    },
+    {
+     "type": "choice",
+     "prompt": "When I looked outside, it ___, but the streets were still wet.",
+     "choices": [
+      "wasn't raining",
+      "hadn't been raining"
+     ],
+     "correct": 0,
+     "why": "Saat itu hujan tidak sedang turun (was -ing). Jalan yang basah menunjukkan tadinya hujan.",
+     "id": "u016-q09",
+     "ref": 16
+    },
+    {
+     "type": "correct",
+     "prompt": "I had been waiting for 20 minutes when the bus came.",
+     "isCorrect": true,
+     "answer": "I had been waiting for 20 minutes when the bus came.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: lamanya menunggu sampai bus datang memakai had been + -ing.",
+     "id": "u016-q10",
+     "ref": 16
+    }
+   ]
+  }
+ ]
+}

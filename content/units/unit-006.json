@@ -1,0 +1,190 @@
+{
+ "unit": 6,
+ "path": 1,
+ "title": "Past continuous (I was doing)",
+ "titleId": "Sedang terjadi di masa lalu",
+ "bookPages": "12-13",
+ "lessons": [
+  {
+   "id": "u006-l1",
+   "cards": [
+    {
+     "text": "Past continuous: was/were + -ing. Dipakai untuk kegiatan yang sedang berlangsung pada waktu tertentu di masa lalu (sudah mulai, belum selesai).",
+     "examples": [
+      {
+       "en": "At 8 o'clock last night I was watching TV.",
+       "id": "Jam 8 tadi malam saya sedang menonton TV."
+      },
+      {
+       "en": "They were waiting for the bus.",
+       "id": "Mereka sedang menunggu bus."
+      }
+     ]
+    },
+    {
+     "text": "Kejadian singkat (past simple) sering terjadi di tengah kegiatan yang sedang berlangsung (past continuous).",
+     "examples": [
+      {
+       "en": "The phone rang while I was cooking.",
+       "id": "Telepon berdering ketika saya sedang memasak."
+      },
+      {
+       "en": "It was raining when we left.",
+       "id": "Hujan sedang turun ketika kami berangkat."
+      }
+     ]
+    },
+    {
+     "text": "Jika kejadian terjadi berurutan, semuanya memakai past simple. Bandingkan:",
+     "examples": [
+      {
+       "en": "When Sari arrived, we had dinner.",
+       "id": "Sari datang, lalu kami makan malam."
+      },
+      {
+       "en": "When Sari arrived, we were having dinner.",
+       "id": "Kami sudah mulai makan ketika Sari datang."
+      }
+     ],
+     "trap": "Kata kerja keadaan (know, want, dll.) tetap tidak memakai -ing: We knew each other, bukan we were knowing."
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "I ___ my finger while I was cutting vegetables.",
+     "choices": [
+      "cut",
+      "was cutting",
+      "am cutting"
+     ],
+     "correct": 0,
+     "why": "Jari teriris adalah kejadian singkat di tengah kegiatan, jadi past simple (cut). Kegiatan yang berlangsung memakai was cutting.",
+     "id": "u006-q01",
+     "ref": 6
+    },
+    {
+     "type": "verbform",
+     "prompt": "It ___ (rain) when we left the house, so we took an umbrella.",
+     "answer": "was raining",
+     "accept": [],
+     "why": "Hujan sedang berlangsung ketika kami berangkat, jadi past continuous.",
+     "id": "u006-q02",
+     "ref": 6
+    },
+    {
+     "type": "order",
+     "prompt": "Susun kalimat: \"Rina sedang menunggu saya ketika saya tiba.\"",
+     "tokens": [
+      "Rina",
+      "was waiting",
+      "for me",
+      "when",
+      "I",
+      "arrived."
+     ],
+     "answer": "Rina was waiting for me when I arrived.",
+     "accept": [
+      "When I arrived, Rina was waiting for me."
+     ],
+     "why": "Kegiatan yang sedang berlangsung memakai was waiting; kejadian singkat memakai past simple (arrived).",
+     "id": "u006-q03",
+     "ref": 6
+    },
+    {
+     "type": "fill",
+     "prompt": "We ___ walking home when we saw the accident.",
+     "answer": "were",
+     "accept": [],
+     "why": "Kegiatan yang sedang berlangsung di masa lalu, subjek we, jadi were + -ing.",
+     "id": "u006-q04",
+     "ref": 6
+    },
+    {
+     "type": "correct",
+     "prompt": "I was knowing the answer, but I didn't say anything.",
+     "isCorrect": false,
+     "answer": "I knew the answer, but I didn't say anything.",
+     "accept": [],
+     "why": "know adalah kata kerja keadaan, jadi tidak memakai -ing.",
+     "id": "u006-q05",
+     "ref": 6
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan awal dan akhir kalimat.",
+     "pairs": [
+      [
+       "Dina didn't hear the doorbell",
+       "because she was wearing headphones."
+      ],
+      [
+       "My brothers missed the bus",
+       "because they were talking to a friend."
+      ],
+      [
+       "I burned the rice",
+       "because I was chatting on my phone."
+      ],
+      [
+       "Budi fell off his bike",
+       "while he was riding too fast."
+      ]
+     ],
+     "why": "Bagian kanan memakai past continuous untuk kegiatan yang sedang berlangsung saat kejadian utama terjadi.",
+     "id": "u006-q06",
+     "ref": 6
+    },
+    {
+     "type": "verbform",
+     "prompt": "When Tom arrived, we ___ (have) dinner, so we asked him to join us.",
+     "answer": "were having",
+     "accept": [],
+     "why": "Kami sudah mulai makan sebelum Tom datang, jadi past continuous.",
+     "id": "u006-q07",
+     "ref": 6
+    },
+    {
+     "type": "translate",
+     "source": "Saya sedang tidur ketika kamu menelepon.",
+     "answer": "I was sleeping when you called",
+     "accept": [
+      "I was sleeping when you phoned",
+      "I was sleeping when you rang",
+      "When you called, I was sleeping",
+      "When you phoned, I was sleeping",
+      "When you rang, I was sleeping",
+      "I was asleep when you called",
+      "I was asleep when you phoned",
+      "I was asleep when you rang"
+     ],
+     "why": "Kegiatan yang sedang berlangsung memakai was sleeping; teleponnya kejadian singkat (past simple).",
+     "id": "u006-q08",
+     "ref": 6
+    },
+    {
+     "type": "choice",
+     "prompt": "When the film ended, we ___ home.",
+     "choices": [
+      "were going",
+      "went"
+     ],
+     "correct": 1,
+     "why": "Filmnya selesai, lalu kami pulang. Kejadian berurutan memakai past simple.",
+     "id": "u006-q09",
+     "ref": 6
+    },
+    {
+     "type": "correct",
+     "prompt": "Rani was living in Medan when I met her.",
+     "isCorrect": true,
+     "answer": "Rani was living in Medan when I met her.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: tinggal di Medan sedang berlangsung ketika kejadian bertemu terjadi.",
+     "id": "u006-q10",
+     "ref": 6
+    }
+   ]
+  }
+ ]
+}

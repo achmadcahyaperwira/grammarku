@@ -1,0 +1,187 @@
+{
+ "unit": 15,
+ "path": 2,
+ "title": "Past perfect (I had done)",
+ "titleId": "Sudah terjadi sebelum titik di masa lalu",
+ "bookPages": "30-31",
+ "lessons": [
+  {
+   "id": "u015-l1",
+   "cards": [
+    {
+     "text": "Past perfect: had + past participle. Dipakai saat bercerita tentang masa lalu, untuk kejadian yang terjadi lebih dulu sebelum titik cerita.",
+     "examples": [
+      {
+       "en": "When I arrived, the train had already left.",
+       "id": "Ketika saya tiba, keretanya sudah berangkat."
+      },
+      {
+       "en": "I didn't watch the film with them. I'd seen it before.",
+       "id": "Saya tidak ikut menonton. Saya sudah pernah menontonnya."
+      }
+     ]
+    },
+    {
+     "text": "Present perfect = sampai sekarang. Past perfect = sampai titik tertentu di masa lalu.",
+     "examples": [
+      {
+       "en": "I'm not hungry. I've just eaten.",
+       "id": "Saya tidak lapar. Saya baru saja makan."
+      },
+      {
+       "en": "I wasn't hungry. I'd just eaten.",
+       "id": "Waktu itu saya tidak lapar. Saya baru saja makan."
+      }
+     ]
+    },
+    {
+     "text": "Bandingkan past simple dengan past perfect:",
+     "examples": [
+      {
+       "en": "When I arrived, Tom left.",
+       "id": "Saya datang, lalu Tom pergi."
+      },
+      {
+       "en": "When I arrived, Tom had left.",
+       "id": "Tom sudah pergi sebelum saya datang."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "verbform",
+     "prompt": "When we got to the cinema, the film ___ (already / start).",
+     "answer": "had already started",
+     "accept": [],
+     "why": "Filmnya dimulai sebelum kami tiba (titik di masa lalu), jadi past perfect.",
+     "id": "u015-q01",
+     "ref": 15
+    },
+    {
+     "type": "choice",
+     "prompt": "I didn't recognise him. He ___ a lot.",
+     "choices": [
+      "has changed",
+      "had changed",
+      "changes"
+     ],
+     "correct": 1,
+     "why": "Perubahannya terjadi sebelum saat saya bertemu dia di masa lalu, jadi had changed.",
+     "id": "u015-q02",
+     "ref": 15
+    },
+    {
+     "type": "order",
+     "prompt": "Susun kalimat (cerita masa lalu): \"Rudi belum pernah naik pesawat sebelumnya.\"",
+     "tokens": [
+      "Rudi",
+      "had",
+      "never",
+      "flown",
+      "before."
+     ],
+     "answer": "Rudi had never flown before.",
+     "accept": [],
+     "why": "Pengalaman sampai titik di masa lalu memakai had never + past participle.",
+     "id": "u015-q03",
+     "ref": 15
+    },
+    {
+     "type": "fill",
+     "prompt": "We weren't hungry because we ___ just had lunch.",
+     "answer": "had",
+     "accept": [
+      "'d"
+     ],
+     "why": "Makan siangnya terjadi sebelum titik cerita di masa lalu, jadi had + past participle.",
+     "id": "u015-q04",
+     "ref": 15
+    },
+    {
+     "type": "correct",
+     "prompt": "When I got home, I found that someone has broken the window.",
+     "isCorrect": false,
+     "answer": "When I got home, I found that someone had broken the window.",
+     "accept": [],
+     "why": "Ceritanya di masa lalu, dan jendela pecah sebelum saya tiba, jadi pakai past perfect.",
+     "id": "u015-q05",
+     "ref": 15
+    },
+    {
+     "type": "verbform",
+     "prompt": "Nina wasn't at the party. She ___ (go) home early.",
+     "answer": "had gone",
+     "accept": [],
+     "why": "Nina pergi sebelum titik cerita (pesta), jadi past perfect: had gone.",
+     "id": "u015-q06",
+     "ref": 15
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan situasi dengan penjelasannya.",
+     "pairs": [
+      [
+       "Was Tom there when you arrived?",
+       "No, he'd already left."
+      ],
+      [
+       "The house was dirty.",
+       "Nobody had cleaned it for weeks."
+      ],
+      [
+       "I couldn't get into my flat.",
+       "I'd lost my keys."
+      ],
+      [
+       "She was very nervous.",
+       "She'd never given a speech before."
+      ]
+     ],
+     "why": "Penjelasan di kanan menceritakan hal yang terjadi lebih dulu, jadi memakai past perfect.",
+     "id": "u015-q07",
+     "ref": 15
+    },
+    {
+     "type": "translate",
+     "source": "Ketika saya tiba, mereka sudah pergi.",
+     "answer": "When I arrived, they had already gone",
+     "accept": [
+      "When I arrived, they had already left",
+      "When I arrived, they had gone",
+      "When I arrived, they had left",
+      "They had already gone when I arrived",
+      "They had already left when I arrived",
+      "They had gone when I arrived",
+      "They had left when I arrived"
+     ],
+     "why": "Mereka pergi sebelum saya tiba, jadi past perfect: had gone atau had left.",
+     "id": "u015-q08",
+     "ref": 15
+    },
+    {
+     "type": "choice",
+     "prompt": "\"Was Dina still at the office when you got there?\" \"Yes, but she ___ a few minutes later.\"",
+     "choices": [
+      "had gone home",
+      "went home"
+     ],
+     "correct": 1,
+     "why": "Dina pulang setelah saya tiba (berurutan), jadi past simple.",
+     "id": "u015-q09",
+     "ref": 15
+    },
+    {
+     "type": "correct",
+     "prompt": "I knew the city well because I had lived there before.",
+     "isCorrect": true,
+     "answer": "I knew the city well because I had lived there before.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: tinggal di sana terjadi sebelum titik cerita di masa lalu.",
+     "id": "u015-q10",
+     "ref": 15
+    }
+   ]
+  }
+ ]
+}

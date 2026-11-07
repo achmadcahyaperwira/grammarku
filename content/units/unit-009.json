@@ -1,0 +1,186 @@
+{
+ "unit": 9,
+ "path": 2,
+ "title": "Present perfect continuous (I have been doing)",
+ "titleId": "Sudah berlangsung sampai sekarang",
+ "bookPages": "18-19",
+ "lessons": [
+  {
+   "id": "u009-l1",
+   "cards": [
+    {
+     "text": "Present perfect continuous: have/has been + -ing. Dipakai untuk kegiatan yang baru saja berhenti dan hasilnya masih terlihat.",
+     "examples": [
+      {
+       "en": "Why are you wet? Have you been swimming?",
+       "id": "Kenapa kamu basah? Habis berenang?"
+      },
+      {
+       "en": "She's tired. She's been working all day.",
+       "id": "Dia capek. Dia bekerja seharian."
+      }
+     ]
+    },
+    {
+     "text": "Juga untuk kegiatan yang dimulai di masa lalu dan masih berlangsung sampai sekarang, terutama dengan how long, for, since.",
+     "examples": [
+      {
+       "en": "It's been raining for two hours.",
+       "id": "Sudah dua jam hujan turun."
+      },
+      {
+       "en": "How long have you been learning English?",
+       "id": "Sudah berapa lama kamu belajar bahasa Inggris?"
+      }
+     ]
+    },
+    {
+     "text": "Bandingkan present continuous (sedang terjadi sekarang) dengan present perfect continuous (sudah berapa lama berlangsung).",
+     "examples": [
+      {
+       "en": "I'm waiting for the bus.",
+       "id": "Saya sedang menunggu bus."
+      },
+      {
+       "en": "I've been waiting for an hour.",
+       "id": "Saya sudah menunggu selama satu jam."
+      }
+     ],
+     "trap": "Bahasa Indonesia cukup memakai \"sudah ... selama\". Bahasa Inggris tidak memakai present continuous untuk lama waktu: bukan I am waiting for an hour."
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "The ground is wet. It ___.",
+     "choices": [
+      "has been raining",
+      "rains",
+      "raining"
+     ],
+     "correct": 0,
+     "why": "Hujan baru saja berhenti dan hasilnya terlihat (tanah basah), jadi has been raining.",
+     "id": "u009-q01",
+     "ref": 9
+    },
+    {
+     "type": "verbform",
+     "prompt": "We ___ (wait) for the bus for 30 minutes.",
+     "answer": "have been waiting",
+     "accept": [
+      "'ve been waiting"
+     ],
+     "why": "Lama kegiatan yang masih berlangsung (for 30 minutes) memakai have been + -ing.",
+     "id": "u009-q02",
+     "ref": 9
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Sudah berapa lama kamu bekerja di sini?\"",
+     "tokens": [
+      "How long",
+      "have",
+      "you",
+      "been",
+      "working",
+      "here?"
+     ],
+     "answer": "How long have you been working here?",
+     "accept": [],
+     "why": "Pertanyaan lama waktu: How long + have + you + been + -ing.",
+     "id": "u009-q03",
+     "ref": 9
+    },
+    {
+     "type": "fill",
+     "prompt": "Rini has ___ teaching for ten years.",
+     "answer": "been",
+     "accept": [],
+     "why": "Present perfect continuous: has + been + -ing.",
+     "id": "u009-q04",
+     "ref": 9
+    },
+    {
+     "type": "correct",
+     "prompt": "I am learning English since 2020.",
+     "isCorrect": false,
+     "answer": "I have been learning English since 2020.",
+     "accept": [
+      "I have learnt English since 2020.",
+      "I have learned English since 2020."
+     ],
+     "why": "Untuk kegiatan yang dimulai di masa lalu dan masih berlangsung (since 2020), pakai present perfect continuous.",
+     "id": "u009-q05",
+     "ref": 9
+    },
+    {
+     "type": "verbform",
+     "prompt": "Sorry I'm late. ___ (you / wait) long?",
+     "answer": "Have you been waiting",
+     "accept": [],
+     "why": "Menanyakan lamanya kegiatan yang masih berlangsung sampai sekarang: Have you been + -ing.",
+     "id": "u009-q06",
+     "ref": 9
+    },
+    {
+     "type": "translate",
+     "source": "Dia sudah menonton TV sepanjang hari.",
+     "answer": "He has been watching TV all day",
+     "accept": [
+      "She has been watching TV all day"
+     ],
+     "why": "Kegiatan yang berlangsung sepanjang hari sampai sekarang memakai has been + -ing.",
+     "id": "u009-q07",
+     "ref": 9
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan pertanyaan dengan jawabannya.",
+     "pairs": [
+      [
+       "Why are your hands so dirty?",
+       "I've been fixing my bike."
+      ],
+      [
+       "Why are you out of breath?",
+       "I've been running."
+      ],
+      [
+       "Why is the kitchen so messy?",
+       "We've been cooking."
+      ],
+      [
+       "Why is your hair wet?",
+       "I've been swimming."
+      ]
+     ],
+     "why": "Setiap jawaban menjelaskan kegiatan yang baru saja berhenti dan hasilnya masih terlihat.",
+     "id": "u009-q08",
+     "ref": 9
+    },
+    {
+     "type": "choice",
+     "prompt": "Look! Those children ___ in the river right now.",
+     "choices": [
+      "are swimming",
+      "have been swimming"
+     ],
+     "correct": 0,
+     "why": "right now = sedang terjadi saat ini, jadi present continuous.",
+     "id": "u009-q09",
+     "ref": 9
+    },
+    {
+     "type": "correct",
+     "prompt": "Andi has been playing the guitar since he was ten.",
+     "isCorrect": true,
+     "answer": "Andi has been playing the guitar since he was ten.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: kegiatan berulang yang dimulai di masa lalu dan masih berlanjut sampai sekarang.",
+     "id": "u009-q10",
+     "ref": 9
+    }
+   ]
+  }
+ ]
+}

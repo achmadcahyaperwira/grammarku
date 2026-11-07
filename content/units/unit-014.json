@@ -1,0 +1,183 @@
+{
+ "unit": 14,
+ "path": 2,
+ "title": "Present perfect and past 2 (I have done and I did)",
+ "titleId": "Present perfect vs. past simple 2",
+ "bookPages": "28-29",
+ "lessons": [
+  {
+   "id": "u014-l1",
+   "cards": [
+    {
+     "text": "Untuk waktu yang sudah selesai (yesterday, last week, in 2010, two days ago, when I was a child), pakai past simple, bukan present perfect. Pertanyaan When ...? dan What time ...? juga memakai past simple.",
+     "examples": [
+      {
+       "en": "I saw her yesterday.",
+       "id": "Saya melihatnya kemarin. (bukan have seen yesterday)"
+      },
+      {
+       "en": "What time did you finish work?",
+       "id": "Jam berapa kamu selesai kerja?"
+      }
+     ]
+    },
+    {
+     "text": "Periode yang belum selesai (today, this week, since ...) memakai present perfect. Periode yang sudah selesai memakai past simple.",
+     "examples": [
+      {
+       "en": "I haven't seen him this week.",
+       "id": "Minggu ini saya belum bertemu dia."
+      },
+      {
+       "en": "I didn't see him last week.",
+       "id": "Minggu lalu saya tidak bertemu dia."
+      }
+     ]
+    },
+    {
+     "text": "Bandingkan keadaan yang masih berlanjut dengan yang sudah berakhir.",
+     "examples": [
+      {
+       "en": "Jack has lived in Bali for seven years.",
+       "id": "Jack sudah tujuh tahun tinggal di Bali (masih di sana)."
+      },
+      {
+       "en": "Jack lived in Bali for seven years.",
+       "id": "Jack pernah tinggal di Bali selama tujuh tahun (sekarang tidak)."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "We ___ Rina at the party last Saturday.",
+     "choices": [
+      "have seen",
+      "saw"
+     ],
+     "correct": 1,
+     "why": "last Saturday adalah waktu yang sudah selesai, jadi past simple.",
+     "id": "u014-q01",
+     "ref": 14
+    },
+    {
+     "type": "verbform",
+     "prompt": "What time ___ (you / get) home last night?",
+     "answer": "did you get",
+     "accept": [],
+     "why": "Pertanyaan What time memakai past simple: did + subjek + kata kerja dasar.",
+     "id": "u014-q02",
+     "ref": 14
+    },
+    {
+     "type": "correct",
+     "prompt": "I have finished my work two hours ago.",
+     "isCorrect": false,
+     "answer": "I finished my work two hours ago.",
+     "accept": [],
+     "why": "ago menunjuk waktu yang sudah selesai, jadi pakai past simple.",
+     "id": "u014-q03",
+     "ref": 14
+    },
+    {
+     "type": "fill",
+     "prompt": "It ___ rained this week. Everything is very dry.",
+     "answer": "hasn't",
+     "accept": [
+      "has not"
+     ],
+     "why": "this week belum selesai, jadi present perfect. Semuanya kering, jadi negatif: hasn't.",
+     "id": "u014-q04",
+     "ref": 14
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Apakah kamu tinggal di desa waktu kecil?\"",
+     "tokens": [
+      "Did",
+      "you",
+      "live",
+      "in a village",
+      "when",
+      "you",
+      "were",
+      "a child?"
+     ],
+     "answer": "Did you live in a village when you were a child?",
+     "accept": [],
+     "why": "when you were a child adalah waktu yang sudah selesai, jadi past simple: Did you live ...?",
+     "id": "u014-q05",
+     "ref": 14
+    },
+    {
+     "type": "verbform",
+     "prompt": "My father ___ (work) in Surabaya from 2005 to 2015. Now he works in Jakarta.",
+     "answer": "worked",
+     "accept": [],
+     "why": "Periode 2005 sampai 2015 sudah selesai, jadi past simple.",
+     "id": "u014-q06",
+     "ref": 14
+    },
+    {
+     "type": "translate",
+     "source": "Saya belum melihat Andi hari ini.",
+     "answer": "I have not seen Andi today",
+     "accept": [
+      "I have not seen Andi yet today"
+     ],
+     "why": "today belum selesai, jadi present perfect: haven't seen.",
+     "id": "u014-q07",
+     "ref": 14
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan awal dan akhir kalimat.",
+     "pairs": [
+      [
+       "I've been working here",
+       "since 2015."
+      ],
+      [
+       "I worked there",
+       "from 2010 to 2014."
+      ],
+      [
+       "Did you see the news",
+       "last night?"
+      ],
+      [
+       "It's been a great holiday.",
+       "I've really enjoyed it."
+      ]
+     ],
+     "why": "Periode sampai sekarang memakai present perfect; waktu yang sudah selesai memakai past simple.",
+     "id": "u014-q08",
+     "ref": 14
+    },
+    {
+     "type": "choice",
+     "prompt": "When ___?",
+     "choices": [
+      "have you arrived",
+      "did you arrive"
+     ],
+     "correct": 1,
+     "why": "Pertanyaan When memakai past simple.",
+     "id": "u014-q09",
+     "ref": 14
+    },
+    {
+     "type": "correct",
+     "prompt": "I have visited Bali in 2019.",
+     "isCorrect": false,
+     "answer": "I visited Bali in 2019.",
+     "accept": [],
+     "why": "in 2019 adalah waktu yang sudah selesai, jadi pakai past simple.",
+     "id": "u014-q10",
+     "ref": 14
+    }
+   ]
+  }
+ ]
+}

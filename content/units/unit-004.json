@@ -1,0 +1,195 @@
+{
+ "unit": 4,
+ "path": 1,
+ "title": "Present continuous and present simple 2 (I am doing and I do)",
+ "titleId": "Kata kerja yang tidak dipakai -ing",
+ "bookPages": "8-9",
+ "lessons": [
+  {
+   "id": "u004-l1",
+   "cards": [
+    {
+     "text": "Beberapa kata kerja menyatakan keadaan, bukan kegiatan, sehingga biasanya tidak dipakai dalam bentuk continuous: like, want, need, prefer, know, understand, believe, remember, mean, belong, seem, contain.",
+     "examples": [
+      {
+       "en": "I need some help.",
+       "id": "Saya butuh bantuan."
+      },
+      {
+       "en": "Do you understand what I mean?",
+       "id": "Apakah kamu mengerti maksud saya?"
+      }
+     ],
+     "trap": "Jangan katakan I'm needing atau I'm knowing. Katakan I need, I know."
+    },
+    {
+     "text": "think yang berarti \"berpendapat\" memakai present simple. think yang berarti \"sedang mempertimbangkan\" boleh memakai continuous.",
+     "examples": [
+      {
+       "en": "I think it's a good idea.",
+       "id": "Menurut saya itu ide bagus."
+      },
+      {
+       "en": "I'm thinking of moving to Bali.",
+       "id": "Saya sedang mempertimbangkan pindah ke Bali."
+      }
+     ]
+    },
+    {
+     "text": "see, hear, smell, taste biasanya memakai present simple. Untuk look dan feel yang menjelaskan keadaan sekarang, keduanya boleh.",
+     "examples": [
+      {
+       "en": "This cake tastes great.",
+       "id": "Kue ini rasanya enak sekali."
+      },
+      {
+       "en": "You look tired. / You're looking tired.",
+       "id": "Kamu kelihatan capek."
+      }
+     ]
+    },
+    {
+     "text": "am/is/are being + kata sifat = sedang bersikap begitu sekarang (perilaku yang bisa dikendalikan). Untuk sakit, lapar, capek, tidak memakai being.",
+     "examples": [
+      {
+       "en": "He's being rude today. He isn't usually like that.",
+       "id": "Hari ini dia bersikap kasar. Biasanya tidak begitu."
+      },
+      {
+       "en": "She is ill.",
+       "id": "Dia sedang sakit. (bukan is being ill)"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "I ___ what you mean.",
+     "choices": [
+      "understand",
+      "am understanding"
+     ],
+     "correct": 0,
+     "why": "understand menyatakan keadaan, jadi tidak dipakai dalam bentuk continuous.",
+     "id": "u004-q01",
+     "ref": 4
+    },
+    {
+     "type": "verbform",
+     "prompt": "This bag ___ (belong) to my sister.",
+     "answer": "belongs",
+     "accept": [],
+     "why": "belong adalah kata kerja keadaan, jadi present simple. This bag = it, jadi belongs.",
+     "id": "u004-q02",
+     "ref": 4
+    },
+    {
+     "type": "correct",
+     "prompt": "I'm wanting a glass of water.",
+     "isCorrect": false,
+     "answer": "I want a glass of water.",
+     "accept": [],
+     "why": "want tidak dipakai dalam bentuk continuous.",
+     "id": "u004-q03",
+     "ref": 4
+    },
+    {
+     "type": "fill",
+     "prompt": "I ___ thinking of selling my motorbike.",
+     "answer": "am",
+     "accept": [
+      "'m"
+     ],
+     "why": "think of di sini berarti \"mempertimbangkan\", jadi boleh continuous: I am thinking of.",
+     "id": "u004-q04",
+     "ref": 4
+    },
+    {
+     "type": "choice",
+     "prompt": "What ___ of the new teacher?",
+     "choices": [
+      "do you think",
+      "are you thinking"
+     ],
+     "correct": 0,
+     "why": "Menanyakan pendapat memakai present simple: What do you think of ...?",
+     "id": "u004-q05",
+     "ref": 4
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Apakah kamu kenal pria itu?\"",
+     "tokens": [
+      "Do",
+      "you",
+      "know",
+      "that man?"
+     ],
+     "answer": "Do you know that man?",
+     "accept": [],
+     "why": "know adalah kata kerja keadaan, jadi pertanyaannya memakai Do you know, bukan Are you knowing.",
+     "id": "u004-q06",
+     "ref": 4
+    },
+    {
+     "type": "verbform",
+     "prompt": "Why ___ (you / be) so impolite today? You're usually very nice.",
+     "answer": "are you being",
+     "accept": [],
+     "why": "Ini perilaku saat ini yang tidak biasa, jadi pakai are you being + kata sifat.",
+     "id": "u004-q07",
+     "ref": 4
+    },
+    {
+     "type": "translate",
+     "source": "Sup ini rasanya enak.",
+     "answer": "This soup tastes good",
+     "accept": [
+      "This soup tastes nice",
+      "This soup tastes delicious",
+      "This soup tastes great"
+     ],
+     "why": "taste (rasanya) memakai present simple. This soup = it, jadi tastes.",
+     "id": "u004-q08",
+     "ref": 4
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan awal dan akhir kalimat.",
+     "pairs": [
+      [
+       "I think",
+       "that's a great idea."
+      ],
+      [
+       "She's thinking of",
+       "changing her job."
+      ],
+      [
+       "This coffee",
+       "smells wonderful."
+      ],
+      [
+       "Do you",
+       "see that bird over there?"
+      ]
+     ],
+     "why": "think = berpendapat (simple); thinking of = mempertimbangkan; smell dan see biasanya simple.",
+     "id": "u004-q09",
+     "ref": 4
+    },
+    {
+     "type": "correct",
+     "prompt": "You look tired today.",
+     "isCorrect": true,
+     "answer": "You look tired today.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar. Untuk keadaan sekarang, You look tired dan You're looking tired sama-sama boleh.",
+     "id": "u004-q10",
+     "ref": 4
+    }
+   ]
+  }
+ ]
+}

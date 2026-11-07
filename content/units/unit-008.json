@@ -1,0 +1,183 @@
+{
+ "unit": 8,
+ "path": 2,
+ "title": "Present perfect 2 (I have done)",
+ "titleId": "Pengalaman dan periode sampai sekarang",
+ "bookPages": "16-17",
+ "lessons": [
+  {
+   "id": "u008-l1",
+   "cards": [
+    {
+     "text": "Present perfect dipakai untuk pengalaman dalam hidup sampai sekarang, sering dengan ever (pernah) dan never (tidak pernah).",
+     "examples": [
+      {
+       "en": "Have you ever eaten durian?",
+       "id": "Pernahkah kamu makan durian?"
+      },
+      {
+       "en": "I've never been to Europe.",
+       "id": "Saya belum pernah ke Eropa."
+      }
+     ]
+    },
+    {
+     "text": "Present perfect juga untuk periode yang masih berlangsung sampai sekarang: today, this week, this year, recently, so far, since ...",
+     "examples": [
+      {
+       "en": "I've drunk three cups of tea today.",
+       "id": "Hari ini saya sudah minum tiga cangkir teh."
+      },
+      {
+       "en": "We haven't had any problems so far.",
+       "id": "Sejauh ini kami tidak mengalami masalah."
+      }
+     ]
+    },
+    {
+     "text": "Setelah It's the first time / the second time ..., pakai present perfect.",
+     "examples": [
+      {
+       "en": "It's the first time I've flown in a plane.",
+       "id": "Ini pertama kalinya saya naik pesawat."
+      }
+     ],
+     "trap": "Jangan pakai present simple: bukan It's the first time I fly."
+    }
+   ],
+   "questions": [
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Pernahkah kamu naik kuda?\"",
+     "tokens": [
+      "Have",
+      "you",
+      "ever",
+      "ridden",
+      "a horse?"
+     ],
+     "answer": "Have you ever ridden a horse?",
+     "accept": [],
+     "why": "Pengalaman dalam hidup: Have + you + ever + past participle (ridden).",
+     "id": "u008-q01",
+     "ref": 8
+    },
+    {
+     "type": "verbform",
+     "prompt": "I ___ (never / see) snow.",
+     "answer": "have never seen",
+     "accept": [
+      "'ve never seen"
+     ],
+     "why": "Pengalaman hidup sampai sekarang memakai present perfect: have never + past participle.",
+     "id": "u008-q02",
+     "ref": 8
+    },
+    {
+     "type": "choice",
+     "prompt": "This is the first time I ___ sushi.",
+     "choices": [
+      "eat",
+      "have eaten",
+      "am eating"
+     ],
+     "correct": 1,
+     "why": "Setelah This is the first time, pakai present perfect: have eaten.",
+     "id": "u008-q03",
+     "ref": 8
+    },
+    {
+     "type": "fill",
+     "prompt": "Have you ___ been to Lombok?",
+     "answer": "ever",
+     "accept": [],
+     "why": "ever (pernah) dipakai dalam pertanyaan tentang pengalaman, di antara have/has dan past participle.",
+     "id": "u008-q04",
+     "ref": 8
+    },
+    {
+     "type": "correct",
+     "prompt": "It's the second time I lose my phone this year.",
+     "isCorrect": false,
+     "answer": "It is the second time I have lost my phone this year.",
+     "accept": [],
+     "why": "Setelah It's the second time, pakai present perfect.",
+     "id": "u008-q05",
+     "ref": 8
+    },
+    {
+     "type": "verbform",
+     "prompt": "Dewi ___ (read) that novel three times.",
+     "answer": "has read",
+     "accept": [],
+     "why": "Pengalaman sampai sekarang (berapa kali) memakai present perfect. Dewi = she, jadi has read.",
+     "id": "u008-q06",
+     "ref": 8
+    },
+    {
+     "type": "translate",
+     "source": "Saya belum pernah bertemu dengannya.",
+     "answer": "I have never met him",
+     "accept": [
+      "I have never met him before",
+      "I have never met her",
+      "I have never met her before",
+      "I have not met him before",
+      "I have not met her before"
+     ],
+     "why": "Pengalaman hidup sampai sekarang memakai present perfect: have never met.",
+     "id": "u008-q07",
+     "ref": 8
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan pertanyaan dengan jawabannya.",
+     "pairs": [
+      [
+       "Have you ever been to Bali?",
+       "Yes, I've been there twice."
+      ],
+      [
+       "Has Rudi called you recently?",
+       "No, he hasn't called me for weeks."
+      ],
+      [
+       "How many cups of coffee have you had today?",
+       "Only one so far."
+      ],
+      [
+       "What's the best film you've ever seen?",
+       "I think it's Laskar Pelangi."
+      ]
+     ],
+     "why": "Semua pertanyaan membahas periode sampai sekarang (ever, recently, today), jadi memakai present perfect.",
+     "id": "u008-q08",
+     "ref": 8
+    },
+    {
+     "type": "choice",
+     "prompt": "We ___ a lot of interesting people since we arrived.",
+     "choices": [
+      "met",
+      "have met",
+      "are meeting"
+     ],
+     "correct": 1,
+     "why": "since we arrived = sejak tiba sampai sekarang, jadi present perfect.",
+     "id": "u008-q09",
+     "ref": 8
+    },
+    {
+     "type": "correct",
+     "prompt": "I haven't seen Tom this morning.",
+     "isCorrect": true,
+     "answer": "I haven't seen Tom this morning.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar jika sekarang masih pagi: periode this morning belum selesai, jadi present perfect.",
+     "id": "u008-q10",
+     "ref": 8
+    }
+   ]
+  }
+ ]
+}

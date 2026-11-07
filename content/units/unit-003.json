@@ -1,0 +1,185 @@
+{
+ "unit": 3,
+ "path": 1,
+ "title": "Present continuous and present simple 1 (I am doing and I do)",
+ "titleId": "Sedang terjadi vs. kebiasaan",
+ "bookPages": "6-7",
+ "lessons": [
+  {
+   "id": "u003-l1",
+   "cards": [
+    {
+     "text": "Present continuous (am/is/are + -ing) untuk hal yang sedang terjadi sekarang atau di sekitar sekarang. Present simple untuk hal umum atau yang terjadi berulang.",
+     "examples": [
+      {
+       "en": "The kettle is boiling. Turn it off.",
+       "id": "Air di ketel sedang mendidih. Matikan."
+      },
+      {
+       "en": "Water boils at 100 degrees Celsius.",
+       "id": "Air mendidih pada suhu 100 derajat Celsius."
+      }
+     ]
+    },
+    {
+     "text": "Present continuous untuk situasi sementara, present simple untuk situasi tetap.",
+     "examples": [
+      {
+       "en": "I'm living with my aunt this month.",
+       "id": "Bulan ini saya tinggal (sementara) bersama tante."
+      },
+      {
+       "en": "My aunt lives in Bandung.",
+       "id": "Tante saya tinggal di Bandung."
+      }
+     ]
+    },
+    {
+     "text": "always + present simple = setiap kali. always + present continuous = terlalu sering, biasanya untuk mengeluh.",
+     "examples": [
+      {
+       "en": "Rudi always walks to work.",
+       "id": "Rudi selalu berjalan kaki ke kantor."
+      },
+      {
+       "en": "You're always losing your phone!",
+       "id": "Kamu selalu saja menghilangkan HP-mu!"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "Listen! Somebody ___ at the door.",
+     "choices": [
+      "knocks",
+      "is knocking"
+     ],
+     "correct": 1,
+     "why": "\"Listen!\" menunjukkan sesuatu yang sedang terjadi sekarang, jadi present continuous.",
+     "id": "u003-q01",
+     "ref": 3
+    },
+    {
+     "type": "verbform",
+     "prompt": "Rudi ___ (speak) three languages.",
+     "answer": "speaks",
+     "accept": [],
+     "why": "Kemampuan atau fakta umum memakai present simple. Rudi = he, jadi speaks.",
+     "id": "u003-q02",
+     "ref": 3
+    },
+    {
+     "type": "correct",
+     "prompt": "How often are you going to the gym?",
+     "isCorrect": false,
+     "answer": "How often do you go to the gym?",
+     "accept": [],
+     "why": "Pertanyaan \"seberapa sering\" membahas kebiasaan, jadi memakai present simple.",
+     "id": "u003-q03",
+     "ref": 3
+    },
+    {
+     "type": "fill",
+     "prompt": "Be quiet! The baby ___ sleeping.",
+     "answer": "is",
+     "accept": [],
+     "why": "Bayinya sedang tidur sekarang, jadi is + -ing.",
+     "id": "u003-q04",
+     "ref": 3
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Apa yang biasanya kamu lakukan di akhir pekan?\"",
+     "tokens": [
+      "What",
+      "do",
+      "you",
+      "usually",
+      "do",
+      "at the weekend?"
+     ],
+     "answer": "What do you usually do at the weekend?",
+     "accept": [],
+     "why": "Kebiasaan memakai present simple: What + do + you + usually + do. Do yang kedua adalah kata kerja utama (melakukan).",
+     "id": "u003-q05",
+     "ref": 3
+    },
+    {
+     "type": "verbform",
+     "prompt": "I ___ (stay) at a hotel until I find an apartment.",
+     "answer": "am staying",
+     "accept": [
+      "'m staying"
+     ],
+     "why": "Situasi sementara memakai present continuous.",
+     "id": "u003-q06",
+     "ref": 3
+    },
+    {
+     "type": "translate",
+     "source": "Saya biasanya naik bus ke kantor.",
+     "answer": "I usually go to work by bus",
+     "accept": [
+      "I usually go to the office by bus",
+      "I usually take the bus to work",
+      "I usually take the bus to the office",
+      "I usually take a bus to work",
+      "I usually take a bus to the office"
+     ],
+     "why": "Kebiasaan memakai present simple dengan usually sebelum kata kerja.",
+     "id": "u003-q07",
+     "ref": 3
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan subjek dengan lanjutan kalimatnya.",
+     "pairs": [
+      [
+       "Water",
+       "boils at 100 degrees."
+      ],
+      [
+       "Look! The children",
+       "are playing in the rain."
+      ],
+      [
+       "My parents",
+       "live in Surabaya."
+      ],
+      [
+       "I",
+       "am living with my parents until June."
+      ]
+     ],
+     "why": "Fakta umum dan situasi tetap memakai present simple; hal yang sedang terjadi atau sementara memakai present continuous.",
+     "id": "u003-q08",
+     "ref": 3
+    },
+    {
+     "type": "choice",
+     "prompt": "Andi is never late. He ___ on time.",
+     "choices": [
+      "always arrives",
+      "is always arriving"
+     ],
+     "correct": 0,
+     "why": "always + present simple = setiap kali. Bentuk always + -ing dipakai untuk mengeluh tentang hal yang terlalu sering.",
+     "id": "u003-q09",
+     "ref": 3
+    },
+    {
+     "type": "correct",
+     "prompt": "I must go now. It gets late.",
+     "isCorrect": false,
+     "answer": "I must go now. It is getting late.",
+     "accept": [],
+     "why": "Hari sedang bertambah malam saat ini (perubahan yang sedang terjadi), jadi pakai present continuous.",
+     "id": "u003-q10",
+     "ref": 3
+    }
+   ]
+  }
+ ]
+}

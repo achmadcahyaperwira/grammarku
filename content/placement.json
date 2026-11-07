@@ -1,0 +1,244 @@
+{
+ "note": "Soal baru dengan format seperti Study guide English Grammar in Use. Rekomendasi = unit dari soal pertama yang salah.",
+ "questions": [
+  {
+   "id": "p01",
+   "unit": 3,
+   "type": "choice",
+   "prompt": "Be quiet, please. The baby ___.",
+   "choices": [
+    "sleeps",
+    "is sleeping",
+    "sleep"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p02",
+   "unit": 4,
+   "type": "choice",
+   "prompt": "I ___ what you mean.",
+   "choices": [
+    "am understanding",
+    "understand",
+    "understanding"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p03",
+   "unit": 6,
+   "type": "choice",
+   "prompt": "I ___ along the street when I saw an old friend.",
+   "choices": [
+    "walked",
+    "was walking",
+    "am walking"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p04",
+   "unit": 7,
+   "type": "choice",
+   "prompt": "James isn't here. He ___ to the bank.",
+   "choices": [
+    "has been",
+    "has gone",
+    "is gone"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p05",
+   "unit": 12,
+   "type": "choice",
+   "prompt": "I've been waiting here ___ two hours.",
+   "choices": [
+    "since",
+    "for",
+    "from"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p06",
+   "unit": 14,
+   "type": "choice",
+   "prompt": "We ___ to Bali last year.",
+   "choices": [
+    "have gone",
+    "went",
+    "have been"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p07",
+   "unit": 21,
+   "type": "choice",
+   "prompt": "Your bag looks heavy. ___ carry it for you.",
+   "choices": [
+    "I carry",
+    "I'll carry",
+    "I'm carrying"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p08",
+   "unit": 32,
+   "type": "choice",
+   "prompt": "We have lots of time. You ___ hurry.",
+   "choices": [
+    "mustn't",
+    "don't need to",
+    "can't"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p09",
+   "unit": 39,
+   "type": "choice",
+   "prompt": "If I ___ more money, I would buy a new phone.",
+   "choices": [
+    "have",
+    "had",
+    "will have"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p10",
+   "unit": 42,
+   "type": "choice",
+   "prompt": "This bridge ___ in 1990.",
+   "choices": [
+    "built",
+    "was built",
+    "has built"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p11",
+   "unit": 48,
+   "type": "choice",
+   "prompt": "Rina ___ me that she was busy.",
+   "choices": [
+    "said",
+    "told",
+    "talked"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p12",
+   "unit": 50,
+   "type": "choice",
+   "prompt": "Excuse me, do you know where ___?",
+   "choices": [
+    "is the station",
+    "the station is",
+    "does the station is"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p13",
+   "unit": 53,
+   "type": "choice",
+   "prompt": "I enjoy ___ in the morning.",
+   "choices": [
+    "to run",
+    "running",
+    "run"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p14",
+   "unit": 70,
+   "type": "choice",
+   "prompt": "Can you give me some ___ about the course?",
+   "choices": [
+    "information",
+    "informations",
+    "an information"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "p15",
+   "unit": 85,
+   "type": "choice",
+   "prompt": "I didn't buy ___ bread.",
+   "choices": [
+    "some",
+    "any",
+    "no"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p16",
+   "unit": 92,
+   "type": "choice",
+   "prompt": "The woman ___ lives next door is a doctor.",
+   "choices": [
+    "which",
+    "who",
+    "whose"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p17",
+   "unit": 98,
+   "type": "choice",
+   "prompt": "The film was very long. I was ___.",
+   "choices": [
+    "boring",
+    "bored"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p18",
+   "unit": 113,
+   "type": "choice",
+   "prompt": "___ the rain, we went for a walk.",
+   "choices": [
+    "Although",
+    "Despite",
+    "Even"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p19",
+   "unit": 121,
+   "type": "choice",
+   "prompt": "The meeting is ___ Monday morning.",
+   "choices": [
+    "at",
+    "on",
+    "in"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "p20",
+   "unit": 137,
+   "type": "choice",
+   "prompt": "These shoes are too small. I'm going to ___.",
+   "choices": [
+    "take off them",
+    "take them off",
+    "take off it"
+   ],
+   "correct": 1
+  }
+ ]
+}

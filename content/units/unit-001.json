@@ -1,0 +1,184 @@
+{
+ "unit": 1,
+ "path": 1,
+ "title": "Present continuous (I am doing)",
+ "titleId": "Sedang terjadi sekarang",
+ "bookPages": "2-3",
+ "lessons": [
+  {
+   "id": "u001-l1",
+   "cards": [
+    {
+     "text": "Bentuk present continuous: am/is/are + kata kerja-ing. Dipakai untuk kegiatan yang sedang berlangsung saat kita bicara dan belum selesai.",
+     "examples": [
+      {
+       "en": "I'm cooking dinner now.",
+       "id": "Saya sedang memasak makan malam sekarang."
+      },
+      {
+       "en": "They are playing football in the park.",
+       "id": "Mereka sedang bermain sepak bola di taman."
+      }
+     ],
+     "trap": "Dalam bahasa Indonesia cukup memakai kata \"sedang\". Dalam bahasa Inggris, am/is/are wajib ada: She is working, bukan She working."
+    },
+    {
+     "text": "Present continuous juga dipakai untuk kegiatan yang sedang dalam proses di sekitar waktu sekarang, walaupun tidak sedang dilakukan persis saat bicara. Sering muncul dengan today, this week, this year.",
+     "examples": [
+      {
+       "en": "I'm reading a great novel at the moment.",
+       "id": "Saya sedang membaca novel bagus akhir-akhir ini."
+      },
+      {
+       "en": "Dewi is learning Japanese this year.",
+       "id": "Dewi sedang belajar bahasa Jepang tahun ini."
+      }
+     ]
+    },
+    {
+     "text": "Untuk perubahan yang sedang terjadi, pakai present continuous dengan kata kerja seperti getting, becoming, changing, improving, increasing, rising, starting.",
+     "examples": [
+      {
+       "en": "The weather is getting colder.",
+       "id": "Cuacanya makin dingin."
+      },
+      {
+       "en": "Prices are rising every month.",
+       "id": "Harga-harga terus naik setiap bulan."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "Please be quiet. I ___ to study.",
+     "choices": [
+      "try",
+      "am trying",
+      "tries"
+     ],
+     "correct": 1,
+     "why": "Kegiatannya sedang berlangsung saat bicara, jadi pakai am + -ing: I am trying.",
+     "id": "u001-q01",
+     "ref": 1
+    },
+    {
+     "type": "verbform",
+     "prompt": "Look! It ___ (start) to rain.",
+     "answer": "is starting",
+     "accept": [
+      "'s starting"
+     ],
+     "why": "Hujan sedang mulai turun sekarang, jadi pakai is + -ing.",
+     "id": "u001-q02",
+     "ref": 1
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Kenapa kamu tertawa?\"",
+     "tokens": [
+      "Why",
+      "are",
+      "you",
+      "laughing?"
+     ],
+     "answer": "Why are you laughing?",
+     "accept": [],
+     "why": "Pertanyaan present continuous: kata tanya + are + you + kata kerja-ing.",
+     "id": "u001-q03",
+     "ref": 1
+    },
+    {
+     "type": "fill",
+     "prompt": "My sister ___ studying law at university this year.",
+     "answer": "is",
+     "accept": [],
+     "why": "Kegiatan yang sedang berlangsung tahun ini memakai is + -ing. Subjeknya my sister (dia), jadi is.",
+     "id": "u001-q04",
+     "ref": 1
+    },
+    {
+     "type": "correct",
+     "prompt": "The children is sleeping now.",
+     "isCorrect": false,
+     "answer": "The children are sleeping now.",
+     "accept": [],
+     "why": "Children adalah bentuk jamak, jadi pakai are, bukan is.",
+     "id": "u001-q05",
+     "ref": 1
+    },
+    {
+     "type": "translate",
+     "source": "Kami sedang menunggu bus.",
+     "answer": "We are waiting for the bus",
+     "accept": [
+      "We are waiting for a bus"
+     ],
+     "why": "\"Sedang menunggu\" = are waiting. Ingat: wait for (menunggu sesuatu).",
+     "id": "u001-q06",
+     "ref": 1
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan kalimat yang saling berkaitan.",
+     "pairs": [
+      [
+       "I can't talk now.",
+       "I'm driving."
+      ],
+      [
+       "Take an umbrella.",
+       "It's raining."
+      ],
+      [
+       "Nina isn't at the office today.",
+       "She's visiting her parents."
+      ],
+      [
+       "Let's go inside.",
+       "It's getting cold."
+      ]
+     ],
+     "why": "Setiap kalimat kanan menjelaskan sesuatu yang sedang terjadi sekarang (present continuous).",
+     "id": "u001-q07",
+     "ref": 1
+    },
+    {
+     "type": "verbform",
+     "prompt": "Turn off the TV, please. I ___ (not / watch) it.",
+     "answer": "am not watching",
+     "accept": [
+      "'m not watching"
+     ],
+     "why": "Bentuk negatif present continuous: am/is/are + not + -ing.",
+     "id": "u001-q08",
+     "ref": 1
+    },
+    {
+     "type": "choice",
+     "prompt": "Ari's English ___ better. He practises a lot these days.",
+     "choices": [
+      "get",
+      "is getting",
+      "are getting"
+     ],
+     "correct": 1,
+     "why": "Perubahan yang sedang terjadi memakai present continuous. Subjeknya Ari's English (tunggal), jadi is getting.",
+     "id": "u001-q09",
+     "ref": 1
+    },
+    {
+     "type": "correct",
+     "prompt": "I'm staying with a friend until I find a flat.",
+     "isCorrect": true,
+     "answer": "I'm staying with a friend until I find a flat.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: ini kegiatan yang sedang berlangsung sekarang dan belum selesai.",
+     "id": "u001-q10",
+     "ref": 1
+    }
+   ]
+  }
+ ]
+}

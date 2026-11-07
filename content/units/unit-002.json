@@ -1,0 +1,191 @@
+{
+ "unit": 2,
+ "path": 1,
+ "title": "Present simple (I do)",
+ "titleId": "Kebiasaan dan fakta umum",
+ "bookPages": "4-5",
+ "lessons": [
+  {
+   "id": "u002-l1",
+   "cards": [
+    {
+     "text": "Present simple dipakai untuk kebiasaan, hal yang terjadi berulang kali, dan fakta umum. Bentuknya: I/you/we/they work, tetapi he/she/it works (tambah -s atau -es).",
+     "examples": [
+      {
+       "en": "Budi works in a bank.",
+       "id": "Budi bekerja di bank."
+      },
+      {
+       "en": "The sun rises in the east.",
+       "id": "Matahari terbit di timur."
+      }
+     ],
+     "trap": "Penutur Indonesia sering lupa -s untuk he/she/it: she likes, he goes, it rains."
+    },
+    {
+     "text": "Untuk kalimat tanya dan negatif, pakai do/does dan kata kerja bentuk dasar (tanpa -s).",
+     "examples": [
+      {
+       "en": "Does your brother speak English?",
+       "id": "Apakah kakakmu bisa berbahasa Inggris?"
+      },
+      {
+       "en": "He doesn't eat meat.",
+       "id": "Dia tidak makan daging."
+      },
+      {
+       "en": "What does this word mean?",
+       "id": "Apa arti kata ini?"
+      }
+     ],
+     "trap": "Setelah does/doesn't, kata kerjanya tidak memakai -s: doesn't eat, bukan doesn't eats."
+    },
+    {
+     "text": "Present simple juga dipakai untuk mengatakan seberapa sering sesuatu dilakukan (always, usually, often, sometimes, never, every day), dan untuk ungkapan seperti I promise, I suggest, I agree, I apologise.",
+     "examples": [
+      {
+       "en": "I usually get up at six.",
+       "id": "Saya biasanya bangun jam enam."
+      },
+      {
+       "en": "How often do you go swimming?",
+       "id": "Seberapa sering kamu berenang?"
+      },
+      {
+       "en": "I promise I'll call you tonight.",
+       "id": "Saya janji akan meneleponmu nanti malam."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "verbform",
+     "prompt": "My father ___ (work) in a hospital.",
+     "answer": "works",
+     "accept": [],
+     "why": "Kebiasaan atau pekerjaan tetap memakai present simple. Subjek my father (he), jadi tambah -s: works.",
+     "id": "u002-q01",
+     "ref": 2
+    },
+    {
+     "type": "choice",
+     "prompt": "___ your brother live in Jakarta?",
+     "choices": [
+      "Do",
+      "Does",
+      "Is"
+     ],
+     "correct": 1,
+     "why": "Pertanyaan present simple dengan subjek he/she/it memakai Does + kata kerja dasar.",
+     "id": "u002-q02",
+     "ref": 2
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Seberapa sering kamu berolahraga?\"",
+     "tokens": [
+      "How often",
+      "do",
+      "you",
+      "exercise?"
+     ],
+     "answer": "How often do you exercise?",
+     "accept": [],
+     "why": "Pola pertanyaan: How often + do + subjek + kata kerja dasar.",
+     "id": "u002-q03",
+     "ref": 2
+    },
+    {
+     "type": "correct",
+     "prompt": "She don't like coffee.",
+     "isCorrect": false,
+     "answer": "She doesn't like coffee.",
+     "accept": [],
+     "why": "Untuk she/he/it, bentuk negatifnya doesn't, bukan don't.",
+     "id": "u002-q04",
+     "ref": 2
+    },
+    {
+     "type": "fill",
+     "prompt": "Bananas ___ grow in very cold countries.",
+     "answer": "don't",
+     "accept": [
+      "do not"
+     ],
+     "why": "Ini fakta umum, jadi present simple. Subjek jamak (bananas), jadi negatifnya don't.",
+     "id": "u002-q05",
+     "ref": 2
+    },
+    {
+     "type": "translate",
+     "source": "Dia tidak minum kopi.",
+     "answer": "He does not drink coffee",
+     "accept": [
+      "She does not drink coffee"
+     ],
+     "why": "Kebiasaan memakai present simple. Untuk he/she, negatifnya doesn't + kata kerja dasar.",
+     "id": "u002-q06",
+     "ref": 2
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan subjek dengan lanjutan kalimatnya.",
+     "pairs": [
+      [
+       "A dentist",
+       "looks after people's teeth."
+      ],
+      [
+       "Bees",
+       "make honey."
+      ],
+      [
+       "A pilot",
+       "flies planes."
+      ],
+      [
+       "Farmers",
+       "grow food."
+      ]
+     ],
+     "why": "Present simple untuk fakta umum. Subjek tunggal memakai -s (looks, flies), subjek jamak tidak (make, grow).",
+     "id": "u002-q07",
+     "ref": 2
+    },
+    {
+     "type": "verbform",
+     "prompt": "What time ___ (the bank / open)?",
+     "answer": "does the bank open",
+     "accept": [],
+     "why": "Pertanyaan present simple: does + subjek + kata kerja dasar. The bank = it, jadi does.",
+     "id": "u002-q08",
+     "ref": 2
+    },
+    {
+     "type": "choice",
+     "prompt": "I ___ you take a taxi. It's very late.",
+     "choices": [
+      "suggest",
+      "am suggesting",
+      "suggests"
+     ],
+     "correct": 0,
+     "why": "Untuk ungkapan seperti I suggest, I promise, I agree, kita memakai present simple, bukan bentuk -ing.",
+     "id": "u002-q09",
+     "ref": 2
+    },
+    {
+     "type": "correct",
+     "prompt": "My parents live in a small town.",
+     "isCorrect": true,
+     "answer": "My parents live in a small town.",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: tempat tinggal tetap memakai present simple, dan subjek jamak tidak memakai -s.",
+     "id": "u002-q10",
+     "ref": 2
+    }
+   ]
+  }
+ ]
+}

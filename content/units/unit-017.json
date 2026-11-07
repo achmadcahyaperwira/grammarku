@@ -1,0 +1,184 @@
+{
+ "unit": 17,
+ "path": 2,
+ "title": "have and have got",
+ "titleId": "have dan have got",
+ "bookPages": "34-35",
+ "lessons": [
+  {
+   "id": "u017-l1",
+   "cards": [
+    {
+     "text": "Untuk kepemilikan, hubungan keluarga, penyakit, dan janji temu, have dan have got sama artinya. Bentuk ini tidak dipakai dengan -ing.",
+     "examples": [
+      {
+       "en": "I have a sister. / I've got a sister.",
+       "id": "Saya punya satu saudara perempuan."
+      },
+      {
+       "en": "She has a headache. / She's got a headache.",
+       "id": "Dia sakit kepala."
+      }
+     ],
+     "trap": "Bukan We're having a nice room. Untuk lampau pakai had (tanpa got): I had long hair."
+    },
+    {
+     "text": "Kalimat tanya dan negatif: Do you have ...? / Have you got ...? dan I don't have ... / I haven't got .... Untuk lampau pakai did/didn't.",
+     "examples": [
+      {
+       "en": "Do you have any questions? / Have you got any questions?",
+       "id": "Ada pertanyaan?"
+      },
+      {
+       "en": "Did you have a car when you lived in Bali?",
+       "id": "Apakah kamu punya mobil waktu tinggal di Bali?"
+      }
+     ]
+    },
+    {
+     "text": "have (tanpa got) juga dipakai untuk kegiatan dan pengalaman: have breakfast, have a shower, have a rest, have a party, have a good time. Ungkapan ini boleh memakai -ing, dan kalimat tanya/negatifnya memakai do/does/did.",
+     "examples": [
+      {
+       "en": "We're having lunch now.",
+       "id": "Kami sedang makan siang."
+      },
+      {
+       "en": "I don't usually have breakfast.",
+       "id": "Saya biasanya tidak sarapan."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "choice",
+     "prompt": "___ any brothers or sisters?",
+     "choices": [
+      "Do you have",
+      "Are you having",
+      "Does you have"
+     ],
+     "correct": 0,
+     "why": "Untuk kepemilikan dan hubungan keluarga, pakai Do you have (atau Have you got), tidak memakai -ing.",
+     "id": "u017-q01",
+     "ref": 17
+    },
+    {
+     "type": "verbform",
+     "prompt": "Lisa ___ (have) long hair when she was a child.",
+     "answer": "had",
+     "accept": [],
+     "why": "Bentuk lampau have untuk kepemilikan adalah had (tanpa got).",
+     "id": "u017-q02",
+     "ref": 17
+    },
+    {
+     "type": "correct",
+     "prompt": "We're having a nice room in this hotel.",
+     "isCorrect": false,
+     "answer": "We have a nice room in this hotel.",
+     "accept": [
+      "We've got a nice room in this hotel."
+     ],
+     "why": "have yang berarti \"punya\" tidak dipakai dengan -ing.",
+     "id": "u017-q03",
+     "ref": 17
+    },
+    {
+     "type": "fill",
+     "prompt": "I can't come to work today. I've ___ a bad cold.",
+     "answer": "got",
+     "accept": [],
+     "why": "Untuk penyakit, have got sama dengan have: I've got a bad cold.",
+     "id": "u017-q04",
+     "ref": 17
+    },
+    {
+     "type": "order",
+     "prompt": "Susun kalimat: \"Saya biasanya tidak sarapan.\"",
+     "tokens": [
+      "I",
+      "don't",
+      "usually",
+      "have",
+      "breakfast."
+     ],
+     "answer": "I don't usually have breakfast.",
+     "accept": [],
+     "why": "have breakfast adalah kegiatan, jadi negatifnya memakai don't (bukan haven't).",
+     "id": "u017-q05",
+     "ref": 17
+    },
+    {
+     "type": "verbform",
+     "prompt": "___ (you / have) a car when you lived in Bali?",
+     "answer": "Did you have",
+     "accept": [],
+     "why": "Pertanyaan lampau tentang kepemilikan memakai Did you have.",
+     "id": "u017-q06",
+     "ref": 17
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan awal dan akhir kalimat.",
+     "pairs": [
+      [
+       "Did you have",
+       "a good time at the party?"
+      ],
+      [
+       "I've got",
+       "a headache. Can I lie down?"
+      ],
+      [
+       "We're having",
+       "lunch now. Can I call you back?"
+      ],
+      [
+       "Has she got",
+       "any children?"
+      ]
+     ],
+     "why": "have got untuk kepemilikan dan penyakit; have untuk kegiatan (boleh -ing); lampau memakai did.",
+     "id": "u017-q07",
+     "ref": 17
+    },
+    {
+     "type": "translate",
+     "source": "Dia punya dua saudara laki-laki.",
+     "answer": "He has two brothers",
+     "accept": [
+      "He has got two brothers",
+      "She has two brothers",
+      "She has got two brothers"
+     ],
+     "why": "Hubungan keluarga memakai has atau has got (untuk he/she).",
+     "id": "u017-q08",
+     "ref": 17
+    },
+    {
+     "type": "choice",
+     "prompt": "Sometimes I ___ a sandwich for lunch.",
+     "choices": [
+      "have",
+      "have got"
+     ],
+     "correct": 0,
+     "why": "have yang berarti makan adalah kegiatan, jadi tidak memakai got.",
+     "id": "u017-q09",
+     "ref": 17
+    },
+    {
+     "type": "correct",
+     "prompt": "Had you trouble finding the hotel?",
+     "isCorrect": false,
+     "answer": "Did you have trouble finding the hotel?",
+     "accept": [],
+     "why": "have trouble adalah pengalaman, jadi kalimat tanyanya memakai did.",
+     "id": "u017-q10",
+     "ref": 17
+    }
+   ]
+  }
+ ]
+}

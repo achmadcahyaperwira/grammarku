@@ -1,0 +1,205 @@
+{
+ "unit": 7,
+ "path": 2,
+ "title": "Present perfect 1 (I have done)",
+ "titleId": "Sudah terjadi, hasilnya terasa sekarang",
+ "bookPages": "14-15",
+ "lessons": [
+  {
+   "id": "u007-l1",
+   "cards": [
+    {
+     "text": "Present perfect: have/has + past participle (bentuk ketiga: lost, finished, written). Dipakai jika kejadian di masa lalu punya hasil yang terasa sekarang.",
+     "examples": [
+      {
+       "en": "I've lost my wallet.",
+       "id": "Dompet saya hilang (dan sekarang belum ketemu)."
+      },
+      {
+       "en": "Rina has broken her leg.",
+       "id": "Kaki Rina patah (sekarang masih patah)."
+      }
+     ],
+     "trap": "Untuk he/she/it pakai has, untuk I/you/we/they pakai have."
+    },
+    {
+     "text": "Present perfect sering dipakai untuk menyampaikan kabar baru.",
+     "examples": [
+      {
+       "en": "Look! Somebody has broken the window.",
+       "id": "Lihat! Ada yang memecahkan jendela."
+      },
+      {
+       "en": "The station is closed. There has been a fire.",
+       "id": "Stasiunnya ditutup. Telah terjadi kebakaran."
+      }
+     ]
+    },
+    {
+     "text": "gone dan been berbeda: has gone to = pergi dan masih di sana; has been to = pernah pergi dan sudah kembali.",
+     "examples": [
+      {
+       "en": "Ani has gone to Bali.",
+       "id": "Ani pergi ke Bali (sekarang masih di sana)."
+      },
+      {
+       "en": "Ani has been to Bali.",
+       "id": "Ani pernah ke Bali (sekarang sudah pulang)."
+      }
+     ]
+    },
+    {
+     "text": "just = baru saja, already = sudah (lebih cepat dari dugaan), yet = sampai sekarang (dipakai di kalimat tanya dan negatif, biasanya di akhir kalimat).",
+     "examples": [
+      {
+       "en": "I've just had lunch.",
+       "id": "Saya baru saja makan siang."
+      },
+      {
+       "en": "She's already left.",
+       "id": "Dia sudah berangkat."
+      },
+      {
+       "en": "Have you finished yet? / I haven't finished yet.",
+       "id": "Sudah selesai? / Saya belum selesai."
+      }
+     ],
+     "trap": "Past simple juga boleh di contoh-contoh ini, misalnya I just had lunch (Unit 7D)."
+    }
+   ],
+   "questions": [
+    {
+     "type": "verbform",
+     "prompt": "I can't open the door. I ___ (lose) my key.",
+     "answer": "have lost",
+     "accept": [
+      "'ve lost"
+     ],
+     "why": "Kuncinya hilang dan sekarang masih belum ada, jadi present perfect: have + lost.",
+     "id": "u007-q01",
+     "ref": 7
+    },
+    {
+     "type": "choice",
+     "prompt": "Dimas isn't here. He ___ to the office.",
+     "choices": [
+      "has been",
+      "has gone"
+     ],
+     "correct": 1,
+     "why": "Dimas pergi dan sekarang masih di kantor, jadi has gone. Has been berarti sudah kembali.",
+     "id": "u007-q02",
+     "ref": 7
+    },
+    {
+     "type": "fill",
+     "prompt": "\"Are you hungry?\" \"No, I've ___ had lunch.\"",
+     "answer": "just",
+     "accept": [
+      "already"
+     ],
+     "why": "just (baru saja) atau already (sudah) dipakai di antara have dan past participle.",
+     "id": "u007-q03",
+     "ref": 7
+    },
+    {
+     "type": "order",
+     "prompt": "Susun pertanyaan: \"Apakah kamu sudah menyelesaikan PR-mu?\"",
+     "tokens": [
+      "Have",
+      "you",
+      "finished",
+      "your homework",
+      "yet?"
+     ],
+     "answer": "Have you finished your homework yet?",
+     "accept": [],
+     "why": "Pertanyaan present perfect: Have + you + past participle. yet di akhir kalimat tanya.",
+     "id": "u007-q04",
+     "ref": 7
+    },
+    {
+     "type": "correct",
+     "prompt": "She has went home.",
+     "isCorrect": false,
+     "answer": "She has gone home.",
+     "accept": [],
+     "why": "Setelah has dipakai past participle. Bentuk ketiga go adalah gone, bukan went.",
+     "id": "u007-q05",
+     "ref": 7
+    },
+    {
+     "type": "verbform",
+     "prompt": "Sinta ___ (not / reply) to my message yet.",
+     "answer": "hasn't replied",
+     "accept": [
+      "has not replied"
+     ],
+     "why": "Negatif present perfect dengan yet: hasn't + past participle.",
+     "id": "u007-q06",
+     "ref": 7
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan kata kerja dengan past participle-nya.",
+     "pairs": [
+      [
+       "go",
+       "gone"
+      ],
+      [
+       "write",
+       "written"
+      ],
+      [
+       "break",
+       "broken"
+      ],
+      [
+       "find",
+       "found"
+      ]
+     ],
+     "why": "Present perfect memakai past participle (bentuk ketiga). Daftarnya ada di Appendix 1 buku.",
+     "id": "u007-q07",
+     "ref": 7
+    },
+    {
+     "type": "translate",
+     "source": "Saya sudah membaca buku ini.",
+     "answer": "I have already read this book",
+     "accept": [
+      "I have read this book",
+      "I already read this book"
+     ],
+     "why": "Hasilnya terasa sekarang (saya tahu isinya), jadi present perfect: have read.",
+     "id": "u007-q08",
+     "ref": 7
+    },
+    {
+     "type": "choice",
+     "prompt": "Has it stopped raining ___?",
+     "choices": [
+      "already",
+      "yet",
+      "just"
+     ],
+     "correct": 1,
+     "why": "Dalam kalimat tanya yang menanyakan \"sudah atau belum\", pakai yet di akhir kalimat.",
+     "id": "u007-q09",
+     "ref": 7
+    },
+    {
+     "type": "correct",
+     "prompt": "Look! Someone has broke the window.",
+     "isCorrect": false,
+     "answer": "Look! Someone has broken the window.",
+     "accept": [],
+     "why": "Setelah has dipakai past participle: broken, bukan broke.",
+     "id": "u007-q10",
+     "ref": 7
+    }
+   ]
+  }
+ ]
+}

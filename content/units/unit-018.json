@@ -1,0 +1,180 @@
+{
+ "unit": 18,
+ "path": 2,
+ "title": "used to (do)",
+ "titleId": "Kebiasaan di masa lalu (used to)",
+ "bookPages": "36-37",
+ "lessons": [
+  {
+   "id": "u018-l1",
+   "cards": [
+    {
+     "text": "used to + kata kerja dasar: kebiasaan atau keadaan di masa lalu yang sekarang sudah tidak lagi.",
+     "examples": [
+      {
+       "en": "I used to play badminton every week.",
+       "id": "Dulu saya main bulu tangkis setiap minggu."
+      },
+      {
+       "en": "This shop used to be a cinema.",
+       "id": "Toko ini dulunya bioskop."
+      }
+     ]
+    },
+    {
+     "text": "used to hanya untuk masa lalu. Tidak ada bentuk sekarang I use to. Untuk sekarang, pakai present simple.",
+     "examples": [
+      {
+       "en": "We used to live in a village, but now we live in a city.",
+       "id": "Dulu kami tinggal di desa, sekarang di kota."
+      }
+     ],
+     "trap": "Bahasa Indonesia memakai \"dulu\". Dalam bahasa Inggris, \"dulu\" + kebiasaan = used to."
+    },
+    {
+     "text": "Kalimat tanya: Did you use to ...? Negatif: didn't use to ... (atau used not to ...).",
+     "examples": [
+      {
+       "en": "Did you use to walk to school?",
+       "id": "Dulu kamu berjalan kaki ke sekolah?"
+      },
+      {
+       "en": "I didn't use to like coffee.",
+       "id": "Dulu saya tidak suka kopi."
+      }
+     ],
+     "trap": "Jangan tertukar dengan be used to + -ing (sudah terbiasa), yang dibahas di Unit 61."
+    }
+   ],
+   "questions": [
+    {
+     "type": "fill",
+     "prompt": "I ___ to drink a lot of soda, but now I drink water.",
+     "answer": "used",
+     "accept": [],
+     "why": "Kebiasaan di masa lalu yang sudah berhenti: used to + kata kerja dasar.",
+     "id": "u018-q01",
+     "ref": 18
+    },
+    {
+     "type": "choice",
+     "prompt": "___ use to walk to school?",
+     "choices": [
+      "Did you",
+      "Do you",
+      "Were you"
+     ],
+     "correct": 0,
+     "why": "Pertanyaan used to memakai Did + subjek + use to.",
+     "id": "u018-q02",
+     "ref": 18
+    },
+    {
+     "type": "correct",
+     "prompt": "My brother use to play football, but he stopped.",
+     "isCorrect": false,
+     "answer": "My brother used to play football, but he stopped.",
+     "accept": [],
+     "why": "Untuk kebiasaan masa lalu, bentuknya used to, bukan use to.",
+     "id": "u018-q03",
+     "ref": 18
+    },
+    {
+     "type": "verbform",
+     "prompt": "There ___ (used to / be) a big tree in front of our house.",
+     "answer": "used to be",
+     "accept": [],
+     "why": "Keadaan di masa lalu yang sudah tidak ada: used to be.",
+     "id": "u018-q04",
+     "ref": 18
+    },
+    {
+     "type": "order",
+     "prompt": "Susun kalimat: \"Dulu saya tidak suka sayur.\"",
+     "tokens": [
+      "I",
+      "didn't",
+      "use to",
+      "like",
+      "vegetables."
+     ],
+     "answer": "I didn't use to like vegetables.",
+     "accept": [],
+     "why": "Negatif used to: didn't use to + kata kerja dasar.",
+     "id": "u018-q05",
+     "ref": 18
+    },
+    {
+     "type": "translate",
+     "source": "Dia dulu tinggal di Bandung.",
+     "answer": "He used to live in Bandung",
+     "accept": [
+      "She used to live in Bandung"
+     ],
+     "why": "\"Dulu\" + keadaan yang sudah berakhir = used to + kata kerja dasar.",
+     "id": "u018-q06",
+     "ref": 18
+    },
+    {
+     "type": "match",
+     "prompt": "Jodohkan awal dan akhir kalimat.",
+     "pairs": [
+      [
+       "I used to",
+       "watch cartoons every morning as a kid."
+      ],
+      [
+       "I was watching TV",
+       "when you called."
+      ],
+      [
+       "I'm used to",
+       "getting up early."
+      ],
+      [
+       "There used to be",
+       "a cinema in our town."
+      ]
+     ],
+     "why": "used to + kata kerja dasar = kebiasaan dulu; was -ing = sedang berlangsung; be used to + -ing = sudah terbiasa (Unit 61).",
+     "id": "u018-q07",
+     "ref": 18
+    },
+    {
+     "type": "verbform",
+     "prompt": "We ___ (not / use to) have a car, but now we have two.",
+     "answer": "didn't use to",
+     "accept": [
+      "used not to"
+     ],
+     "why": "Negatif used to: didn't use to. Bentuk used not to juga benar.",
+     "id": "u018-q08",
+     "ref": 18
+    },
+    {
+     "type": "choice",
+     "prompt": "I ___ watch a lot of TV, but now I prefer reading.",
+     "choices": [
+      "use to",
+      "used to",
+      "am used to"
+     ],
+     "correct": 1,
+     "why": "Kebiasaan di masa lalu yang sudah berubah: used to + kata kerja dasar.",
+     "id": "u018-q09",
+     "ref": 18
+    },
+    {
+     "type": "correct",
+     "prompt": "Did you use to live near the sea?",
+     "isCorrect": true,
+     "answer": "Did you use to live near the sea?",
+     "accept": [],
+     "why": "Kalimat ini sudah benar: setelah did, bentuknya use to (tanpa d).",
+     "id": "u018-q10",
+     "ref": 18
+    }
+   ]
+  }
+ ]
+}
