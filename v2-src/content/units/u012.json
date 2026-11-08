@@ -1,0 +1,540 @@
+{
+ "schemaVersion": 1,
+ "no": 12,
+ "groupId": "present-perfect-past",
+ "title": "for and since, when … ? and how long … ?",
+ "lesson": {
+  "summary": "Unit ini membahas cara menyatakan keadaan yang dimulai di masa lalu dan masih berlanjut sampai sekarang. *for* menjawab \"berapa lama\" dan diikuti rentang waktu (*for two weeks*). *since* menjawab \"sejak kapan\" dan diikuti titik awal (*since Monday*, *since 2019*, *since I was a child*). Karena keadaannya masih berlangsung, kalimatnya biasanya memakai present perfect: *I have worked here for five years.*\n\nPertanyaannya juga berbeda. *How long …?* menanyakan durasi sampai sekarang dan memakai present perfect: *How long have you known her?* *When …?* menanyakan kapan sesuatu dimulai. Titik itu sudah lewat, jadi pertanyaannya memakai past simple: *When did you meet her?*\n\nBeberapa catatan. Di kalimat positif, *for* sering boleh dihilangkan (*I've had this phone two years*), tetapi di kalimat negatif biasanya tetap dipakai. Di kalimat negatif, *in* juga bisa menggantikan *for* (*I haven't seen him in weeks*). Jangan memakai *for* sebelum *all* (*all day*, *all my life*). Untuk menyatakan sudah berapa lama sejak sesuatu terakhir terjadi, pakai *It's (been) + waktu + since + past simple*.",
+  "patterns": [
+   {
+    "formula": "for + rentang waktu",
+    "example": "for ten minutes / for three weeks / for ages"
+   },
+   {
+    "formula": "since + titik awal",
+    "example": "since 7 a.m. / since Monday / since I was a child"
+   },
+   {
+    "formula": "How long + have/has + subjek + V3 … ?",
+    "example": "How long have you lived in Bandung?"
+   },
+   {
+    "formula": "When + did + subjek + V1 … ?",
+    "example": "When did you move to Bandung?"
+   },
+   {
+    "formula": "It's (been) + waktu + since + past simple",
+    "example": "It's been a year since I last went swimming."
+   }
+  ],
+  "examples": [
+   {
+    "en": "Rina has worked at the bank since 2019.",
+    "id": "Rina sudah bekerja di bank itu sejak 2019."
+   },
+   {
+    "en": "We've been waiting for the bus for forty minutes.",
+    "id": "Kami sudah menunggu bus selama empat puluh menit."
+   },
+   {
+    "en": "I haven't eaten anything since breakfast.",
+    "id": "Saya belum makan apa-apa sejak sarapan."
+   },
+   {
+    "en": "They've had that old motorbike for twelve years.",
+    "id": "Mereka sudah punya motor tua itu selama dua belas tahun."
+   },
+   {
+    "en": "How long have you known Dimas? – Since we were in junior high.",
+    "id": "Sudah berapa lama kamu kenal Dimas? – Sejak kami SMP."
+   },
+   {
+    "en": "When did you start learning English? – About three years ago.",
+    "id": "Kapan kamu mulai belajar bahasa Inggris? – Sekitar tiga tahun lalu."
+   },
+   {
+    "en": "It's been ages since we last had a family holiday.",
+    "id": "Sudah lama sekali kami tidak berlibur sekeluarga."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I live in Jakarta since 2015.",
+    "right": "I have lived in Jakarta since 2015.",
+    "why": "Bahasa Indonesia cukup memakai kata \"sejak\" tanpa mengubah kata kerja. Bahasa Inggris memakai present perfect untuk keadaan yang dimulai di masa lalu dan masih berlangsung."
+   },
+   {
+    "wrong": "She has studied here since two years.",
+    "right": "She has studied here for two years.",
+    "why": "*two years* adalah lamanya waktu, bukan titik awal, jadi yang dipakai *for*. Kesalahan ini muncul karena \"sudah dua tahun\" sering dipikirkan sebagai \"sejak\"."
+   },
+   {
+    "wrong": "How long do you know your neighbour?",
+    "right": "How long have you known your neighbour?",
+    "why": "Pertanyaan *How long* tentang keadaan yang masih berlangsung memakai present perfect, bukan present simple."
+   },
+   {
+    "wrong": "I've lived here for all my life.",
+    "right": "I've lived here all my life.",
+    "why": "Jangan memakai *for* sebelum *all* (*all day, all week, all my life*)."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u012-q01",
+   "type": "mc",
+   "instruction": "Pilih kata yang tepat.",
+   "sentence": "Andi has been a nurse ___ 2021.",
+   "options": [
+    {
+     "id": "a",
+     "text": "for",
+     "why": "for dipakai untuk lamanya waktu (for five years). 2021 adalah titik awal, bukan durasi."
+    },
+    {
+     "id": "b",
+     "text": "since",
+     "why": "Benar. 2021 adalah titik awal dan Andi masih menjadi perawat sampai sekarang."
+    },
+    {
+     "id": "c",
+     "text": "from",
+     "why": "from biasanya berpasangan dengan to/until (from 2021 to 2023). Untuk \"sejak … sampai sekarang\" pakai since."
+    },
+    {
+     "id": "d",
+     "text": "during",
+     "why": "during menjawab \"kapan sesuatu terjadi\", bukan \"sejak kapan\"."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Titik awal yang masih berlanjut sampai sekarang memakai since + present perfect."
+  },
+  {
+   "id": "u012-q02",
+   "type": "mc",
+   "instruction": "Pilih kata yang tepat.",
+   "sentence": "We've been stuck in this traffic jam ___ almost an hour.",
+   "options": [
+    {
+     "id": "a",
+     "text": "since",
+     "why": "since perlu titik awal (since 5 o'clock). almost an hour adalah lamanya waktu."
+    },
+    {
+     "id": "b",
+     "text": "for",
+     "why": "Benar. almost an hour adalah durasi, jadi pakai for."
+    },
+    {
+     "id": "c",
+     "text": "ago",
+     "why": "ago dipakai dengan past simple untuk menunjuk waktu di belakang (an hour ago), tidak setelah present perfect seperti ini."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Rentang waktu (berapa lama) memakai for."
+  },
+  {
+   "id": "u012-q03",
+   "type": "mc",
+   "instruction": "Pilih kata tanya yang tepat.",
+   "sentence": "___ did you start working at the hospital? – In 2020.",
+   "options": [
+    {
+     "id": "a",
+     "text": "How long",
+     "why": "How long menanyakan durasi, jadi jawabannya durasi (for five years), bukan tahun (In 2020)."
+    },
+    {
+     "id": "b",
+     "text": "When",
+     "why": "Benar. Pertanyaan memakai did (past simple) dan jawabannya titik waktu (In 2020)."
+    },
+    {
+     "id": "c",
+     "text": "How often",
+     "why": "How often menanyakan seberapa sering, bukan kapan sesuatu dimulai."
+    }
+   ],
+   "answer": "b",
+   "explanation": "When + past simple menanyakan kapan sesuatu dimulai atau terjadi."
+  },
+  {
+   "id": "u012-q04",
+   "type": "mc",
+   "instruction": "Pilih jawaban yang tepat.",
+   "sentence": "How long have you lived in Medan? – ___",
+   "options": [
+    {
+     "id": "a",
+     "text": "Since three years.",
+     "why": "three years adalah durasi, jadi tidak bisa memakai since."
+    },
+    {
+     "id": "b",
+     "text": "For three years.",
+     "why": "Benar. How long menanyakan durasi, dan durasi memakai for."
+    },
+    {
+     "id": "c",
+     "text": "Three years ago.",
+     "why": "Three years ago menjawab pertanyaan When (kapan pindah), bukan How long."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Jawaban untuk How long berupa durasi: for + rentang waktu (atau since + titik awal)."
+  },
+  {
+   "id": "u012-q05",
+   "type": "mc",
+   "instruction": "Pilih kata yang tepat.",
+   "sentence": "It's been ages ___ we last ate at that warung.",
+   "options": [
+    {
+     "id": "a",
+     "text": "for",
+     "why": "Pola ini tetap: It's (been) + waktu + since + kejadian. for tidak dipakai di sini."
+    },
+    {
+     "id": "b",
+     "text": "that",
+     "why": "that tidak dipakai dalam pola ini."
+    },
+    {
+     "id": "c",
+     "text": "since",
+     "why": "Benar. It's been ages since … = sudah lama sekali sejak terakhir kali …"
+    },
+    {
+     "id": "d",
+     "text": "when",
+     "why": "when tidak menyambungkan pola It's been + waktu + … dengan kejadian terakhir."
+    }
+   ],
+   "answer": "c",
+   "explanation": "It's (been) + waktu + since + past simple: sudah berapa lama sejak sesuatu terakhir terjadi."
+  },
+  {
+   "id": "u012-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "How long ___ Pak Budi? – Since I joined this office.",
+   "options": [
+    {
+     "id": "a",
+     "text": "do you know",
+     "why": "Present simple tidak dipakai untuk durasi sampai sekarang. Ini kesalahan umum karena \"Berapa lama kamu kenal …\" tidak menandai waktu."
+    },
+    {
+     "id": "b",
+     "text": "have you known",
+     "why": "Benar. Keadaan yang dimulai di masa lalu dan masih berlangsung memakai present perfect."
+    },
+    {
+     "id": "c",
+     "text": "did you know",
+     "why": "Past simple berarti keadaannya sudah selesai, padahal kamu masih kenal Pak Budi."
+    }
+   ],
+   "answer": "b",
+   "explanation": "How long + present perfect untuk keadaan yang masih berlangsung sampai sekarang."
+  },
+  {
+   "id": "u012-q07",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "My parents ___ married since 1998.",
+   "options": [
+    {
+     "id": "a",
+     "text": "are",
+     "why": "Dengan since + titik awal, keadaan yang masih berlangsung memakai present perfect, bukan present simple."
+    },
+    {
+     "id": "b",
+     "text": "have been",
+     "why": "Benar. have been married since 1998 = sudah menikah sejak 1998 dan masih sampai sekarang."
+    },
+    {
+     "id": "c",
+     "text": "were",
+     "why": "were berarti keadaannya sudah selesai di masa lalu."
+    }
+   ],
+   "answer": "b",
+   "explanation": "since + titik awal biasanya berpasangan dengan present perfect."
+  },
+  {
+   "id": "u012-q08",
+   "type": "mc",
+   "instruction": "Pilih kalimat yang benar.",
+   "sentence": "(Saya sudah tinggal di sini seumur hidup.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "I've lived here for all my life.",
+     "why": "for tidak dipakai sebelum all."
+    },
+    {
+     "id": "b",
+     "text": "I've lived here all my life.",
+     "why": "Benar. all my life berdiri sendiri tanpa for."
+    },
+    {
+     "id": "c",
+     "text": "I'm living here since all my life.",
+     "why": "Bentuk kata kerjanya salah (perlu present perfect), dan since juga tidak dipakai sebelum all."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Ungkapan dengan all (all day, all my life) tidak memakai for."
+  },
+  {
+   "id": "u012-q09",
+   "type": "gap",
+   "instruction": "Lengkapi dengan for atau since.",
+   "sentence": "My brother hasn't called me {{1}} three weeks, and I haven't heard from my sister {{2}} last Sunday.",
+   "blanks": [
+    {
+     "accept": [
+      "for",
+      "in"
+     ]
+    },
+    {
+     "accept": [
+      "since"
+     ]
+    }
+   ],
+   "explanation": "three weeks adalah durasi, jadi pakai for (di kalimat negatif, in juga benar). last Sunday adalah titik awal, jadi pakai since."
+  },
+  {
+   "id": "u012-q10",
+   "type": "gap",
+   "instruction": "Lengkapi dengan for atau since.",
+   "sentence": "Lina has been learning the guitar {{1}} she was twelve.",
+   "blanks": [
+    {
+     "accept": [
+      "since"
+     ]
+    }
+   ],
+   "explanation": "she was twelve menunjuk titik awal (saat dia berumur dua belas), jadi pakai since."
+  },
+  {
+   "id": "u012-q11",
+   "type": "gap",
+   "instruction": "Lengkapi dengan kata tanya yang tepat.",
+   "sentence": "{{1}} did you buy this laptop? – Last December.",
+   "blanks": [
+    {
+     "accept": [
+      "When"
+     ]
+    }
+   ],
+   "explanation": "Pertanyaan memakai did (past simple) dan jawabannya titik waktu, jadi kata tanyanya When."
+  },
+  {
+   "id": "u012-q12",
+   "type": "gap",
+   "instruction": "Tulis bentuk kata kerja yang tepat.",
+   "sentence": "How long {{1}} Rani? – Since primary school.",
+   "blanks": [
+    {
+     "accept": [
+      "have you known"
+     ],
+     "hint": "you / know"
+    }
+   ],
+   "explanation": "Pertanyaan durasi sampai sekarang: How long + have + subjek + V3. know → known."
+  },
+  {
+   "id": "u012-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah berapa lama kamu tinggal di Jakarta?",
+   "tokens": [
+    "How",
+    "long",
+    "have",
+    "you",
+    "lived",
+    "in",
+    "Jakarta",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "long",
+     "have",
+     "you",
+     "lived",
+     "in",
+     "Jakarta",
+     "?"
+    ]
+   ],
+   "explanation": "Pola pertanyaan durasi: How long + have + subjek + V3 + keterangan."
+  },
+  {
+   "id": "u012-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kapan kamu pertama kali bertemu dia?",
+   "tokens": [
+    "When",
+    "did",
+    "you",
+    "first",
+    "meet",
+    "her",
+    "?"
+   ],
+   "accept": [
+    [
+     "When",
+     "did",
+     "you",
+     "first",
+     "meet",
+     "her",
+     "?"
+    ]
+   ],
+   "explanation": "When + did + subjek + V1. first diletakkan sebelum kata kerja utama."
+  },
+  {
+   "id": "u012-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah saling kenal sejak kuliah.",
+   "tokens": [
+    "We've",
+    "known",
+    "each",
+    "other",
+    "since",
+    "university",
+    "."
+   ],
+   "accept": [
+    [
+     "We've",
+     "known",
+     "each",
+     "other",
+     "since",
+     "university",
+     "."
+    ]
+   ],
+   "explanation": "Present perfect (We've known) + since + titik awal (university)."
+  },
+  {
+   "id": "u012-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah enam bulan sejak dia pindah ke Bali.",
+   "tokens": [
+    "It's",
+    "been",
+    "six",
+    "months",
+    "since",
+    "she",
+    "moved",
+    "to",
+    "Bali",
+    "."
+   ],
+   "accept": [
+    [
+     "It's",
+     "been",
+     "six",
+     "months",
+     "since",
+     "she",
+     "moved",
+     "to",
+     "Bali",
+     "."
+    ]
+   ],
+   "explanation": "Pola It's been + waktu + since + past simple (she moved)."
+  },
+  {
+   "id": "u012-q17",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "How long",
+    "do you know",
+    "your best friend?"
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have you known"
+   ],
+   "corrected": "How long have you known your best friend?",
+   "explanation": "Durasi sampai sekarang ditanyakan dengan How long + present perfect. Bentuk do you know muncul karena \"Berapa lama kamu kenal …?\" dalam bahasa Indonesia tidak menandai waktu pada kata kerja."
+  },
+  {
+   "id": "u012-q18",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She has studied",
+    "here",
+    "since",
+    "two years."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "for"
+   ],
+   "corrected": "She has studied here for two years.",
+   "explanation": "two years adalah durasi, jadi since harus diganti for."
+  },
+  {
+   "id": "u012-q19",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I live",
+    "in Jakarta",
+    "since 2015."
+   ],
+   "errorIndex": 0,
+   "accept": [
+    "I have lived",
+    "I have been living"
+   ],
+   "corrected": "I have lived in Jakarta since 2015.",
+   "explanation": "Dengan since + titik awal dan keadaan yang masih berlangsung, pakai present perfect: I have lived (I've lived)."
+  },
+  {
+   "id": "u012-q20",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "When",
+    "have you started",
+    "your new job?"
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "did you start"
+   ],
+   "corrected": "When did you start your new job?",
+   "explanation": "When menanyakan titik waktu di masa lalu, jadi memakai past simple (did you start), bukan present perfect."
+  }
+ ]
+}

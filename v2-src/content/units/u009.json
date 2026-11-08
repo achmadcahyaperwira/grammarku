@@ -1,0 +1,473 @@
+{
+ "schemaVersion": 1,
+ "no": 9,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect continuous (I have been doing)",
+ "lesson": {
+  "summary": "Present perfect continuous dibentuk dengan *have/has been + V-ing*. Ada dua pemakaian utama.\n\nPertama, untuk aktivitas yang baru saja berhenti atau masih berlangsung, dan hasilnya terlihat sekarang: *The ground is wet. It's been raining.* (hujannya mungkin sudah berhenti). *You're out of breath. Have you been running?*\n\nKedua, untuk menyatakan berapa lama sebuah aktivitas sudah berlangsung sampai sekarang, sering dengan *how long, for, since*: *We've been waiting for half an hour. Ani has been learning English since she was ten.*\n\nBandingkan dengan present continuous. *I'm waiting* hanya berarti saya sedang menunggu sekarang. Kalau ada keterangan berapa lama sampai sekarang, bentuknya harus present perfect continuous: *I've been waiting for an hour* (bukan *I'm waiting for an hour*).",
+  "patterns": [
+   {
+    "formula": "have/has + been + V-ing",
+    "example": "I've been working all morning."
+   },
+   {
+    "formula": "How long + have/has + subjek + been + V-ing … ?",
+    "example": "How long have you been waiting?"
+   },
+   {
+    "formula": "… been + V-ing + for + durasi / since + titik awal",
+    "example": "She's been studying since 8 a.m."
+   }
+  ],
+  "examples": [
+   {
+    "en": "The ground is wet. It's been raining.",
+    "id": "Tanahnya basah. Tadi hujan."
+   },
+   {
+    "en": "You're out of breath. Have you been running?",
+    "id": "Napasmu terengah-engah. Kamu habis berlari?"
+   },
+   {
+    "en": "We've been waiting for the bus for half an hour.",
+    "id": "Kami sudah menunggu bus selama setengah jam."
+   },
+   {
+    "en": "Ani has been learning English since she was ten.",
+    "id": "Ani sudah belajar bahasa Inggris sejak umur sepuluh tahun."
+   },
+   {
+    "en": "My eyes hurt because I've been looking at a screen all day.",
+    "id": "Mata saya sakit karena seharian menatap layar."
+   },
+   {
+    "en": "My neighbours have been playing loud music since this morning.",
+    "id": "Tetangga saya memutar musik keras sejak tadi pagi."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I'm waiting here since ten o'clock.",
+    "right": "I've been waiting here since ten o'clock.",
+    "why": "Durasi sampai sekarang (*since*, *for*) tidak memakai present continuous. Pakai *have been + V-ing*."
+   },
+   {
+    "wrong": "She has been study all night.",
+    "right": "She has been studying all night.",
+    "why": "Setelah *been* perlu bentuk *-ing*."
+   },
+   {
+    "wrong": "How long are you learning to drive?",
+    "right": "How long have you been learning to drive?",
+    "why": "*How long* sampai sekarang memakai present perfect continuous."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u009-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "You're out of breath. {{1}}?",
+   "blanks": [
+    {
+     "accept": [
+      "Have you been running"
+     ],
+     "hint": "you / run"
+    }
+   ],
+   "explanation": "Hasilnya terlihat sekarang (terengah-engah): Have you been running?"
+  },
+  {
+   "id": "u009-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "The ground is wet. It {{1}}.",
+   "blanks": [
+    {
+     "accept": [
+      "has been raining",
+      "'s been raining"
+     ],
+     "hint": "rain"
+    }
+   ],
+   "explanation": "Aktivitas yang baru berhenti dengan hasil terlihat: has been raining."
+  },
+  {
+   "id": "u009-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "We {{1}} for the bus for half an hour.",
+   "blanks": [
+    {
+     "accept": [
+      "have been waiting",
+      "'ve been waiting"
+     ],
+     "hint": "wait"
+    }
+   ],
+   "explanation": "Durasi sampai sekarang (for half an hour): have been waiting."
+  },
+  {
+   "id": "u009-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "Ani {{1}} English since she was ten.",
+   "blanks": [
+    {
+     "accept": [
+      "has been learning",
+      "'s been learning"
+     ],
+     "hint": "learn"
+    }
+   ],
+   "explanation": "since + titik awal: has been learning."
+  },
+  {
+   "id": "u009-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "How long {{1}} for this company?",
+   "blanks": [
+    {
+     "accept": [
+      "have you been working",
+      "have you worked"
+     ],
+     "hint": "you / work"
+    }
+   ],
+   "explanation": "Untuk work, present perfect simple dan continuous sama-sama benar."
+  },
+  {
+   "id": "u009-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "My eyes hurt because I {{1}} at a screen all day.",
+   "blanks": [
+    {
+     "accept": [
+      "have been looking",
+      "'ve been looking"
+     ],
+     "hint": "look"
+    }
+   ],
+   "explanation": "Aktivitas panjang yang hasilnya terasa sekarang (mata sakit)."
+  },
+  {
+   "id": "u009-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "Why are your hands so dirty? – I {{1}} the motorbike.",
+   "blanks": [
+    {
+     "accept": [
+      "have been fixing",
+      "'ve been fixing"
+     ],
+     "hint": "fix"
+    }
+   ],
+   "explanation": "Aktivitas yang baru selesai, dan buktinya tangan kotor: have been fixing."
+  },
+  {
+   "id": "u009-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect continuous.",
+   "sentence": "My neighbours {{1}} loud music since this morning.",
+   "blanks": [
+    {
+     "accept": [
+      "have been playing",
+      "'ve been playing"
+     ],
+     "hint": "play"
+    }
+   ],
+   "explanation": "since this morning: have been playing."
+  },
+  {
+   "id": "u009-q09",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Sorry I'm late. ___ long?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you been waiting",
+     "why": "Benar. Menanyakan durasi aktivitas sampai sekarang."
+    },
+    {
+     "id": "b",
+     "text": "Are you waiting",
+     "why": "Pertanyaan dengan long (berapa lama sampai sekarang) tidak memakai present continuous."
+    },
+    {
+     "id": "c",
+     "text": "Do you wait",
+     "why": "Ini menanyakan kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Durasi sampai sekarang: have been + V-ing."
+  },
+  {
+   "id": "u009-q10",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "She's tired because she ___ all morning.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has been cleaning",
+     "why": "Benar. Aktivitas panjang yang hasilnya terasa sekarang (lelah)."
+    },
+    {
+     "id": "b",
+     "text": "is cleaning",
+     "why": "Kalimat ini menjelaskan penyebab lelahnya dengan all morning, jadi perlu present perfect continuous."
+    },
+    {
+     "id": "c",
+     "text": "cleans",
+     "why": "Ini menyatakan kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "all morning sampai sekarang + hasil terlihat: has been + V-ing."
+  },
+  {
+   "id": "u009-q11",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "He ___ for an hour, and he's still talking!",
+   "options": [
+    {
+     "id": "a",
+     "text": "has been talking",
+     "why": "Benar. Durasi sampai sekarang dan masih berlangsung."
+    },
+    {
+     "id": "b",
+     "text": "is talking",
+     "why": "for an hour (sampai sekarang) tidak dipakai dengan present continuous."
+    },
+    {
+     "id": "c",
+     "text": "talked",
+     "why": "Kalimatnya menyatakan aktivitas yang masih berlangsung."
+    }
+   ],
+   "answer": "a",
+   "explanation": "for + durasi sampai sekarang: have/has been + V-ing."
+  },
+  {
+   "id": "u009-q12",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ in Bandung since 2020.",
+   "options": [
+    {
+     "id": "a",
+     "text": "am living",
+     "why": "since tidak dipakai dengan present continuous."
+    },
+    {
+     "id": "b",
+     "text": "have been living",
+     "why": "Benar. since + titik awal sampai sekarang."
+    },
+    {
+     "id": "c",
+     "text": "lived",
+     "why": "lived berarti sudah tidak tinggal di sana lagi."
+    }
+   ],
+   "answer": "b",
+   "explanation": "since + titik awal: present perfect (continuous)."
+  },
+  {
+   "id": "u009-q13",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "am waiting",
+    "here since ten o'clock."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have been waiting",
+    "have waited"
+   ],
+   "corrected": "I have been waiting here since ten o'clock.",
+   "explanation": "since + titik awal: have been waiting."
+  },
+  {
+   "id": "u009-q14",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She looks exhausted. She",
+    "has been study",
+    "all night."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "has been studying"
+   ],
+   "corrected": "She looks exhausted. She has been studying all night.",
+   "explanation": "Setelah been perlu bentuk -ing: has been studying."
+  },
+  {
+   "id": "u009-q15",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "How long",
+    "are you learning",
+    "to drive? – For six months now."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have you been learning"
+   ],
+   "corrected": "How long have you been learning to drive? – For six months now.",
+   "explanation": "How long sampai sekarang: have you been learning."
+  },
+  {
+   "id": "u009-q16",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "They",
+    "have been",
+    "play",
+    "games since lunch."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "playing"
+   ],
+   "corrected": "They have been playing games since lunch.",
+   "explanation": "Setelah been perlu bentuk -ing: playing."
+  },
+  {
+   "id": "u009-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah berapa lama kamu menunggu?",
+   "tokens": [
+    "How",
+    "long",
+    "have",
+    "you",
+    "been",
+    "waiting",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "long",
+     "have",
+     "you",
+     "been",
+     "waiting",
+     "?"
+    ]
+   ],
+   "explanation": "How long + have + subjek + been + V-ing."
+  },
+  {
+   "id": "u009-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sudah menangis sejak tadi pagi.",
+   "tokens": [
+    "She",
+    "has",
+    "been",
+    "crying",
+    "since",
+    "this",
+    "morning",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "has",
+     "been",
+     "crying",
+     "since",
+     "this",
+     "morning",
+     "."
+    ]
+   ],
+   "explanation": "has been + V-ing + since."
+  },
+  {
+   "id": "u009-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah belajar selama dua jam.",
+   "tokens": [
+    "We",
+    "have",
+    "been",
+    "studying",
+    "for",
+    "two",
+    "hours",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "have",
+     "been",
+     "studying",
+     "for",
+     "two",
+     "hours",
+     "."
+    ]
+   ],
+   "explanation": "have been + V-ing + for + durasi."
+  },
+  {
+   "id": "u009-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apa saja kegiatanmu akhir-akhir ini?",
+   "tokens": [
+    "What",
+    "have",
+    "you",
+    "been",
+    "doing",
+    "lately",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "have",
+     "you",
+     "been",
+     "doing",
+     "lately",
+     "?"
+    ]
+   ],
+   "explanation": "What + have + you + been + doing."
+  }
+ ]
+}

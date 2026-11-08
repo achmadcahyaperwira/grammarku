@@ -1,0 +1,512 @@
+{
+ "schemaVersion": 1,
+ "no": 14,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect and past 2 (I have done and I did)",
+ "lesson": {
+  "summary": "Aturan paling penting di unit ini: present perfect tidak dipakai bersama keterangan waktu yang sudah selesai. Kalau ada *yesterday, last week, two years ago, in 2019, when I was a child*, pakai past simple: *I saw Rudi yesterday. We went to Jogja two years ago.*\n\nSebaliknya, kalau periodenya belum selesai, pakai present perfect: *today, this week, this year, so far, recently, since …*. Contohnya *I haven't seen Rudi this week. It has rained a lot so far this month.*\n\nPertanyaan *When …?* dan *What time …?* selalu memakai past simple karena menanyakan titik waktu yang sudah lewat: *When did you finish your degree?*\n\nHal yang sudah berakhir juga memakai past simple, walaupun tanpa keterangan waktu, misalnya kegiatan orang yang sudah meninggal atau pekerjaan yang sudah berhenti: *My grandfather wrote many poems. I worked there from 2018 to 2021.*",
+  "patterns": [
+   {
+    "formula": "V2 + yesterday / ago / last … / in 2019",
+    "example": "We went to Jogja two years ago."
+   },
+   {
+    "formula": "have/has + V3 + today / this week / so far / since",
+    "example": "I haven't seen Rudi this week."
+   },
+   {
+    "formula": "When / What time + did … ?",
+    "example": "When did you graduate?"
+   }
+  ],
+  "examples": [
+   {
+    "en": "I saw Rudi yesterday.",
+    "id": "Saya bertemu Rudi kemarin."
+   },
+   {
+    "en": "I haven't seen Rudi this week.",
+    "id": "Minggu ini saya belum bertemu Rudi."
+   },
+   {
+    "en": "My grandmother was born in 1950.",
+    "id": "Nenek saya lahir tahun 1950."
+   },
+   {
+    "en": "It has rained a lot so far this month.",
+    "id": "Sejauh ini bulan ini sudah sering hujan."
+   },
+   {
+    "en": "I worked there for three years, from 2018 to 2021.",
+    "id": "Saya bekerja di sana selama tiga tahun, dari 2018 sampai 2021."
+   },
+   {
+    "en": "Ten years ago I didn't know a single word of English.",
+    "id": "Sepuluh tahun lalu saya tidak tahu satu kata pun bahasa Inggris."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I have seen that film last night.",
+    "right": "I saw that film last night.",
+    "why": "*last night* sudah selesai, jadi pakai past simple."
+   },
+   {
+    "wrong": "When have you arrived?",
+    "right": "When did you arrive?",
+    "why": "*When* tidak dipakai dengan present perfect."
+   },
+   {
+    "wrong": "We didn't see Ana since the wedding.",
+    "right": "We haven't seen Ana since the wedding.",
+    "why": "*since* menghubungkan masa lalu dengan sekarang, jadi pakai present perfect."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u014-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ Rudi yesterday.",
+   "options": [
+    {
+     "id": "a",
+     "text": "saw",
+     "why": "Benar. yesterday sudah selesai."
+    },
+    {
+     "id": "b",
+     "text": "have seen",
+     "why": "Present perfect tidak dipakai dengan yesterday."
+    },
+    {
+     "id": "c",
+     "text": "see",
+     "why": "Kejadiannya kemarin."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Waktu yang selesai: past simple."
+  },
+  {
+   "id": "u014-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ Rudi so far this week.",
+   "options": [
+    {
+     "id": "a",
+     "text": "haven't seen",
+     "why": "Benar. so far this week belum selesai dan menghubungkan dengan sekarang."
+    },
+    {
+     "id": "b",
+     "text": "don't see",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    },
+    {
+     "id": "c",
+     "text": "am not seeing",
+     "why": "so far menghubungkan dengan sekarang, jadi butuh present perfect, bukan present continuous."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Periode yang belum selesai (so far, this week): present perfect."
+  },
+  {
+   "id": "u014-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "We ___ to Jogja two years ago.",
+   "options": [
+    {
+     "id": "a",
+     "text": "went",
+     "why": "Benar. ago menunjuk waktu yang sudah selesai."
+    },
+    {
+     "id": "b",
+     "text": "have gone",
+     "why": "Present perfect tidak dipakai dengan ago."
+    },
+    {
+     "id": "c",
+     "text": "have been",
+     "why": "Present perfect tidak dipakai dengan ago."
+    }
+   ],
+   "answer": "a",
+   "explanation": "ago → past simple."
+  },
+  {
+   "id": "u014-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When ___ your degree? – In 2022.",
+   "options": [
+    {
+     "id": "a",
+     "text": "did you finish",
+     "why": "Benar. When + past simple."
+    },
+    {
+     "id": "b",
+     "text": "have you finished",
+     "why": "When tidak dipakai dengan present perfect."
+    },
+    {
+     "id": "c",
+     "text": "do you finish",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "When + did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u014-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "My grandmother ___ in 1950.",
+   "options": [
+    {
+     "id": "a",
+     "text": "was born",
+     "why": "Benar. Tahun tertentu di masa lalu."
+    },
+    {
+     "id": "b",
+     "text": "has been born",
+     "why": "Present perfect tidak dipakai dengan tahun yang sudah lewat."
+    },
+    {
+     "id": "c",
+     "text": "is born",
+     "why": "Kelahirannya di masa lalu."
+    }
+   ],
+   "answer": "a",
+   "explanation": "in + tahun yang lewat: past simple."
+  },
+  {
+   "id": "u014-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "It ___ a lot so far this month.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has rained",
+     "why": "Benar. so far this month belum selesai."
+    },
+    {
+     "id": "b",
+     "text": "rained",
+     "why": "so far menghubungkan dengan sekarang, jadi butuh present perfect."
+    },
+    {
+     "id": "c",
+     "text": "rains",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "so far / this month: present perfect."
+  },
+  {
+   "id": "u014-q07",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "My grandfather, who died in 2010, ___ many poems.",
+   "options": [
+    {
+     "id": "a",
+     "text": "wrote",
+     "why": "Benar. Hidupnya sudah berakhir, jadi kegiatannya memakai past simple."
+    },
+    {
+     "id": "b",
+     "text": "has written",
+     "why": "Present perfect menghubungkan dengan sekarang, padahal hidupnya sudah berakhir."
+    },
+    {
+     "id": "c",
+     "text": "writes",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Periode yang sudah berakhir: past simple."
+  },
+  {
+   "id": "u014-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ there for three years, from 2018 to 2021.",
+   "options": [
+    {
+     "id": "a",
+     "text": "worked",
+     "why": "Benar. Periodenya sudah selesai (2018–2021)."
+    },
+    {
+     "id": "b",
+     "text": "have worked",
+     "why": "Periodenya sudah selesai, jadi tidak memakai present perfect."
+    },
+    {
+     "id": "c",
+     "text": "work",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Periode yang sudah selesai: past simple."
+  },
+  {
+   "id": "u014-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "have seen",
+    "that film",
+    "last night."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "saw"
+   ],
+   "corrected": "I saw that film last night.",
+   "explanation": "last night: saw."
+  },
+  {
+   "id": "u014-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "When",
+    "have you arrived",
+    "in Bali?"
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "did you arrive"
+   ],
+   "corrected": "When did you arrive in Bali?",
+   "explanation": "When + did you arrive."
+  },
+  {
+   "id": "u014-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "has left",
+    "the company",
+    "two months ago."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "left"
+   ],
+   "corrected": "She left the company two months ago.",
+   "explanation": "ago: left."
+  },
+  {
+   "id": "u014-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "didn't see",
+    "Ana",
+    "since the wedding."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "haven't seen"
+   ],
+   "corrected": "We haven't seen Ana since the wedding.",
+   "explanation": "since sampai sekarang: haven't seen."
+  },
+  {
+   "id": "u014-q13",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} to Lombok in 2019.",
+   "blanks": [
+    {
+     "accept": [
+      "went"
+     ],
+     "hint": "go"
+    }
+   ],
+   "explanation": "in 2019 sudah lewat: went."
+  },
+  {
+   "id": "u014-q14",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "{{1}} any emails today?",
+   "blanks": [
+    {
+     "accept": [
+      "Have you received"
+     ],
+     "hint": "you / receive"
+    }
+   ],
+   "explanation": "today belum selesai: Have you received …?"
+  },
+  {
+   "id": "u014-q15",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "Ten years ago I {{1}} a single word of English.",
+   "blanks": [
+    {
+     "accept": [
+      "didn't know"
+     ],
+     "hint": "not / know"
+    }
+   ],
+   "explanation": "ago: past simple (didn't know)."
+  },
+  {
+   "id": "u014-q16",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "We {{1}} three tests so far this semester.",
+   "blanks": [
+    {
+     "accept": [
+      "have had",
+      "'ve had"
+     ],
+     "hint": "have"
+    }
+   ],
+   "explanation": "so far this semester: have had."
+  },
+  {
+   "id": "u014-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya pindah ke Jakarta tiga tahun lalu.",
+   "tokens": [
+    "I",
+    "moved",
+    "to",
+    "Jakarta",
+    "three",
+    "years",
+    "ago",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "moved",
+     "to",
+     "Jakarta",
+     "three",
+     "years",
+     "ago",
+     "."
+    ],
+    [
+     "three",
+     "years",
+     "ago",
+     "I",
+     "moved",
+     "to",
+     "Jakarta",
+     "."
+    ]
+   ],
+   "explanation": "ago: past simple."
+  },
+  {
+   "id": "u014-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya belum minum kopi hari ini.",
+   "tokens": [
+    "I",
+    "haven't",
+    "had",
+    "any",
+    "coffee",
+    "today",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "haven't",
+     "had",
+     "any",
+     "coffee",
+     "today",
+     "."
+    ]
+   ],
+   "explanation": "today: haven't + V3."
+  },
+  {
+   "id": "u014-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kapan kamu lulus?",
+   "tokens": [
+    "When",
+    "did",
+    "you",
+    "graduate",
+    "?"
+   ],
+   "accept": [
+    [
+     "When",
+     "did",
+     "you",
+     "graduate",
+     "?"
+    ]
+   ],
+   "explanation": "When + did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u014-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah tinggal di sini sejak 2019.",
+   "tokens": [
+    "We",
+    "have",
+    "lived",
+    "here",
+    "since",
+    "2019",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "have",
+     "lived",
+     "here",
+     "since",
+     "2019",
+     "."
+    ]
+   ],
+   "explanation": "since: have + V3."
+  }
+ ]
+}

@@ -1,0 +1,538 @@
+{
+ "schemaVersion": 1,
+ "no": 10,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect continuous and simple (I have been doing and I have done)",
+ "lesson": {
+  "summary": "Kedua bentuk ini sama-sama menghubungkan masa lalu dengan sekarang, tetapi fokusnya berbeda.\n\n*have been doing* (continuous) berfokus pada aktivitasnya. Aktivitas itu mungkin belum selesai: *I've been painting the bedroom* (belum tentu selesai, tangan saya penuh cat). Bentuk ini juga dipakai untuk menyatakan berapa lama: *Lia has been writing her novel since January.*\n\n*have done* (simple) berfokus pada hasil atau sesuatu yang sudah selesai: *I've painted the bedroom* (sudah selesai). Bentuk ini juga dipakai untuk menyatakan berapa banyak atau berapa kali: *Lia has written three novels. How many cups of coffee have you drunk?*\n\nKata kerja keadaan seperti *know, like, believe, have* (memiliki) hanya memakai bentuk simple: *I've known Rahmat since we were children* (bukan *have been knowing*).",
+  "patterns": [
+   {
+    "formula": "have been + V-ing = aktivitas / berapa lama",
+    "example": "I've been reading this book for weeks."
+   },
+   {
+    "formula": "have + V3 = hasil / selesai",
+    "example": "I've read the whole book."
+   },
+   {
+    "formula": "have + V3 = berapa banyak / berapa kali",
+    "example": "I've read 100 pages."
+   },
+   {
+    "formula": "know / like / believe → hanya simple",
+    "example": "We've known each other for years."
+   }
+  ],
+  "examples": [
+   {
+    "en": "I've been reading this book for weeks, but I've only read 100 pages.",
+    "id": "Saya sudah berminggu-minggu membaca buku ini, tetapi baru seratus halaman."
+   },
+   {
+    "en": "Lia has been writing a novel since January.",
+    "id": "Lia sedang menulis novel sejak Januari."
+   },
+   {
+    "en": "Lia has written three novels.",
+    "id": "Lia sudah menulis tiga novel."
+   },
+   {
+    "en": "Your clothes are dirty. What have you been doing?",
+    "id": "Bajumu kotor. Kamu habis ngapain?"
+   },
+   {
+    "en": "The kitchen looks great! You've cleaned it.",
+    "id": "Dapurnya terlihat bagus! Kamu sudah membersihkannya."
+   },
+   {
+    "en": "I've known Rahmat since we were children.",
+    "id": "Saya sudah kenal Rahmat sejak kami kecil."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I have been knowing her for years.",
+    "right": "I've known her for years.",
+    "why": "*know* adalah kata kerja keadaan, jadi tidak memakai bentuk *-ing*."
+   },
+   {
+    "wrong": "He has been drinking four cups of coffee today.",
+    "right": "He has drunk four cups of coffee today.",
+    "why": "Untuk menyatakan jumlah (*four cups*), pakai present perfect simple."
+   },
+   {
+    "wrong": "We have been painting five rooms so far.",
+    "right": "We have painted five rooms so far.",
+    "why": "Jumlah yang sudah selesai (*five rooms*) memakai bentuk simple."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u010-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ my keys. I can't find them anywhere.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have been losing",
+     "why": "lose adalah kejadian sesaat dengan hasil sekarang, bukan aktivitas yang berlangsung lama."
+    },
+    {
+     "id": "b",
+     "text": "have lost",
+     "why": "Benar. Fokus pada hasil: kuncinya hilang sekarang."
+    },
+    {
+     "id": "c",
+     "text": "am losing",
+     "why": "Kuncinya sudah hilang, bukan sedang dalam proses hilang."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Hasil yang terasa sekarang: have + V3."
+  },
+  {
+   "id": "u010-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Your clothes are dirty. What ___?",
+   "options": [
+    {
+     "id": "a",
+     "text": "have you been doing",
+     "why": "Benar. Menanyakan aktivitas yang meninggalkan bukti sekarang."
+    },
+    {
+     "id": "b",
+     "text": "have you done",
+     "why": "What have you done? biasanya menanyakan hasil, misalnya kerusakan yang kamu buat."
+    },
+    {
+     "id": "c",
+     "text": "are you doing",
+     "why": "Ini menanyakan aktivitas saat ini, bukan penyebab baju kotor."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Aktivitas dengan bukti yang terlihat: have been + V-ing."
+  },
+  {
+   "id": "u010-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Lia ___ three novels this year.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has written",
+     "why": "Benar. Jumlah (three novels) memakai bentuk simple."
+    },
+    {
+     "id": "b",
+     "text": "has been writing",
+     "why": "Bentuk continuous tidak dipakai untuk menyatakan jumlah yang sudah selesai."
+    },
+    {
+     "id": "c",
+     "text": "writes",
+     "why": "this year dan jumlah yang sudah tercapai butuh present perfect."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Berapa banyak: have/has + V3."
+  },
+  {
+   "id": "u010-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Lia ___ a novel since January. She hopes to finish it soon.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has written",
+     "why": "Novelnya belum selesai, jadi fokusnya pada aktivitas."
+    },
+    {
+     "id": "b",
+     "text": "has been writing",
+     "why": "Benar. Aktivitas yang belum selesai, dengan since."
+    },
+    {
+     "id": "c",
+     "text": "is writing",
+     "why": "since + titik awal tidak dipakai dengan present continuous."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Aktivitas yang belum selesai + since: have been + V-ing."
+  },
+  {
+   "id": "u010-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "How many cups of coffee ___ today?",
+   "options": [
+    {
+     "id": "a",
+     "text": "have you drunk",
+     "why": "Benar. How many (jumlah) memakai bentuk simple."
+    },
+    {
+     "id": "b",
+     "text": "have you been drinking",
+     "why": "Untuk menanyakan jumlah yang sudah dicapai (how many cups), pakai bentuk simple."
+    },
+    {
+     "id": "c",
+     "text": "do you drink",
+     "why": "today belum selesai dan yang ditanyakan jumlah sampai sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "How many / How much + have + V3."
+  },
+  {
+   "id": "u010-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ Rahmat since we were children.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have known",
+     "why": "Benar. know adalah kata kerja keadaan."
+    },
+    {
+     "id": "b",
+     "text": "have been knowing",
+     "why": "know tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "know",
+     "why": "since sampai sekarang butuh present perfect."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kata kerja keadaan memakai present perfect simple."
+  },
+  {
+   "id": "u010-q07",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Sorry about the mess. I ___ the kitchen, and I haven't finished yet.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have been cleaning",
+     "why": "Benar. Aktivitasnya belum selesai."
+    },
+    {
+     "id": "b",
+     "text": "have cleaned",
+     "why": "have cleaned berarti sudah selesai, padahal belum."
+    },
+    {
+     "id": "c",
+     "text": "cleaned",
+     "why": "Past simple tidak menghubungkan aktivitas dengan keadaan sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Aktivitas yang belum selesai: have been + V-ing."
+  },
+  {
+   "id": "u010-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "The kitchen looks great! You ___ it.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have cleaned",
+     "why": "Benar. Fokusnya pada hasil yang sudah selesai."
+    },
+    {
+     "id": "b",
+     "text": "have been cleaning",
+     "why": "Kalimatnya memuji hasil yang sudah selesai, bukan aktivitasnya."
+    },
+    {
+     "id": "c",
+     "text": "are cleaning",
+     "why": "Dapurnya sudah bersih, jadi aktivitasnya sudah selesai."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Hasil yang selesai: have + V3."
+  },
+  {
+   "id": "u010-q09",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} this book for weeks, but I {{2}} only 100 pages.",
+   "blanks": [
+    {
+     "accept": [
+      "have been reading",
+      "'ve been reading"
+     ],
+     "hint": "read"
+    },
+    {
+     "accept": [
+      "have read",
+      "'ve read"
+     ],
+     "hint": "read"
+    }
+   ],
+   "explanation": "Aktivitas berminggu-minggu: have been reading. Jumlah halaman: have read."
+  },
+  {
+   "id": "u010-q10",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "We {{1}} each other for ten years.",
+   "blanks": [
+    {
+     "accept": [
+      "have known",
+      "'ve known"
+     ],
+     "hint": "know"
+    }
+   ],
+   "explanation": "know hanya memakai bentuk simple: have known."
+  },
+  {
+   "id": "u010-q11",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "She {{1}} the guitar all afternoon. Her fingers hurt.",
+   "blanks": [
+    {
+     "accept": [
+      "has been practising",
+      "'s been practising",
+      "has been practicing",
+      "'s been practicing"
+     ],
+     "hint": "practise"
+    }
+   ],
+   "explanation": "Aktivitas panjang dengan akibat sekarang (jari sakit). Ejaan British: practise."
+  },
+  {
+   "id": "u010-q12",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "Look! I {{1}} my exam! I got 90.",
+   "blanks": [
+    {
+     "accept": [
+      "have passed",
+      "'ve passed"
+     ],
+     "hint": "pass"
+    }
+   ],
+   "explanation": "Hasil yang sudah tercapai: have passed."
+  },
+  {
+   "id": "u010-q13",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "have been knowing",
+    "her",
+    "for years."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have known"
+   ],
+   "corrected": "I have known her for years.",
+   "explanation": "know tidak memakai bentuk -ing: have known."
+  },
+  {
+   "id": "u010-q14",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "He",
+    "has been drinking",
+    "four cups of coffee",
+    "today."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "has drunk",
+    "has had"
+   ],
+   "corrected": "He has drunk four cups of coffee today.",
+   "explanation": "Jumlah (four cups) memakai bentuk simple: has drunk."
+  },
+  {
+   "id": "u010-q15",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "have read",
+    "since this morning,",
+    "and I'm tired."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have been reading"
+   ],
+   "corrected": "I have been reading since this morning, and I'm tired.",
+   "explanation": "Aktivitas sejak pagi yang membuat lelah: have been reading."
+  },
+  {
+   "id": "u010-q16",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "have been painting",
+    "five rooms",
+    "so far."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have painted"
+   ],
+   "corrected": "We have painted five rooms so far.",
+   "explanation": "Jumlah yang sudah selesai: have painted."
+  },
+  {
+   "id": "u010-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya sudah menulis tiga email pagi ini.",
+   "tokens": [
+    "I",
+    "have",
+    "written",
+    "three",
+    "emails",
+    "this",
+    "morning",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "have",
+     "written",
+     "three",
+     "emails",
+     "this",
+     "morning",
+     "."
+    ],
+    [
+     "this",
+     "morning",
+     "I",
+     "have",
+     "written",
+     "three",
+     "emails",
+     "."
+    ]
+   ],
+   "explanation": "Jumlah: have + V3."
+  },
+  {
+   "id": "u010-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sudah bekerja sejak jam tujuh.",
+   "tokens": [
+    "She",
+    "has",
+    "been",
+    "working",
+    "since",
+    "seven",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "has",
+     "been",
+     "working",
+     "since",
+     "seven",
+     "."
+    ]
+   ],
+   "explanation": "Aktivitas + since: has been + V-ing."
+  },
+  {
+   "id": "u010-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Berapa banyak foto yang sudah kamu ambil?",
+   "tokens": [
+    "How",
+    "many",
+    "photos",
+    "have",
+    "you",
+    "taken",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "many",
+     "photos",
+     "have",
+     "you",
+     "taken",
+     "?"
+    ]
+   ],
+   "explanation": "How many + have + subjek + V3."
+  },
+  {
+   "id": "u010-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah saling kenal sejak SD.",
+   "tokens": [
+    "We",
+    "have",
+    "known",
+    "each",
+    "other",
+    "since",
+    "primary",
+    "school",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "have",
+     "known",
+     "each",
+     "other",
+     "since",
+     "primary",
+     "school",
+     "."
+    ]
+   ],
+   "explanation": "know: have + V3."
+  }
+ ]
+}

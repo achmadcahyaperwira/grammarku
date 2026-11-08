@@ -1,0 +1,471 @@
+{
+ "schemaVersion": 1,
+ "no": 5,
+ "groupId": "present-past",
+ "title": "Past simple (I did)",
+ "lesson": {
+  "summary": "Past simple dipakai untuk kejadian yang sudah selesai di masa lalu, sering dengan keterangan waktu seperti *yesterday, last week, in 2019, two days ago*.\n\nKebanyakan kata kerja cukup ditambah *-ed*: *work → worked, visit → visited, stop → stopped*. Kata kerja tidak beraturan punya bentuk sendiri yang harus dihafal: *go → went, buy → bought, see → saw, eat → ate, teach → taught*.\n\nUntuk kalimat tanya dan negatif, pakai *did/didn't* + kata kerja bentuk dasar: *Did you see the news? I didn't sleep well.* Karena penanda lampaunya sudah ada di *did*, kata kerja berikutnya tidak diubah lagi (bukan *didn't went*).\n\nBentuk lampau *be* adalah *was* (untuk *I, he, she, it*) dan *were* (untuk *you, we, they*). Kalimat tanya dan negatifnya tidak memakai *did*: *Were you at home? It wasn't expensive.*\n\nBahasa Indonesia cukup memakai kata seperti \"kemarin\" atau \"tadi\" tanpa mengubah kata kerja. Dalam bahasa Inggris, kata kerjanya juga harus berubah.",
+  "patterns": [
+   {
+    "formula": "V2 (V1 + -ed / bentuk tidak beraturan)",
+    "example": "We visited Lake Toba. She bought a phone."
+   },
+   {
+    "formula": "did not (didn't) + V1",
+    "example": "I didn't sleep well."
+   },
+   {
+    "formula": "Did + subjek + V1 … ?",
+    "example": "Did you go to the party?"
+   },
+   {
+    "formula": "I / he / she / it + was; you / we / they + were",
+    "example": "The film was boring. We were tired."
+   }
+  ],
+  "examples": [
+   {
+    "en": "We visited Lake Toba last year.",
+    "id": "Kami mengunjungi Danau Toba tahun lalu."
+   },
+   {
+    "en": "Dewi bought a new phone yesterday.",
+    "id": "Dewi membeli HP baru kemarin."
+   },
+   {
+    "en": "I didn't sleep well last night.",
+    "id": "Saya tidak tidur nyenyak tadi malam."
+   },
+   {
+    "en": "Where were you on Saturday?",
+    "id": "Kamu di mana hari Sabtu?"
+   },
+   {
+    "en": "My grandfather taught at a village school for thirty years.",
+    "id": "Kakek saya mengajar di sekolah desa selama tiga puluh tahun."
+   },
+   {
+    "en": "The film was boring, so we left early.",
+    "id": "Filmnya membosankan, jadi kami pulang lebih awal."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "Yesterday I go to the market.",
+    "right": "Yesterday I went to the market.",
+    "why": "Kata kerja harus berubah ke bentuk lampau. Kata *yesterday* saja tidak cukup."
+   },
+   {
+    "wrong": "Did you saw the news?",
+    "right": "Did you see the news?",
+    "why": "Setelah *did*, pakai bentuk dasar (*see*), bukan bentuk lampau."
+   },
+   {
+    "wrong": "She didn't came to class.",
+    "right": "She didn't come to class.",
+    "why": "Setelah *didn't*, kata kerja kembali ke bentuk dasar."
+   },
+   {
+    "wrong": "We was very tired.",
+    "right": "We were very tired.",
+    "why": "*we, you, they* memakai *were*, bukan *was*."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u005-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "We {{1}} Lake Toba last year.",
+   "blanks": [
+    {
+     "accept": [
+      "visited"
+     ],
+     "hint": "visit"
+    }
+   ],
+   "explanation": "Kata kerja beraturan: visit → visited."
+  },
+  {
+   "id": "u005-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "Dewi {{1}} a new phone yesterday.",
+   "blanks": [
+    {
+     "accept": [
+      "bought"
+     ],
+     "hint": "buy"
+    }
+   ],
+   "explanation": "Kata kerja tidak beraturan: buy → bought."
+  },
+  {
+   "id": "u005-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "I {{1}} well last night.",
+   "blanks": [
+    {
+     "accept": [
+      "didn't sleep"
+     ],
+     "hint": "not / sleep"
+    }
+   ],
+   "explanation": "Negatif lampau: didn't + bentuk dasar (sleep)."
+  },
+  {
+   "id": "u005-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "{{1}} to the party on Saturday?",
+   "blanks": [
+    {
+     "accept": [
+      "Did you go"
+     ],
+     "hint": "you / go"
+    }
+   ],
+   "explanation": "Pertanyaan lampau: Did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u005-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "The film {{1}} boring, so we {{2}} early.",
+   "blanks": [
+    {
+     "accept": [
+      "was"
+     ],
+     "hint": "be"
+    },
+    {
+     "accept": [
+      "left"
+     ],
+     "hint": "leave"
+    }
+   ],
+   "explanation": "be → was (the film = it). leave → left."
+  },
+  {
+   "id": "u005-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "Where {{1}} last night? I called you twice.",
+   "blanks": [
+    {
+     "accept": [
+      "were you"
+     ],
+     "hint": "you / be"
+    }
+   ],
+   "explanation": "Pertanyaan dengan be tidak memakai did: Where were you?"
+  },
+  {
+   "id": "u005-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "My grandfather {{1}} at a village school for thirty years.",
+   "blanks": [
+    {
+     "accept": [
+      "taught"
+     ],
+     "hint": "teach"
+    }
+   ],
+   "explanation": "teach → taught. Masa mengajarnya sudah selesai."
+  },
+  {
+   "id": "u005-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple.",
+   "sentence": "When I was a child, I {{1}} vegetables.",
+   "blanks": [
+    {
+     "accept": [
+      "didn't like"
+     ],
+     "hint": "not / like"
+    }
+   ],
+   "explanation": "Masa kecil sudah lewat: didn't like."
+  },
+  {
+   "id": "u005-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Yesterday I",
+    "go",
+    "to the market and bought some fish."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "went"
+   ],
+   "corrected": "Yesterday I went to the market and bought some fish.",
+   "explanation": "Kejadian kemarin: go → went."
+  },
+  {
+   "id": "u005-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Did",
+    "you",
+    "saw",
+    "the news?"
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "see"
+   ],
+   "corrected": "Did you see the news?",
+   "explanation": "Setelah did, pakai bentuk dasar: see."
+  },
+  {
+   "id": "u005-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "didn't",
+    "came",
+    "to class today."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "come"
+   ],
+   "corrected": "She didn't come to class today.",
+   "explanation": "Setelah didn't, pakai bentuk dasar: come."
+  },
+  {
+   "id": "u005-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "was",
+    "very tired after the trip."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "were"
+   ],
+   "corrected": "We were very tired after the trip.",
+   "explanation": "Subjek we memakai were."
+  },
+  {
+   "id": "u005-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kapan kamu sampai di rumah?",
+   "tokens": [
+    "When",
+    "did",
+    "you",
+    "get",
+    "home",
+    "?"
+   ],
+   "accept": [
+    [
+     "When",
+     "did",
+     "you",
+     "get",
+     "home",
+     "?"
+    ]
+   ],
+   "explanation": "When + did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u005-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya tidak melihat kucingmu.",
+   "tokens": [
+    "I",
+    "didn't",
+    "see",
+    "your",
+    "cat",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "didn't",
+     "see",
+     "your",
+     "cat",
+     "."
+    ]
+   ],
+   "explanation": "Negatif: didn't + bentuk dasar (see)."
+  },
+  {
+   "id": "u005-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Mereka menikah tahun 2018.",
+   "tokens": [
+    "They",
+    "got",
+    "married",
+    "in",
+    "2018",
+    "."
+   ],
+   "accept": [
+    [
+     "They",
+     "got",
+     "married",
+     "in",
+     "2018",
+     "."
+    ]
+   ],
+   "explanation": "get married → got married. Tahun memakai in."
+  },
+  {
+   "id": "u005-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apa yang kamu makan tadi pagi?",
+   "tokens": [
+    "What",
+    "did",
+    "you",
+    "eat",
+    "this",
+    "morning",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "did",
+     "you",
+     "eat",
+     "this",
+     "morning",
+     "?"
+    ]
+   ],
+   "explanation": "What + did + subjek + bentuk dasar (eat)."
+  },
+  {
+   "id": "u005-q17",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Last night I ___ a strange dream.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have",
+     "why": "last night menunjukkan masa lalu, jadi perlu bentuk lampau."
+    },
+    {
+     "id": "b",
+     "text": "had",
+     "why": "Benar. have → had."
+    },
+    {
+     "id": "c",
+     "text": "haved",
+     "why": "have tidak beraturan, jadi tidak ada bentuk haved."
+    }
+   ],
+   "answer": "b",
+   "explanation": "have adalah kata kerja tidak beraturan: had."
+  },
+  {
+   "id": "u005-q18",
+   "type": "mc",
+   "instruction": "Pilih kata yang tepat.",
+   "sentence": "___ your trip to Lombok?",
+   "options": [
+    {
+     "id": "a",
+     "text": "How was",
+     "why": "Benar. your trip = it, jadi pakai was."
+    },
+    {
+     "id": "b",
+     "text": "How did",
+     "why": "did perlu diikuti kata kerja lain. Di sini kata kerjanya be."
+    },
+    {
+     "id": "c",
+     "text": "How were",
+     "why": "were untuk you/we/they atau benda jamak."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Pertanyaan dengan be di masa lalu: How was …? / Where were …?"
+  },
+  {
+   "id": "u005-q19",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "They ___ the bus because they woke up late.",
+   "options": [
+    {
+     "id": "a",
+     "text": "missed",
+     "why": "Benar. miss → missed (beraturan)."
+    },
+    {
+     "id": "b",
+     "text": "miss",
+     "why": "Kalimatnya tentang masa lalu (woke up), jadi perlu bentuk lampau."
+    },
+    {
+     "id": "c",
+     "text": "were miss",
+     "why": "were tidak digabung dengan bentuk dasar kata kerja."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kejadian yang sudah selesai: past simple."
+  },
+  {
+   "id": "u005-q20",
+   "type": "mc",
+   "instruction": "Pilih ejaan yang benar.",
+   "sentence": "The past form of \"stop\" is ___.",
+   "options": [
+    {
+     "id": "a",
+     "text": "stoped",
+     "why": "Kata pendek dengan pola konsonan-vokal-konsonan menggandakan huruf terakhirnya."
+    },
+    {
+     "id": "b",
+     "text": "stopped",
+     "why": "Benar. stop → stopped (huruf p digandakan)."
+    },
+    {
+     "id": "c",
+     "text": "stopt",
+     "why": "Ini bukan ejaan baku."
+    }
+   ],
+   "answer": "b",
+   "explanation": "stop → stopped, plan → planned, travel → travelled (British)."
+  }
+ ]
+}

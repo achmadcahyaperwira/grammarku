@@ -2,7 +2,7 @@
  * Naikkan CACHE_VERSION setiap kali file aplikasi atau materi berubah,
  * agar HP mengambil versi baru. Progres tidak terpengaruh (tersimpan di localStorage).
  */
-var CACHE_VERSION = 'v1.0.0-u18';
+var CACHE_VERSION = 'v1.0.1-u18';
 var CACHE = 'cays-english-' + CACHE_VERSION;
 var SHELL = [
   './',
@@ -19,6 +19,8 @@ var SHELL = [
 ];
 
 self.addEventListener('install', function (event) {
+  // v1.0.1: langsung aktif supaya folder /v2/ (Cay's English V2) tidak lagi tertahan versi lama.
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE).then(function (cache) {
       return cache.addAll(SHELL.map(function (u) { return new Request(u, { cache: 'reload' }); })).then(function () {
@@ -35,7 +37,12 @@ self.addEventListener('activate', function (event) {
   event.waitUntil(
     caches.keys().then(function (keys) {
       return Promise.all(keys.filter(function (k) { return /^cays-english-/.test(k) && k !== CACHE; }).map(function (k) { return caches.delete(k); }));
-    }).then(function () { return self.clients.claim(); })
+    }).then(function () { return self.clients.claim(); }).then(function () {
+      // Tab /v2/ yang sempat dilayani versi lama dimuat ulang agar langsung membuka Cay's English V2.
+      return self.clients.matchAll({ type: 'window' }).then(function (cs) {
+        cs.forEach(function (c) { if (c.url.indexOf('/v2/') !== -1 && c.navigate) c.navigate(c.url); });
+      });
+    })
   );
 });
 
@@ -49,6 +56,8 @@ self.addEventListener('fetch', function (event) {
   if (req.method !== 'GET') return;
   var url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
+  // Aplikasi V2 di folder /v2/ punya service worker sendiri. Jangan dilayani oleh aplikasi lama.
+  if (url.pathname.indexOf('/v2/') !== -1) return;
   event.respondWith(
     caches.open(CACHE).then(function (cache) {
       var key = req.mode === 'navigate' ? 'index.html' : req;

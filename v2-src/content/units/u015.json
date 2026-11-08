@@ -1,0 +1,506 @@
+{
+ "schemaVersion": 1,
+ "no": 15,
+ "groupId": "present-perfect-past",
+ "title": "Past perfect (I had done)",
+ "lesson": {
+  "summary": "Past perfect dibentuk dengan *had + V3* untuk semua subjek: *I had left, she had finished*. Bentuk ini dipakai ketika kita sedang bercerita tentang masa lalu dan ingin menunjukkan bahwa sesuatu sudah terjadi lebih dulu sebelum titik itu.\n\nContohnya *When we got to the station, the train had already left.* Keretanya berangkat dulu, baru kami tiba. Bandingkan dengan *When we got to the station, the train left*, yang berarti kami tiba dan setelah itu keretanya berangkat.\n\nPast perfect adalah \"masa lalu dari masa lalu\". Bandingkan dengan present perfect yang berpatokan pada sekarang: *I'm not hungry. I've just eaten* (sekarang). *I wasn't hungry. I'd just eaten* (saat itu).\n\nPast perfect juga dipakai untuk pengalaman sampai suatu titik di masa lalu: *I had never eaten durian before I came to Medan.*",
+  "patterns": [
+   {
+    "formula": "had + V3 (semua subjek)",
+    "example": "She had already left."
+   },
+   {
+    "formula": "When + past simple, … had + V3",
+    "example": "When we arrived, the film had started."
+   },
+   {
+    "formula": "had never + V3 + before …",
+    "example": "I had never flown before."
+   },
+   {
+    "formula": "Had + subjek + V3 … ?",
+    "example": "Had you met her before?"
+   }
+  ],
+  "examples": [
+   {
+    "en": "When we got to the station, the train had already left.",
+    "id": "Waktu kami sampai di stasiun, keretanya sudah berangkat."
+   },
+   {
+    "en": "I didn't recognise Tono. He had changed a lot.",
+    "id": "Saya tidak mengenali Tono. Dia sudah banyak berubah."
+   },
+   {
+    "en": "She wasn't hungry because she'd just had lunch.",
+    "id": "Dia tidak lapar karena baru saja makan siang."
+   },
+   {
+    "en": "I had never eaten durian before I came to Medan.",
+    "id": "Saya belum pernah makan durian sebelum datang ke Medan."
+   },
+   {
+    "en": "When I arrived at the party, most of the guests had gone home.",
+    "id": "Waktu saya tiba di pesta, kebanyakan tamu sudah pulang."
+   },
+   {
+    "en": "Had you met her before the meeting?",
+    "id": "Apakah kamu sudah pernah bertemu dia sebelum rapat itu?"
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "When I arrived, the meeting has already started.",
+    "right": "When I arrived, the meeting had already started.",
+    "why": "Patokannya masa lalu (*arrived*), jadi pakai *had*, bukan *has*."
+   },
+   {
+    "wrong": "She had forget her password.",
+    "right": "She had forgotten her password.",
+    "why": "Setelah *had* perlu V3 (*forgotten*)."
+   },
+   {
+    "wrong": "They had went home.",
+    "right": "They had gone home.",
+    "why": "*went* adalah V2. V3 dari *go* adalah *gone*."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u015-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "When we got to the station, the train {{1}}.",
+   "blanks": [
+    {
+     "accept": [
+      "had already left",
+      "'d already left",
+      "had left already",
+      "'d left already"
+     ],
+     "hint": "already / leave"
+    }
+   ],
+   "explanation": "Keretanya berangkat sebelum kami tiba: had already left."
+  },
+  {
+   "id": "u015-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "I didn't recognise Tono. He {{1}} a lot.",
+   "blanks": [
+    {
+     "accept": [
+      "had changed",
+      "'d changed"
+     ],
+     "hint": "change"
+    }
+   ],
+   "explanation": "Perubahannya terjadi sebelum saya bertemu dia: had changed."
+  },
+  {
+   "id": "u015-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "She wasn't hungry because she {{1}} lunch.",
+   "blanks": [
+    {
+     "accept": [
+      "had just had",
+      "'d just had"
+     ],
+     "hint": "just / have"
+    }
+   ],
+   "explanation": "Patokannya masa lalu (wasn't): had just had."
+  },
+  {
+   "id": "u015-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "I {{1}} durian before I came to Medan.",
+   "blanks": [
+    {
+     "accept": [
+      "had never eaten",
+      "'d never eaten"
+     ],
+     "hint": "never / eat"
+    }
+   ],
+   "explanation": "Pengalaman sampai titik di masa lalu: had never eaten."
+  },
+  {
+   "id": "u015-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "When I arrived at the party, most of the guests {{1}} home.",
+   "blanks": [
+    {
+     "accept": [
+      "had gone",
+      "'d gone"
+     ],
+     "hint": "go"
+    }
+   ],
+   "explanation": "Mereka pulang sebelum saya tiba: had gone."
+  },
+  {
+   "id": "u015-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "The film {{1}} when we got to the cinema.",
+   "blanks": [
+    {
+     "accept": [
+      "had already started",
+      "'d already started",
+      "had started already",
+      "'d started already"
+     ],
+     "hint": "already / start"
+    }
+   ],
+   "explanation": "Filmnya mulai sebelum kami tiba: had already started."
+  },
+  {
+   "id": "u015-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "{{1}} her before the meeting?",
+   "blanks": [
+    {
+     "accept": [
+      "Had you met"
+     ],
+     "hint": "you / meet"
+    }
+   ],
+   "explanation": "Pertanyaan past perfect: Had + subjek + V3."
+  },
+  {
+   "id": "u015-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect (simple atau continuous).",
+   "sentence": "We were tired because we {{1}} for hours.",
+   "blanks": [
+    {
+     "accept": [
+      "had walked",
+      "had been walking",
+      "'d walked",
+      "'d been walking"
+     ],
+     "hint": "walk"
+    }
+   ],
+   "explanation": "Penyebab di masa lalu: had walked (atau had been walking)."
+  },
+  {
+   "id": "u015-q09",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya sudah mengunci pintu sebelum pergi.",
+   "tokens": [
+    "I",
+    "had",
+    "locked",
+    "the",
+    "door",
+    "before",
+    "I",
+    "left",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "had",
+     "locked",
+     "the",
+     "door",
+     "before",
+     "I",
+     "left",
+     "."
+    ],
+    [
+     "before",
+     "I",
+     "left",
+     "I",
+     "had",
+     "locked",
+     "the",
+     "door",
+     "."
+    ]
+   ],
+   "explanation": "had + V3 + before + past simple."
+  },
+  {
+   "id": "u015-q10",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia belum pernah naik pesawat sebelumnya.",
+   "tokens": [
+    "She",
+    "had",
+    "never",
+    "been",
+    "on",
+    "a",
+    "plane",
+    "before",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "had",
+     "never",
+     "been",
+     "on",
+     "a",
+     "plane",
+     "before",
+     "."
+    ]
+   ],
+   "explanation": "had never + V3."
+  },
+  {
+   "id": "u015-q11",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Waktu kami sampai, filmnya sudah mulai.",
+   "tokens": [
+    "When",
+    "we",
+    "arrived",
+    ",",
+    "the",
+    "film",
+    "had",
+    "already",
+    "started",
+    "."
+   ],
+   "accept": [
+    [
+     "When",
+     "we",
+     "arrived",
+     ",",
+     "the",
+     "film",
+     "had",
+     "already",
+     "started",
+     "."
+    ]
+   ],
+   "explanation": "When + past simple, … had already + V3."
+  },
+  {
+   "id": "u015-q12",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apakah kamu sudah makan sebelum datang?",
+   "tokens": [
+    "Had",
+    "you",
+    "eaten",
+    "before",
+    "you",
+    "came",
+    "?"
+   ],
+   "accept": [
+    [
+     "Had",
+     "you",
+     "eaten",
+     "before",
+     "you",
+     "came",
+     "?"
+    ]
+   ],
+   "explanation": "Had + subjek + V3 + before …?"
+  },
+  {
+   "id": "u015-q13",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When I got home, I found that someone ___ into the house.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had broken",
+     "why": "Benar. Pembobolannya terjadi sebelum saya pulang."
+    },
+    {
+     "id": "b",
+     "text": "has broken",
+     "why": "Patokannya masa lalu (got, found), jadi pakai had."
+    },
+    {
+     "id": "c",
+     "text": "breaks",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Terjadi lebih dulu dari kejadian lampau lain: had + V3."
+  },
+  {
+   "id": "u015-q14",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ the book, so I knew the ending of the film.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had read",
+     "why": "Benar. Membaca bukunya terjadi sebelum menonton film."
+    },
+    {
+     "id": "b",
+     "text": "have read",
+     "why": "Patokannya masa lalu (knew), jadi pakai had."
+    },
+    {
+     "id": "c",
+     "text": "was reading",
+     "why": "was reading berarti sedang membaca, tidak menjelaskan kenapa saya sudah tahu akhir ceritanya."
+    }
+   ],
+   "answer": "a",
+   "explanation": "had + V3 untuk sesuatu yang selesai lebih dulu."
+  },
+  {
+   "id": "u015-q15",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When Ani called, I ___ to bed yet, so I answered the phone.",
+   "options": [
+    {
+     "id": "a",
+     "text": "hadn't gone",
+     "why": "Benar. Saat Ani menelepon, saya belum tidur."
+    },
+    {
+     "id": "b",
+     "text": "haven't gone",
+     "why": "Patokannya masa lalu (called), jadi pakai hadn't."
+    },
+    {
+     "id": "c",
+     "text": "don't go",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "hadn't + V3 … yet: belum (pada saat itu)."
+  },
+  {
+   "id": "u015-q16",
+   "type": "mc",
+   "instruction": "Kalimat mana yang berarti Rina sudah pergi sebelum saya datang?",
+   "sentence": "(Pilih satu.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "When I arrived, Rina left.",
+     "why": "Ini berarti Rina pergi setelah saya datang."
+    },
+    {
+     "id": "b",
+     "text": "When I arrived, Rina had left.",
+     "why": "Benar. had left = sudah pergi lebih dulu."
+    },
+    {
+     "id": "c",
+     "text": "When I arrived, Rina was leaving.",
+     "why": "Ini berarti Rina sedang bersiap pergi saat saya datang."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Past perfect menunjukkan urutan: kejadian itu lebih dulu."
+  },
+  {
+   "id": "u015-q17",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "When I arrived,",
+    "the meeting",
+    "has already started."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "had already started.",
+    "had started already."
+   ],
+   "corrected": "When I arrived, the meeting had already started.",
+   "explanation": "Patokannya masa lalu: had already started."
+  },
+  {
+   "id": "u015-q18",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "had",
+    "forget",
+    "her password."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "forgotten"
+   ],
+   "corrected": "She had forgotten her password.",
+   "explanation": "Setelah had perlu V3: forgotten."
+  },
+  {
+   "id": "u015-q19",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I wasn't hungry",
+    "because I",
+    "have already eaten."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "had already eaten.",
+    "had eaten already."
+   ],
+   "corrected": "I wasn't hungry because I had already eaten.",
+   "explanation": "Patokannya masa lalu (wasn't): had already eaten."
+  },
+  {
+   "id": "u015-q20",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "They",
+    "had",
+    "went",
+    "home before the rain started."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "gone"
+   ],
+   "corrected": "They had gone home before the rain started.",
+   "explanation": "V3 dari go: gone."
+  }
+ ]
+}

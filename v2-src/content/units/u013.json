@@ -1,0 +1,499 @@
+{
+ "schemaVersion": 1,
+ "no": 13,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect and past 1 (I have done and I did)",
+ "lesson": {
+  "summary": "Saat menyampaikan berita atau informasi baru, kita sering memakai present perfect karena kejadiannya terkait dengan sekarang: *I've lost my keys. Somebody has stolen my bike!*\n\nBegitu percakapan berlanjut ke detail, seperti kapan, di mana, atau bagaimana, kita beralih ke past simple. Kejadiannya kini dilihat sebagai peristiwa di masa lalu: *Where did you lose them? I left them on the bus this morning.*\n\nPertanyaan dengan *When*, *What time*, atau keterangan waktu yang sudah selesai (*yesterday, last night, this morning* jika pagi sudah lewat) memakai past simple. Present perfect tidak dipakai bersama keterangan waktu yang selesai: *She has left two days ago* salah, yang benar *She left two days ago*.",
+  "patterns": [
+   {
+    "formula": "Berita baru: have/has + V3",
+    "example": "I've found a new job!"
+   },
+   {
+    "formula": "Detail berikutnya: past simple",
+    "example": "I started on Monday."
+   },
+   {
+    "formula": "When / What time / Where … + did … ?",
+    "example": "When did it happen?"
+   }
+  ],
+  "examples": [
+   {
+    "en": "I've found a new job! – Really? Where did you find it?",
+    "id": "Saya dapat kerja baru! – Oh ya? Dapat di mana?"
+   },
+   {
+    "en": "Somebody has stolen my bike! – When did that happen?",
+    "id": "Sepeda saya dicuri! – Kapan kejadiannya?"
+   },
+   {
+    "en": "I've lost my phone. I left it on the train this morning.",
+    "id": "HP saya hilang. Tadi pagi tertinggal di kereta."
+   },
+   {
+    "en": "Have you found your passport? – Yes, I found it under the bed.",
+    "id": "Paspormu sudah ketemu? – Sudah, ketemu di bawah kasur."
+   },
+   {
+    "en": "Dina has had a baby! It was born on Tuesday.",
+    "id": "Dina sudah melahirkan! Bayinya lahir hari Selasa."
+   },
+   {
+    "en": "We've moved house. We moved on 3 March.",
+    "id": "Kami sudah pindah rumah. Kami pindah tanggal 3 Maret."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "Where have you bought those shoes?",
+    "right": "Where did you buy those shoes?",
+    "why": "Pertanyaan tentang detail kejadian (di mana, kapan) memakai past simple."
+   },
+   {
+    "wrong": "Andi has won the lottery last week.",
+    "right": "Andi won the lottery last week.",
+    "why": "Keterangan waktu yang sudah selesai (*last week*) tidak dipakai dengan present perfect."
+   },
+   {
+    "wrong": "We have moved on 3 March.",
+    "right": "We moved on 3 March.",
+    "why": "Tanggal yang disebut membuat kejadiannya menjadi masa lalu yang selesai."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u013-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Guess what! I ___ a new job.",
+   "options": [
+    {
+     "id": "a",
+     "text": "'ve found",
+     "why": "Benar. Berita baru yang terkait dengan sekarang."
+    },
+    {
+     "id": "b",
+     "text": "find",
+     "why": "Ini bentuk sekarang/kebiasaan, padahal kejadiannya sudah terjadi."
+    },
+    {
+     "id": "c",
+     "text": "am finding",
+     "why": "Kejadiannya sudah terjadi, bukan sedang berlangsung."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Menyampaikan berita: present perfect."
+  },
+  {
+   "id": "u013-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I've found a new job! – Really? Where ___ it?",
+   "options": [
+    {
+     "id": "a",
+     "text": "did you find",
+     "why": "Benar. Menanyakan detail kejadian di masa lalu."
+    },
+    {
+     "id": "b",
+     "text": "have you found",
+     "why": "Pertanyaan tentang detail (di mana) biasanya memakai past simple."
+    },
+    {
+     "id": "c",
+     "text": "do you find",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Detail kejadian: past simple."
+  },
+  {
+   "id": "u013-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Oh no! Somebody ___ my bike!",
+   "options": [
+    {
+     "id": "a",
+     "text": "has stolen",
+     "why": "Benar. Berita baru dan akibatnya terasa sekarang."
+    },
+    {
+     "id": "b",
+     "text": "steals",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    },
+    {
+     "id": "c",
+     "text": "is stealing",
+     "why": "Pencuriannya sudah terjadi."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Berita baru dengan akibat sekarang: has + V3."
+  },
+  {
+   "id": "u013-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Somebody has stolen my bike! – Oh no! When ___?",
+   "options": [
+    {
+     "id": "a",
+     "text": "did that happen",
+     "why": "Benar. When menanyakan titik waktu di masa lalu."
+    },
+    {
+     "id": "b",
+     "text": "has that happened",
+     "why": "When tidak dipakai dengan present perfect."
+    },
+    {
+     "id": "c",
+     "text": "does that happen",
+     "why": "Ini menanyakan kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "When + past simple."
+  },
+  {
+   "id": "u013-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "The police ___ the thief. They caught him at the station last night.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have arrested",
+     "why": "Benar. Kalimat pertama menyampaikan berita, lalu detailnya memakai past simple."
+    },
+    {
+     "id": "b",
+     "text": "arrest",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    },
+    {
+     "id": "c",
+     "text": "are arresting",
+     "why": "Penangkapannya sudah terjadi."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Berita: present perfect. Detail: past simple."
+  },
+  {
+   "id": "u013-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ my laptop in a taxi yesterday.",
+   "options": [
+    {
+     "id": "a",
+     "text": "left",
+     "why": "Benar. yesterday adalah waktu yang sudah selesai."
+    },
+    {
+     "id": "b",
+     "text": "have left",
+     "why": "Present perfect tidak dipakai dengan yesterday."
+    },
+    {
+     "id": "c",
+     "text": "leave",
+     "why": "Kejadiannya kemarin."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Waktu yang selesai (yesterday): past simple."
+  },
+  {
+   "id": "u013-q07",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ your passport? – Yes, I found it under the bed.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you found",
+     "why": "Benar. Menanyakan hasil yang penting sekarang (paspor sudah ketemu atau belum)."
+    },
+    {
+     "id": "b",
+     "text": "Do you find",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    },
+    {
+     "id": "c",
+     "text": "Are you finding",
+     "why": "Ini bukan aktivitas yang sedang berlangsung."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Menanyakan hasil yang terkait dengan sekarang: Have you + V3?"
+  },
+  {
+   "id": "u013-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Dina has had a baby! It ___ on Tuesday.",
+   "options": [
+    {
+     "id": "a",
+     "text": "was born",
+     "why": "Benar. Detail kejadian (hari lahir) memakai past simple."
+    },
+    {
+     "id": "b",
+     "text": "has been born",
+     "why": "Hari kelahiran adalah waktu yang sudah selesai."
+    },
+    {
+     "id": "c",
+     "text": "is born",
+     "why": "Kelahirannya sudah terjadi."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Detail dengan waktu tertentu: past simple."
+  },
+  {
+   "id": "u013-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I've lost my phone.",
+    "I",
+    "have left",
+    "it on the train this morning."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "left"
+   ],
+   "corrected": "I've lost my phone. I left it on the train this morning.",
+   "explanation": "Detail kejadian (tadi pagi, di kereta): left."
+  },
+  {
+   "id": "u013-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Where",
+    "have you bought",
+    "those shoes?",
+    "They look great."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "did you buy"
+   ],
+   "corrected": "Where did you buy those shoes? They look great.",
+   "explanation": "Menanyakan detail kejadian: did you buy."
+  },
+  {
+   "id": "u013-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Have you heard the news?",
+    "Andi",
+    "has won",
+    "the lottery last week."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "won"
+   ],
+   "corrected": "Have you heard the news? Andi won the lottery last week.",
+   "explanation": "last week sudah selesai: won."
+  },
+  {
+   "id": "u013-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We've moved house.",
+    "We",
+    "have moved",
+    "on 3 March."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "moved"
+   ],
+   "corrected": "We've moved house. We moved on 3 March.",
+   "explanation": "Tanggal tertentu: moved."
+  },
+  {
+   "id": "u013-q13",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect (berita baru).",
+   "sentence": "I {{1}} my keys. I can't get into my flat.",
+   "blanks": [
+    {
+     "accept": [
+      "have lost",
+      "'ve lost"
+     ],
+     "hint": "lose"
+    }
+   ],
+   "explanation": "Berita baru dengan akibat sekarang: have lost."
+  },
+  {
+   "id": "u013-q14",
+   "type": "gap",
+   "instruction": "Tulis bentuk past simple (detail kejadian).",
+   "sentence": "I've lost my keys. – Where {{1}} them?",
+   "blanks": [
+    {
+     "accept": [
+      "did you lose"
+     ],
+     "hint": "you / lose"
+    }
+   ],
+   "explanation": "Menanyakan detail: did + you + bentuk dasar."
+  },
+  {
+   "id": "u013-q15",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect (berita baru).",
+   "sentence": "Rina {{1}} her leg. She fell off her bike yesterday.",
+   "blanks": [
+    {
+     "accept": [
+      "has broken",
+      "'s broken"
+     ],
+     "hint": "break"
+    }
+   ],
+   "explanation": "Berita: has broken. Detailnya (yesterday) memakai past simple: fell."
+  },
+  {
+   "id": "u013-q16",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect (berita baru).",
+   "sentence": "Prices {{1}} up again. Last month a kilo of rice cost less.",
+   "blanks": [
+    {
+     "accept": [
+      "have gone",
+      "'ve gone"
+     ],
+     "hint": "go"
+    }
+   ],
+   "explanation": "Berita/perubahan yang terasa sekarang: have gone up."
+  },
+  {
+   "id": "u013-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kamu sampai jam berapa?",
+   "tokens": [
+    "What",
+    "time",
+    "did",
+    "you",
+    "arrive",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "time",
+     "did",
+     "you",
+     "arrive",
+     "?"
+    ]
+   ],
+   "explanation": "What time + did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u013-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya sudah menyelesaikan skripsi saya!",
+   "tokens": [
+    "I",
+    "have",
+    "finished",
+    "my",
+    "thesis",
+    "!"
+   ],
+   "accept": [
+    [
+     "I",
+     "have",
+     "finished",
+     "my",
+     "thesis",
+     "!"
+    ]
+   ],
+   "explanation": "Berita baru: have + V3."
+  },
+  {
+   "id": "u013-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kapan kamu membelinya?",
+   "tokens": [
+    "When",
+    "did",
+    "you",
+    "buy",
+    "it",
+    "?"
+   ],
+   "accept": [
+    [
+     "When",
+     "did",
+     "you",
+     "buy",
+     "it",
+     "?"
+    ]
+   ],
+   "explanation": "When + did + subjek + bentuk dasar."
+  },
+  {
+   "id": "u013-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Ada yang sudah memakan kue saya.",
+   "tokens": [
+    "Somebody",
+    "has",
+    "eaten",
+    "my",
+    "cake",
+    "."
+   ],
+   "accept": [
+    [
+     "Somebody",
+     "has",
+     "eaten",
+     "my",
+     "cake",
+     "."
+    ]
+   ],
+   "explanation": "Berita dengan akibat sekarang: has + V3."
+  }
+ ]
+}

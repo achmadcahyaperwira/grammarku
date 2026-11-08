@@ -1,5 +1,9 @@
 # Cay's English
 
+> **Versi baru: Cay's English V2** ada di folder `v2/` dan tayang di
+> `https://achmadcahyaperwira.github.io/grammarku/v2/`. Kode sumbernya di `v2-src/`
+> (lihat `v2-src/README.md`). Aplikasi lama di bawah ini tetap berjalan seperti biasa.
+
 Aplikasi pribadi untuk belajar grammar bahasa Inggris unit demi unit, mengikuti kurikulum buku
 *English Grammar in Use*, Fifth Edition (Raymond Murphy, Cambridge University Press, 2019).
 Penjelasan dan soal ditulis ulang dengan kata-kata sendiri. Aplikasi ini tidak memuat teks, gambar,

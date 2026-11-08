@@ -1,0 +1,520 @@
+{
+ "schemaVersion": 1,
+ "no": 3,
+ "groupId": "present-past",
+ "title": "Present continuous and present simple 1 (I am doing and I do)",
+ "lesson": {
+  "summary": "Kedua bentuk ini sering tertukar karena bahasa Indonesia memakai kata kerja yang sama untuk keduanya. Kuncinya adalah melihat jenis situasinya.\n\nPresent continuous (*I am doing*) dipakai untuk sesuatu yang terjadi saat ini atau di sekitar sekarang, dan belum selesai: *The milk is boiling. Turn it off!* Bentuk ini juga untuk situasi sementara: *I'm staying with my aunt until I find a room.*\n\nPresent simple (*I do*) dipakai untuk hal umum, kebiasaan, dan fakta: *Milk boils at about 100 degrees.* Bentuk ini juga untuk situasi permanen atau berjangka panjang: *My grandparents live in Yogyakarta.*\n\nAda satu pola khusus: *always* dengan present continuous (*He's always borrowing my charger*). Pola ini berarti sesuatu terjadi terlalu sering, dan biasanya pembicara merasa kesal. Bandingkan dengan *He always borrows my charger*, yang hanya menyatakan kebiasaan.",
+  "patterns": [
+   {
+    "formula": "am/is/are + V-ing = sekarang / sementara",
+    "example": "I'm working at a café this month."
+   },
+   {
+    "formula": "V1 / V1-s = umum / kebiasaan / permanen",
+    "example": "She works at a bank."
+   },
+   {
+    "formula": "always + V1 = setiap kali",
+    "example": "He always takes the 7 a.m. bus."
+   },
+   {
+    "formula": "am/is/are + always + V-ing = terlalu sering (kesal)",
+    "example": "She's always losing her keys!"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Turn down the stove. The milk is boiling.",
+    "id": "Kecilkan kompornya. Susunya sedang mendidih."
+   },
+   {
+    "en": "My neighbour is from Korea, but he speaks Indonesian really well.",
+    "id": "Tetangga saya dari Korea, tetapi bahasa Indonesianya sangat bagus."
+   },
+   {
+    "en": "I'm staying with my aunt until I find my own room.",
+    "id": "Saya menumpang di rumah bibi sampai menemukan kamar sendiri."
+   },
+   {
+    "en": "My grandparents live in Yogyakarta.",
+    "id": "Kakek dan nenek saya tinggal di Yogyakarta."
+   },
+   {
+    "en": "Online shopping is becoming more and more popular.",
+    "id": "Belanja online makin lama makin populer."
+   },
+   {
+    "en": "Reza is always borrowing my charger and never giving it back!",
+    "id": "Reza selalu saja meminjam charger saya dan tidak pernah mengembalikannya!"
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "Listen! Somebody knocks at the door.",
+    "right": "Listen! Somebody is knocking at the door.",
+    "why": "Sesuatu yang terjadi saat ini memakai present continuous."
+   },
+   {
+    "wrong": "Cats are sleeping a lot.",
+    "right": "Cats sleep a lot.",
+    "why": "Fakta umum tentang semua kucing memakai present simple."
+   },
+   {
+    "wrong": "Usually I am walking to school.",
+    "right": "Usually I walk to school.",
+    "why": "*usually* menunjukkan kebiasaan, jadi memakai present simple."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u003-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Ice ___ when it gets warm.",
+   "options": [
+    {
+     "id": "a",
+     "text": "melts",
+     "why": "Benar. Ini fakta umum, jadi pakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "is melting",
+     "why": "is melting dipakai kalau es sedang mencair saat ini, bukan untuk fakta umum."
+    },
+    {
+     "id": "c",
+     "text": "melt",
+     "why": "Subjek ice (it) membutuhkan akhiran -s: melts."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Fakta umum memakai present simple."
+  },
+  {
+   "id": "u003-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Turn down the stove. The milk ___.",
+   "options": [
+    {
+     "id": "a",
+     "text": "boils",
+     "why": "boils menyatakan fakta umum. Di sini susunya sedang mendidih saat ini."
+    },
+    {
+     "id": "b",
+     "text": "is boiling",
+     "why": "Benar. Sedang terjadi sekarang, jadi pakai present continuous."
+    },
+    {
+     "id": "c",
+     "text": "boil",
+     "why": "Subjek the milk (it) tidak memakai bentuk dasar, dan aksinya sedang terjadi."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Peringatan tentang sesuatu yang sedang terjadi: present continuous."
+  },
+  {
+   "id": "u003-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "My neighbour is from Korea, but he ___ Indonesian really well.",
+   "options": [
+    {
+     "id": "a",
+     "text": "speaks",
+     "why": "Benar. Kemampuan umum, bukan aksi yang sedang terjadi."
+    },
+    {
+     "id": "b",
+     "text": "is speaking",
+     "why": "is speaking berarti dia sedang berbicara sekarang. Kalimat ini menyatakan kemampuan umum."
+    },
+    {
+     "id": "c",
+     "text": "speak",
+     "why": "Subjek he membutuhkan akhiran -s: speaks."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kemampuan dan fakta umum memakai present simple."
+  },
+  {
+   "id": "u003-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ with my aunt until I find my own room.",
+   "options": [
+    {
+     "id": "a",
+     "text": "stay",
+     "why": "Present simple untuk situasi permanen. Di sini situasinya sementara."
+    },
+    {
+     "id": "b",
+     "text": "am staying",
+     "why": "Benar. Situasi sementara (sampai menemukan kamar) memakai present continuous."
+    },
+    {
+     "id": "c",
+     "text": "am stay",
+     "why": "Setelah am perlu bentuk -ing: am staying."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Situasi sementara: present continuous."
+  },
+  {
+   "id": "u003-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "My grandparents ___ in Yogyakarta. They've been there all their lives.",
+   "options": [
+    {
+     "id": "a",
+     "text": "live",
+     "why": "Benar. Situasi permanen memakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "are living",
+     "why": "are living menyiratkan situasi sementara, padahal mereka tinggal di sana seumur hidup."
+    },
+    {
+     "id": "c",
+     "text": "lives",
+     "why": "My grandparents jamak (they), jadi kata kerjanya tanpa -s."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Situasi permanen atau berjangka panjang: present simple."
+  },
+  {
+   "id": "u003-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Why ___ so much noise? The baby is asleep.",
+   "options": [
+    {
+     "id": "a",
+     "text": "do you make",
+     "why": "Ini akan menanyakan kebiasaan. Kebisingannya sedang terjadi sekarang."
+    },
+    {
+     "id": "b",
+     "text": "are you making",
+     "why": "Benar. Pertanyaan tentang sesuatu yang sedang terjadi."
+    },
+    {
+     "id": "c",
+     "text": "you are making",
+     "why": "Dalam pertanyaan, are diletakkan sebelum subjek: are you making."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Aksi yang sedang berlangsung saat ini: present continuous."
+  },
+  {
+   "id": "u003-q07",
+   "type": "mc",
+   "instruction": "Kalimat mana yang menunjukkan pembicara kesal?",
+   "sentence": "(Pilih satu.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reza always takes the 7 o'clock bus.",
+     "why": "Ini hanya menyatakan kebiasaan, tanpa rasa kesal."
+    },
+    {
+     "id": "b",
+     "text": "Reza is always borrowing my charger and never giving it back.",
+     "why": "Benar. always + present continuous = terlalu sering, dan pembicara merasa kesal."
+    },
+    {
+     "id": "c",
+     "text": "Reza takes the bus every day.",
+     "why": "Ini kebiasaan biasa."
+    }
+   ],
+   "answer": "b",
+   "explanation": "am/is/are + always + V-ing menunjukkan sesuatu terjadi terlalu sering (biasanya menjengkelkan)."
+  },
+  {
+   "id": "u003-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Online shopping ___ more and more popular.",
+   "options": [
+    {
+     "id": "a",
+     "text": "becomes",
+     "why": "Perubahan yang sedang berlangsung lebih tepat memakai present continuous."
+    },
+    {
+     "id": "b",
+     "text": "is becoming",
+     "why": "Benar. more and more menunjukkan perubahan yang sedang terjadi."
+    },
+    {
+     "id": "c",
+     "text": "becoming",
+     "why": "Bentuk -ing butuh is di depannya."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Perubahan yang sedang berlangsung: is becoming, is getting, is increasing."
+  },
+  {
+   "id": "u003-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Listen!",
+    "Somebody",
+    "knocks",
+    "at the door."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "is knocking"
+   ],
+   "corrected": "Listen! Somebody is knocking at the door.",
+   "explanation": "Listen! menunjukkan sesuatu yang terjadi sekarang: is knocking."
+  },
+  {
+   "id": "u003-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "am going",
+    "to the gym three times a week",
+    "and have done for years."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "go"
+   ],
+   "corrected": "I go to the gym three times a week and have done for years.",
+   "explanation": "Kebiasaan yang sudah bertahun-tahun (permanen) memakai present simple: go."
+  },
+  {
+   "id": "u003-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Turn off the TV.",
+    "Nobody",
+    "watches",
+    "it."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "is watching"
+   ],
+   "corrected": "Turn off the TV. Nobody is watching it.",
+   "explanation": "Saat ini tidak ada yang menonton: is watching."
+  },
+  {
+   "id": "u003-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Usually",
+    "I'm walking",
+    "to school,",
+    "but today I'm taking a taxi."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "I walk"
+   ],
+   "corrected": "Usually I walk to school, but today I'm taking a taxi.",
+   "explanation": "Usually menunjukkan kebiasaan: I walk. Bagian today memang memakai continuous karena hanya hari ini."
+  },
+  {
+   "id": "u003-q13",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: present simple atau present continuous.",
+   "sentence": "Mira {{1}} tea, but today she {{2}} coffee.",
+   "blanks": [
+    {
+     "accept": [
+      "usually drinks"
+     ],
+     "hint": "usually / drink"
+    },
+    {
+     "accept": [
+      "is drinking",
+      "'s drinking"
+     ],
+     "hint": "drink"
+    }
+   ],
+   "explanation": "usually = kebiasaan (usually drinks). today = hanya hari ini (is drinking)."
+  },
+  {
+   "id": "u003-q14",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: present simple atau present continuous.",
+   "sentence": "{{1}} to me? I'm talking to you!",
+   "blanks": [
+    {
+     "accept": [
+      "Are you listening"
+     ],
+     "hint": "you / listen"
+    }
+   ],
+   "explanation": "Sedang terjadi sekarang: Are you listening?"
+  },
+  {
+   "id": "u003-q15",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: present simple atau present continuous.",
+   "sentence": "The River Musi {{1}} through Palembang.",
+   "blanks": [
+    {
+     "accept": [
+      "flows"
+     ],
+     "hint": "flow"
+    }
+   ],
+   "explanation": "Fakta geografis yang tetap: present simple."
+  },
+  {
+   "id": "u003-q16",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: present simple atau present continuous.",
+   "sentence": "What {{1}}? – He's a pilot.",
+   "blanks": [
+    {
+     "accept": [
+      "does your brother do"
+     ],
+     "hint": "your brother / do"
+    }
+   ],
+   "explanation": "What does … do? menanyakan pekerjaan (fakta umum), jadi memakai present simple."
+  },
+  {
+   "id": "u003-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sedang mencari kunci mobilnya.",
+   "tokens": [
+    "She",
+    "is",
+    "looking",
+    "for",
+    "her",
+    "car",
+    "keys",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "is",
+     "looking",
+     "for",
+     "her",
+     "car",
+     "keys",
+     "."
+    ]
+   ],
+   "explanation": "Aksi yang sedang terjadi: is + looking for."
+  },
+  {
+   "id": "u003-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami biasanya makan malam jam tujuh.",
+   "tokens": [
+    "We",
+    "usually",
+    "have",
+    "dinner",
+    "at",
+    "seven",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "usually",
+     "have",
+     "dinner",
+     "at",
+     "seven",
+     "."
+    ],
+    [
+     "usually",
+     "we",
+     "have",
+     "dinner",
+     "at",
+     "seven",
+     "."
+    ]
+   ],
+   "explanation": "Kebiasaan: usually + present simple."
+  },
+  {
+   "id": "u003-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Adikmu selalu saja mengeluh!",
+   "tokens": [
+    "Your",
+    "brother",
+    "is",
+    "always",
+    "complaining",
+    "!"
+   ],
+   "accept": [
+    [
+     "Your",
+     "brother",
+     "is",
+     "always",
+     "complaining",
+     "!"
+    ]
+   ],
+   "explanation": "Rasa kesal: is + always + V-ing."
+  },
+  {
+   "id": "u003-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apa yang sedang terjadi di luar?",
+   "tokens": [
+    "What",
+    "is",
+    "happening",
+    "outside",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "is",
+     "happening",
+     "outside",
+     "?"
+    ]
+   ],
+   "explanation": "Sedang terjadi sekarang: What is happening …?"
+  }
+ ]
+}

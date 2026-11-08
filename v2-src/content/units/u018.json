@@ -1,0 +1,485 @@
+{
+ "schemaVersion": 1,
+ "no": 18,
+ "groupId": "present-perfect-past",
+ "title": "used to (do)",
+ "lesson": {
+  "summary": "*used to + V1* dipakai untuk kebiasaan atau keadaan di masa lalu yang sekarang sudah tidak berlaku. Padanannya dalam bahasa Indonesia adalah \"dulu (sering)\": *I used to take sugar in my tea* (sekarang tidak lagi). *There used to be a cinema here* (sekarang sudah tidak ada).\n\n*used to* hanya ada dalam bentuk lampau. Tidak ada bentuk sekarang *I use to*. Untuk kebiasaan sekarang, pakai present simple, misalnya *I usually get up early.*\n\nUntuk kalimat tanya dan negatif, pakai *did/didn't + use to* (tanpa *d*): *Did you use to play football? She didn't use to like vegetables.* Bisa juga *never used to*.\n\nJangan tertukar dengan dua bentuk lain. *I was doing* berarti sedang berlangsung pada satu saat (*I was waiting for the bus when …*). *be used to + -ing* berarti sudah terbiasa (dibahas di Unit 61): *I'm used to getting up early.*",
+  "patterns": [
+   {
+    "formula": "used to + V1 = dulu (sekarang tidak lagi)",
+    "example": "I used to live in Surabaya."
+   },
+   {
+    "formula": "didn't use to + V1",
+    "example": "We didn't use to have a TV."
+   },
+   {
+    "formula": "Did + subjek + use to + V1 … ?",
+    "example": "Did you use to play football?"
+   },
+   {
+    "formula": "There used to be …",
+    "example": "There used to be a market here."
+   }
+  ],
+  "examples": [
+   {
+    "en": "I used to take sugar in my tea, but now I don't.",
+    "id": "Dulu saya pakai gula di teh, sekarang tidak lagi."
+   },
+   {
+    "en": "There used to be a bookshop on this corner, but it closed years ago.",
+    "id": "Dulu di pojok ini ada toko buku, tetapi sudah tutup bertahun-tahun lalu."
+   },
+   {
+    "en": "Did you use to play football when you were at school?",
+    "id": "Dulu kamu main sepak bola waktu sekolah?"
+   },
+   {
+    "en": "She didn't use to like vegetables, but now she loves them.",
+    "id": "Dulu dia tidak suka sayur, tetapi sekarang suka sekali."
+   },
+   {
+    "en": "My grandfather used to be a farmer before he moved to the city.",
+    "id": "Kakek saya dulu petani sebelum pindah ke kota."
+   },
+   {
+    "en": "Dimas used to smoke a lot, but he stopped last year.",
+    "id": "Dulu Dimas perokok berat, tetapi dia berhenti tahun lalu."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I use to walk to school.",
+    "right": "I used to walk to school.",
+    "why": "Bentuk positifnya selalu *used to* (dengan *d*)."
+   },
+   {
+    "wrong": "Did you used to live here?",
+    "right": "Did you use to live here?",
+    "why": "Setelah *did*, pakai *use to* (tanpa *d*)."
+   },
+   {
+    "wrong": "My father used to working in a bank.",
+    "right": "My father used to work in a bank.",
+    "why": "Setelah *used to*, pakai bentuk dasar. Bentuk *-ing* dipakai setelah *be used to*."
+   },
+   {
+    "wrong": "I used to get up early now.",
+    "right": "I usually get up early now.",
+    "why": "*used to* tidak punya bentuk sekarang. Untuk kebiasaan sekarang, pakai present simple."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u018-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "I {{1}} sugar in my tea, but now I don't.",
+   "blanks": [
+    {
+     "accept": [
+      "used to take"
+     ],
+     "hint": "use to / take"
+    }
+   ],
+   "explanation": "Kebiasaan dulu yang sudah berhenti: used to + V1."
+  },
+  {
+   "id": "u018-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "There {{1}} a bookshop on this corner, but it closed years ago.",
+   "blanks": [
+    {
+     "accept": [
+      "used to be"
+     ],
+     "hint": "use to / be"
+    }
+   ],
+   "explanation": "Keadaan dulu: There used to be …"
+  },
+  {
+   "id": "u018-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "{{1}} play football when you were at school?",
+   "blanks": [
+    {
+     "accept": [
+      "Did you use to"
+     ],
+     "hint": "you / use to"
+    }
+   ],
+   "explanation": "Pertanyaan: Did + you + use to (tanpa d)."
+  },
+  {
+   "id": "u018-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "She {{1}} like vegetables, but now she loves them.",
+   "blanks": [
+    {
+     "accept": [
+      "didn't use to",
+      "never used to",
+      "used not to"
+     ],
+     "hint": "not / use to"
+    }
+   ],
+   "explanation": "Negatif: didn't use to (atau never used to / used not to)."
+  },
+  {
+   "id": "u018-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "My grandfather {{1}} a farmer before he moved to the city.",
+   "blanks": [
+    {
+     "accept": [
+      "used to be"
+     ],
+     "hint": "use to / be"
+    }
+   ],
+   "explanation": "Keadaan dulu: used to be."
+  },
+  {
+   "id": "u018-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "We {{1}} in a small house near the river when I was a child.",
+   "blanks": [
+    {
+     "accept": [
+      "used to live"
+     ],
+     "hint": "use to / live"
+    }
+   ],
+   "explanation": "Keadaan di masa kecil: used to live."
+  },
+  {
+   "id": "u018-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "Where {{1}} before you moved here?",
+   "blanks": [
+    {
+     "accept": [
+      "did you use to work"
+     ],
+     "hint": "you / use to / work"
+    }
+   ],
+   "explanation": "Pertanyaan dengan kata tanya: Where + did + you + use to + V1."
+  },
+  {
+   "id": "u018-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk used to yang tepat.",
+   "sentence": "Dimas {{1}} a lot, but he stopped last year.",
+   "blanks": [
+    {
+     "accept": [
+      "used to smoke"
+     ],
+     "hint": "use to / smoke"
+    }
+   ],
+   "explanation": "Kebiasaan dulu: used to smoke."
+  },
+  {
+   "id": "u018-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "When I was young,",
+    "I",
+    "use to",
+    "walk to school."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "used to"
+   ],
+   "corrected": "When I was young, I used to walk to school.",
+   "explanation": "Bentuk positif: used to."
+  },
+  {
+   "id": "u018-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Did you",
+    "used to",
+    "live",
+    "in Surabaya?"
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "use to"
+   ],
+   "corrected": "Did you use to live in Surabaya?",
+   "explanation": "Setelah did: use to."
+  },
+  {
+   "id": "u018-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "My father",
+    "used to",
+    "working",
+    "in a bank."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "work"
+   ],
+   "corrected": "My father used to work in a bank.",
+   "explanation": "Setelah used to: bentuk dasar (work)."
+  },
+  {
+   "id": "u018-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "didn't used to",
+    "like",
+    "fish."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "didn't use to",
+    "never used to",
+    "used not to"
+   ],
+   "corrected": "I didn't use to like fish.",
+   "explanation": "Setelah didn't, pakai use to tanpa d: I didn't use to like fish."
+  },
+  {
+   "id": "u018-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dulu saya takut gelap.",
+   "tokens": [
+    "I",
+    "used",
+    "to",
+    "be",
+    "afraid",
+    "of",
+    "the",
+    "dark",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "used",
+     "to",
+     "be",
+     "afraid",
+     "of",
+     "the",
+     "dark",
+     "."
+    ]
+   ],
+   "explanation": "used to + be + kata sifat."
+  },
+  {
+   "id": "u018-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dulu kamu tinggal di mana?",
+   "tokens": [
+    "Where",
+    "did",
+    "you",
+    "use",
+    "to",
+    "live",
+    "?"
+   ],
+   "accept": [
+    [
+     "Where",
+     "did",
+     "you",
+     "use",
+     "to",
+     "live",
+     "?"
+    ]
+   ],
+   "explanation": "Where + did + you + use to + V1."
+  },
+  {
+   "id": "u018-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dulu kami tidak punya TV.",
+   "tokens": [
+    "We",
+    "didn't",
+    "use",
+    "to",
+    "have",
+    "a",
+    "TV",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "didn't",
+     "use",
+     "to",
+     "have",
+     "a",
+     "TV",
+     "."
+    ]
+   ],
+   "explanation": "didn't use to + V1."
+  },
+  {
+   "id": "u018-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dulu dia sering bermain di sungai ini.",
+   "tokens": [
+    "He",
+    "used",
+    "to",
+    "play",
+    "in",
+    "this",
+    "river",
+    "."
+   ],
+   "accept": [
+    [
+     "He",
+     "used",
+     "to",
+     "play",
+     "in",
+     "this",
+     "river",
+     "."
+    ]
+   ],
+   "explanation": "used to + V1."
+  },
+  {
+   "id": "u018-q17",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ coffee, but now I drink it every day.",
+   "options": [
+    {
+     "id": "a",
+     "text": "didn't use to drink",
+     "why": "Benar. Negatif used to: didn't use to + V1."
+    },
+    {
+     "id": "b",
+     "text": "don't use to drink",
+     "why": "used to tidak punya bentuk sekarang."
+    },
+    {
+     "id": "c",
+     "text": "wasn't used to drink",
+     "why": "be used to diikuti -ing dan artinya \"terbiasa\", bukan \"dulu\"."
+    }
+   ],
+   "answer": "a",
+   "explanation": "didn't use to + V1."
+  },
+  {
+   "id": "u018-q18",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Ana ___ in Bandung. Now she lives in Bali.",
+   "options": [
+    {
+     "id": "a",
+     "text": "used to live",
+     "why": "Benar. Keadaan dulu yang sudah berubah."
+    },
+    {
+     "id": "b",
+     "text": "uses to live",
+     "why": "used to tidak punya bentuk sekarang."
+    },
+    {
+     "id": "c",
+     "text": "is used to live",
+     "why": "be used to bermakna lain (terbiasa) dan diikuti -ing."
+    }
+   ],
+   "answer": "a",
+   "explanation": "used to + V1 = dulu, sekarang tidak lagi."
+  },
+  {
+   "id": "u018-q19",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ the bus when I saw the accident.",
+   "options": [
+    {
+     "id": "a",
+     "text": "was waiting for",
+     "why": "Benar. Sedang berlangsung pada saat itu: past continuous."
+    },
+    {
+     "id": "b",
+     "text": "used to wait for",
+     "why": "used to adalah kebiasaan dulu, bukan aksi yang sedang berlangsung pada satu saat."
+    },
+    {
+     "id": "c",
+     "text": "use to wait for",
+     "why": "Bentuk use to tanpa did tidak benar."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Satu kejadian yang sedang berlangsung: was/were + V-ing."
+  },
+  {
+   "id": "u018-q20",
+   "type": "mc",
+   "instruction": "Kalimat mana yang berarti \"Dulu saya sering main gitar, sekarang tidak lagi\"?",
+   "sentence": "(Pilih satu.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "I used to play the guitar.",
+     "why": "Benar. used to = kebiasaan dulu."
+    },
+    {
+     "id": "b",
+     "text": "I'm used to playing the guitar.",
+     "why": "Ini berarti saya sudah terbiasa bermain gitar."
+    },
+    {
+     "id": "c",
+     "text": "I use to play the guitar.",
+     "why": "Bentuk use to tanpa did tidak benar."
+    }
+   ],
+   "answer": "a",
+   "explanation": "used to + V1 vs be used to + V-ing."
+  }
+ ]
+}

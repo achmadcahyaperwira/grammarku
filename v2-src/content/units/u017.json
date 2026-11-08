@@ -1,0 +1,514 @@
+{
+ "schemaVersion": 1,
+ "no": 17,
+ "groupId": "present-perfect-past",
+ "title": "have and have got",
+ "lesson": {
+  "summary": "*have* dan *have got* sama-sama berarti \"punya\" atau \"memiliki\". Keduanya dipakai untuk barang, hubungan keluarga, penyakit, dan janji temu: *I've got a headache. She has two brothers. We've got a meeting at three.* *have got* lebih umum dalam bahasa lisan British.\n\nUntuk kalimat tanya dan negatif, ada tiga bentuk:\n*Do you have a car? / Have you got a car? / Have you a car?* (yang terakhir jarang dipakai).\n*I don't have a car. / I haven't got a car.*\nJangan mencampur kedua pola: *Do you have got* salah.\n\nUntuk masa lalu, pakai *had* tanpa *got*: *When I was a child, I had a bicycle. Did you have a phone then?*\n\n*have* juga dipakai untuk aksi, seperti *have lunch, have a bath, have fun, have a look, have a rest*. Dalam pemakaian ini, *got* tidak boleh dipakai, dan bentuk continuous diperbolehkan: *We're having lunch. She has a shower every morning.*",
+  "patterns": [
+   {
+    "formula": "have got / has got = punya (sekarang)",
+    "example": "I've got two sisters."
+   },
+   {
+    "formula": "Do you have … ? / Have you got … ?",
+    "example": "Have you got a pen?"
+   },
+   {
+    "formula": "don't have / haven't got",
+    "example": "He doesn't have a car. / He hasn't got a car."
+   },
+   {
+    "formula": "had (lampau, tanpa got)",
+    "example": "I had a bike when I was a child."
+   },
+   {
+    "formula": "have + breakfast / a shower / a good time (tanpa got)",
+    "example": "We had a great time."
+   }
+  ],
+  "examples": [
+   {
+    "en": "Have you got a pen I can borrow?",
+    "id": "Kamu punya pulpen yang bisa saya pinjam?"
+   },
+   {
+    "en": "She has got two brothers and a sister.",
+    "id": "Dia punya dua kakak laki-laki dan seorang adik perempuan."
+   },
+   {
+    "en": "I've got a headache. Do you have any medicine?",
+    "id": "Kepala saya pusing. Kamu punya obat?"
+   },
+   {
+    "en": "Sorry, I can't come. I've got a dentist appointment at three.",
+    "id": "Maaf, saya tidak bisa datang. Saya ada janji dengan dokter gigi jam tiga."
+   },
+   {
+    "en": "We usually have lunch at a warung near the office.",
+    "id": "Kami biasanya makan siang di warung dekat kantor."
+   },
+   {
+    "en": "They had a great time at the party last night.",
+    "id": "Mereka bersenang-senang di pesta tadi malam."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "Do you have got a car?",
+    "right": "Do you have a car? / Have you got a car?",
+    "why": "Jangan mencampur *do* dengan *have got*."
+   },
+   {
+    "wrong": "We had got a great time at the party.",
+    "right": "We had a great time at the party.",
+    "why": "*have a good time* adalah aksi, jadi tidak memakai *got*."
+   },
+   {
+    "wrong": "She has got a shower every morning.",
+    "right": "She has a shower every morning.",
+    "why": "Untuk aksi rutin (mandi, makan), pakai *have* saja."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u017-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ a pen I can borrow?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you got",
+     "why": "Benar. Pertanyaan dengan have got: Have + subjek + got."
+    },
+    {
+     "id": "b",
+     "text": "Do you got",
+     "why": "got tidak dipakai setelah do."
+    },
+    {
+     "id": "c",
+     "text": "Are you having",
+     "why": "have dengan arti memiliki tidak dipakai dalam bentuk continuous."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Have you got …? atau Do you have …?"
+  },
+  {
+   "id": "u017-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "She ___ two brothers and a sister.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has got",
+     "why": "Benar. Subjek she: has got."
+    },
+    {
+     "id": "b",
+     "text": "have got",
+     "why": "Subjek she membutuhkan has."
+    },
+    {
+     "id": "c",
+     "text": "is having",
+     "why": "Memiliki saudara bukan aktivitas, jadi tidak memakai continuous."
+    }
+   ],
+   "answer": "a",
+   "explanation": "he/she/it + has got."
+  },
+  {
+   "id": "u017-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "We ___ breakfast at seven every day.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have",
+     "why": "Benar. have breakfast adalah aksi, jadi tanpa got."
+    },
+    {
+     "id": "b",
+     "text": "have got",
+     "why": "got tidak dipakai untuk aksi seperti makan atau mandi."
+    },
+    {
+     "id": "c",
+     "text": "are having got",
+     "why": "Bentuk ini tidak ada."
+    }
+   ],
+   "answer": "a",
+   "explanation": "have + breakfast/lunch/a shower (tanpa got)."
+  },
+  {
+   "id": "u017-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ a headache. Do you have any medicine?",
+   "options": [
+    {
+     "id": "a",
+     "text": "'ve got",
+     "why": "Benar. Sakit/penyakit: have got."
+    },
+    {
+     "id": "b",
+     "text": "'m having got",
+     "why": "Bentuk ini tidak ada."
+    },
+    {
+     "id": "c",
+     "text": "got have",
+     "why": "Urutannya salah."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Penyakit: I have / I've got a headache, a cold, a fever."
+  },
+  {
+   "id": "u017-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ any brothers or sisters?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Do you have",
+     "why": "Benar. Pertanyaan dengan have: Do you have …?"
+    },
+    {
+     "id": "b",
+     "text": "Are you having",
+     "why": "have dengan arti memiliki tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "Do you have got",
+     "why": "Jangan mencampur do dengan have got."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Do you have …? / Have you got …?"
+  },
+  {
+   "id": "u017-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When I was a child, I ___ a bicycle.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had",
+     "why": "Benar. Masa lalu: had tanpa got."
+    },
+    {
+     "id": "b",
+     "text": "had got",
+     "why": "Untuk kepemilikan di masa lalu, pakai had saja."
+    },
+    {
+     "id": "c",
+     "text": "have got",
+     "why": "Kalimatnya tentang masa lalu."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Lampau: had."
+  },
+  {
+   "id": "u017-q07",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "They ___ a great time at the party last night.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had",
+     "why": "Benar. have a good time adalah aksi, dan bentuk lampaunya had."
+    },
+    {
+     "id": "b",
+     "text": "had got",
+     "why": "got tidak dipakai untuk aksi."
+    },
+    {
+     "id": "c",
+     "text": "have got",
+     "why": "Kalimatnya tentang masa lalu, dan got tidak dipakai untuk aksi."
+    }
+   ],
+   "answer": "a",
+   "explanation": "have a good/great time → had a good/great time."
+  },
+  {
+   "id": "u017-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Sorry, I can't come. I ___ a dentist appointment at three.",
+   "options": [
+    {
+     "id": "a",
+     "text": "'ve got",
+     "why": "Benar. Janji temu: have got."
+    },
+    {
+     "id": "b",
+     "text": "'m got",
+     "why": "am tidak digabung dengan got."
+    },
+    {
+     "id": "c",
+     "text": "has got",
+     "why": "Subjek I memakai have got, bukan has got."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Janji temu: I've got / I have an appointment."
+  },
+  {
+   "id": "u017-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Do you",
+    "have got",
+    "a car?"
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have"
+   ],
+   "corrected": "Do you have a car?",
+   "explanation": "Dengan do, pakai have saja: Do you have a car?"
+  },
+  {
+   "id": "u017-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "had got",
+    "a great time",
+    "at the party."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "had"
+   ],
+   "corrected": "We had a great time at the party.",
+   "explanation": "have a great time adalah aksi, jadi tanpa got. Lampaunya: had."
+  },
+  {
+   "id": "u017-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "has got",
+    "a shower",
+    "every morning."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "has"
+   ],
+   "corrected": "She has a shower every morning.",
+   "explanation": "Aksi rutin: has a shower (tanpa got)."
+  },
+  {
+   "id": "u017-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "He",
+    "don't have",
+    "any money",
+    "right now."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "doesn't have",
+    "hasn't got"
+   ],
+   "corrected": "He doesn't have any money right now.",
+   "explanation": "Subjek he: doesn't have atau hasn't got."
+  },
+  {
+   "id": "u017-q13",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "{{1}} any time to help me this afternoon?",
+   "blanks": [
+    {
+     "accept": [
+      "Have you got"
+     ],
+     "hint": "you / have got"
+    }
+   ],
+   "explanation": "Pertanyaan have got: Have + you + got."
+  },
+  {
+   "id": "u017-q14",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} a cold, so I'm staying at home.",
+   "blanks": [
+    {
+     "accept": [
+      "have got",
+      "'ve got"
+     ],
+     "hint": "have got"
+    }
+   ],
+   "explanation": "Penyakit: have got."
+  },
+  {
+   "id": "u017-q15",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "We usually {{1}} lunch at a warung near the office.",
+   "blanks": [
+    {
+     "accept": [
+      "have"
+     ],
+     "hint": "have"
+    }
+   ],
+   "explanation": "Aksi makan siang: have (tanpa got)."
+  },
+  {
+   "id": "u017-q16",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "My brother {{1}} a job at the moment.",
+   "blanks": [
+    {
+     "accept": [
+      "doesn't have",
+      "hasn't got"
+     ],
+     "hint": "not / have"
+    }
+   ],
+   "explanation": "Negatif untuk he: doesn't have / hasn't got."
+  },
+  {
+   "id": "u017-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apakah kamu punya waktu sebentar?",
+   "tokens": [
+    "Have",
+    "you",
+    "got",
+    "a",
+    "minute",
+    "?"
+   ],
+   "accept": [
+    [
+     "Have",
+     "you",
+     "got",
+     "a",
+     "minute",
+     "?"
+    ]
+   ],
+   "explanation": "Have + you + got + …?"
+  },
+  {
+   "id": "u017-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia tidak punya mobil.",
+   "tokens": [
+    "She",
+    "doesn't",
+    "have",
+    "a",
+    "car",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "doesn't",
+     "have",
+     "a",
+     "car",
+     "."
+    ]
+   ],
+   "explanation": "doesn't have + kata benda."
+  },
+  {
+   "id": "u017-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami bersenang-senang di pantai.",
+   "tokens": [
+    "We",
+    "had",
+    "a",
+    "great",
+    "time",
+    "at",
+    "the",
+    "beach",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "had",
+     "a",
+     "great",
+     "time",
+     "at",
+     "the",
+     "beach",
+     "."
+    ]
+   ],
+   "explanation": "have a great time → had (lampau)."
+  },
+  {
+   "id": "u017-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Berapa anak yang mereka punya?",
+   "tokens": [
+    "How",
+    "many",
+    "children",
+    "have",
+    "they",
+    "got",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "many",
+     "children",
+     "have",
+     "they",
+     "got",
+     "?"
+    ]
+   ],
+   "explanation": "How many + kata benda + have + subjek + got?"
+  }
+ ]
+}

@@ -1,0 +1,488 @@
+{
+ "schemaVersion": 1,
+ "no": 11,
+ "groupId": "present-perfect-past",
+ "title": "how long have you (been) … ?",
+ "lesson": {
+  "summary": "Untuk menanyakan sudah berapa lama sesuatu berlangsung sampai sekarang, pakai *How long* + present perfect. Untuk aktivitas, bentuk continuous paling umum: *How long have you been studying Indonesian?* Untuk kata kerja keadaan (*know, have, be, like*), pakai bentuk simple: *How long have you known Dinda? How long have you had your car?*\n\nPenutur Indonesia sering memakai bentuk sekarang (*How long are you here?*). Bentuk *Are you* hanya menanyakan keadaan sekarang. Kalau yang ditanyakan durasi sampai sekarang, pakai *have you been*: *How long have you been here?*\n\nUntuk *live* dan *work*, bentuk simple dan continuous sama-sama benar: *She has lived / has been living in Malang since 2017.*\n\nKalimat negatif dengan *since* atau *for* biasanya memakai present perfect simple: *I haven't seen my grandparents for months. I haven't eaten since breakfast.*",
+  "patterns": [
+   {
+    "formula": "How long + have/has + subjek + been + V-ing … ?",
+    "example": "How long have you been learning to drive?"
+   },
+   {
+    "formula": "How long + have/has + subjek + V3 (keadaan) … ?",
+    "example": "How long have you known her?"
+   },
+   {
+    "formula": "How long + have/has + subjek + been + tempat/keadaan?",
+    "example": "How long have you been in Jakarta?"
+   },
+   {
+    "formula": "haven't/hasn't + V3 + for/since",
+    "example": "I haven't seen him since March."
+   }
+  ],
+  "examples": [
+   {
+    "en": "How long have you had your car?",
+    "id": "Sudah berapa lama kamu punya mobil itu?"
+   },
+   {
+    "en": "Fajar is in hospital. He's been there since Sunday.",
+    "id": "Fajar dirawat di rumah sakit. Dia sudah di sana sejak hari Minggu."
+   },
+   {
+    "en": "How long have you been studying Indonesian? – For about a year.",
+    "id": "Sudah berapa lama kamu belajar bahasa Indonesia? – Sekitar setahun."
+   },
+   {
+    "en": "They've been married for twenty years.",
+    "id": "Mereka sudah menikah selama dua puluh tahun."
+   },
+   {
+    "en": "She has lived in Malang since 2017.",
+    "id": "Dia sudah tinggal di Malang sejak 2017."
+   },
+   {
+    "en": "I haven't seen my grandparents for months. I should visit them.",
+    "id": "Sudah berbulan-bulan saya tidak bertemu kakek-nenek. Saya harus mengunjungi mereka."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I know her for five years.",
+    "right": "I've known her for five years.",
+    "why": "Durasi sampai sekarang memakai present perfect, walaupun bahasa Indonesianya cukup \"kenal\"."
+   },
+   {
+    "wrong": "How long are you in Jakarta?",
+    "right": "How long have you been in Jakarta?",
+    "why": "*How long* sampai sekarang memakai *have you been*."
+   },
+   {
+    "wrong": "He is working here since March.",
+    "right": "He has been working here since March.",
+    "why": "*since* tidak dipakai dengan present continuous."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u011-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "How long {{1}} your car?",
+   "blanks": [
+    {
+     "accept": [
+      "have you had"
+     ],
+     "hint": "you / have"
+    }
+   ],
+   "explanation": "have (memiliki) adalah keadaan: How long have you had …?"
+  },
+  {
+   "id": "u011-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "Fajar is in hospital. He {{1}} there since Sunday.",
+   "blanks": [
+    {
+     "accept": [
+      "has been",
+      "'s been"
+     ],
+     "hint": "be"
+    }
+   ],
+   "explanation": "Keadaan sampai sekarang: has been there since Sunday."
+  },
+  {
+   "id": "u011-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "How long {{1}} Indonesian? – For about a year.",
+   "blanks": [
+    {
+     "accept": [
+      "have you been studying",
+      "have you studied"
+     ],
+     "hint": "you / study"
+    }
+   ],
+   "explanation": "Aktivitas sampai sekarang: bentuk continuous paling umum, tetapi simple juga benar."
+  },
+  {
+   "id": "u011-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} my grandparents for months. I should visit them.",
+   "blanks": [
+    {
+     "accept": [
+      "haven't seen"
+     ],
+     "hint": "not / see"
+    }
+   ],
+   "explanation": "Negatif dengan for: haven't + V3."
+  },
+  {
+   "id": "u011-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "They {{1}} married for twenty years.",
+   "blanks": [
+    {
+     "accept": [
+      "have been",
+      "'ve been"
+     ],
+     "hint": "be"
+    }
+   ],
+   "explanation": "Keadaan menikah sampai sekarang: have been married."
+  },
+  {
+   "id": "u011-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "She {{1}} in Malang since 2017.",
+   "blanks": [
+    {
+     "accept": [
+      "has lived",
+      "has been living",
+      "'s lived",
+      "'s been living"
+     ],
+     "hint": "live"
+    }
+   ],
+   "explanation": "live boleh simple atau continuous."
+  },
+  {
+   "id": "u011-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "How long {{1}} each other?",
+   "blanks": [
+    {
+     "accept": [
+      "have you and Dinda known"
+     ],
+     "hint": "you and Dinda / know"
+    }
+   ],
+   "explanation": "know adalah keadaan: How long have … known …?"
+  },
+  {
+   "id": "u011-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} anything since breakfast.",
+   "blanks": [
+    {
+     "accept": [
+      "haven't eaten"
+     ],
+     "hint": "not / eat"
+    }
+   ],
+   "explanation": "Negatif dengan since: haven't + V3."
+  },
+  {
+   "id": "u011-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "know",
+    "her",
+    "for five years."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have known"
+   ],
+   "corrected": "I have known her for five years.",
+   "explanation": "Durasi sampai sekarang: have known."
+  },
+  {
+   "id": "u011-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "How long",
+    "are you",
+    "in Jakarta? – Since May."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have you been"
+   ],
+   "corrected": "How long have you been in Jakarta? – Since May.",
+   "explanation": "Jawabannya Since May, jadi yang ditanyakan durasi sampai sekarang: have you been."
+  },
+  {
+   "id": "u011-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "He",
+    "is working",
+    "here",
+    "since March."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "has been working",
+    "has worked"
+   ],
+   "corrected": "He has been working here since March.",
+   "explanation": "since + titik awal: has been working (atau has worked)."
+  },
+  {
+   "id": "u011-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "haven't",
+    "see",
+    "each other since 2020."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "seen"
+   ],
+   "corrected": "We haven't seen each other since 2020.",
+   "explanation": "Setelah haven't perlu V3: seen."
+  },
+  {
+   "id": "u011-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah berapa lama kamu punya kucing ini?",
+   "tokens": [
+    "How",
+    "long",
+    "have",
+    "you",
+    "had",
+    "this",
+    "cat",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "long",
+     "have",
+     "you",
+     "had",
+     "this",
+     "cat",
+     "?"
+    ]
+   ],
+   "explanation": "How long + have + you + had."
+  },
+  {
+   "id": "u011-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya sudah tinggal di sini sejak kecil.",
+   "tokens": [
+    "I",
+    "have",
+    "lived",
+    "here",
+    "since",
+    "I",
+    "was",
+    "a",
+    "child",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "have",
+     "lived",
+     "here",
+     "since",
+     "I",
+     "was",
+     "a",
+     "child",
+     "."
+    ]
+   ],
+   "explanation": "have lived + since + kalimat lampau."
+  },
+  {
+   "id": "u011-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia tidak menelepon saya selama seminggu.",
+   "tokens": [
+    "She",
+    "hasn't",
+    "called",
+    "me",
+    "for",
+    "a",
+    "week",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "hasn't",
+     "called",
+     "me",
+     "for",
+     "a",
+     "week",
+     "."
+    ]
+   ],
+   "explanation": "hasn't + V3 + for + durasi."
+  },
+  {
+   "id": "u011-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah berapa lama kamu belajar menyetir?",
+   "tokens": [
+    "How",
+    "long",
+    "have",
+    "you",
+    "been",
+    "learning",
+    "to",
+    "drive",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "long",
+     "have",
+     "you",
+     "been",
+     "learning",
+     "to",
+     "drive",
+     "?"
+    ]
+   ],
+   "explanation": "How long + have + you + been + V-ing."
+  },
+  {
+   "id": "u011-q17",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Ana ___ in the same office for ten years.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has worked",
+     "why": "Benar. Durasi sampai sekarang: present perfect."
+    },
+    {
+     "id": "b",
+     "text": "is working",
+     "why": "for ten years sampai sekarang tidak dipakai dengan present continuous."
+    },
+    {
+     "id": "c",
+     "text": "works",
+     "why": "Present simple tidak menyatakan berapa lama sampai sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Durasi sampai sekarang: have/has + V3 (atau been + V-ing)."
+  },
+  {
+   "id": "u011-q18",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "How long ___ this phone?",
+   "options": [
+    {
+     "id": "a",
+     "text": "have you had",
+     "why": "Benar. have (memiliki) adalah keadaan, jadi pakai bentuk simple."
+    },
+    {
+     "id": "b",
+     "text": "have you been having",
+     "why": "have dengan arti memiliki tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "do you have",
+     "why": "Ini tidak menanyakan durasi sampai sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kata kerja keadaan: How long have you + V3?"
+  },
+  {
+   "id": "u011-q19",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I'm learning to swim. – Oh, how long ___?",
+   "options": [
+    {
+     "id": "a",
+     "text": "have you been learning",
+     "why": "Benar. Durasi aktivitas sampai sekarang."
+    },
+    {
+     "id": "b",
+     "text": "are you learning",
+     "why": "How long sampai sekarang tidak memakai present continuous."
+    },
+    {
+     "id": "c",
+     "text": "do you learn",
+     "why": "Ini bukan pertanyaan tentang kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "How long + have/has + been + V-ing."
+  },
+  {
+   "id": "u011-q20",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ to a concert for ages.",
+   "options": [
+    {
+     "id": "a",
+     "text": "haven't been",
+     "why": "Benar. Negatif dengan for: haven't + V3."
+    },
+    {
+     "id": "b",
+     "text": "don't go",
+     "why": "Present simple tidak menyatakan berapa lama sampai sekarang."
+    },
+    {
+     "id": "c",
+     "text": "am not going",
+     "why": "Present continuous tidak dipakai dengan for ages sampai sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "haven't + V3 + for/since."
+  }
+ ]
+}

@@ -1,0 +1,497 @@
+{
+ "schemaVersion": 1,
+ "no": 6,
+ "groupId": "present-past",
+ "title": "Past continuous (I was doing)",
+ "lesson": {
+  "summary": "Past continuous dibentuk dengan *was/were + V-ing*. Bentuk ini dipakai untuk sesuatu yang sedang berlangsung pada satu waktu tertentu di masa lalu: *At 9 p.m. yesterday I was watching a film.* Pada pukul 9 aksinya sudah dimulai dan belum selesai.\n\nBandingkan dengan past simple, yang menyatakan aksi utuh yang sudah selesai. *I was walking home* menceritakan prosesnya. *I walked home* menceritakan seluruh kejadiannya.\n\nKedua bentuk ini sering dipakai bersama. Aksi panjang (latar) memakai past continuous, sedangkan aksi pendek yang terjadi di tengahnya memakai past simple: *While Sinta was cooking, the phone rang. When the lights went off, we were having dinner.*\n\nKata kerja keadaan seperti *know, want, understand* tetap memakai past simple: *I didn't know what to do* (bukan *wasn't knowing*).",
+  "patterns": [
+   {
+    "formula": "I / he / she / it + was + V-ing",
+    "example": "I was sleeping at midnight."
+   },
+   {
+    "formula": "you / we / they + were + V-ing",
+    "example": "They were playing cards."
+   },
+   {
+    "formula": "While + past continuous, past simple",
+    "example": "While I was walking home, it started to rain."
+   },
+   {
+    "formula": "past simple when + past simple (berurutan)",
+    "example": "When she arrived, we started eating."
+   }
+  ],
+  "examples": [
+   {
+    "en": "At 9 p.m. yesterday I was watching a film.",
+    "id": "Jam 9 malam kemarin saya sedang menonton film."
+   },
+   {
+    "en": "When the electricity went off, we were having dinner.",
+    "id": "Waktu listrik padam, kami sedang makan malam."
+   },
+   {
+    "en": "While Sinta was cooking, the phone rang.",
+    "id": "Saat Sinta sedang memasak, teleponnya berdering."
+   },
+   {
+    "en": "Dodi fell off his bike while he was riding home.",
+    "id": "Dodi jatuh dari sepeda saat sedang bersepeda pulang."
+   },
+   {
+    "en": "It was raining when I left the office, so I took a taxi.",
+    "id": "Hujan sedang turun waktu saya keluar kantor, jadi saya naik taksi."
+   },
+   {
+    "en": "I didn't know what to do, so I asked my boss.",
+    "id": "Saya tidak tahu harus berbuat apa, jadi saya bertanya kepada atasan."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I was walking home when it was starting to rain.",
+    "right": "I was walking home when it started to rain.",
+    "why": "Aksi pendek yang memotong aksi panjang memakai past simple."
+   },
+   {
+    "wrong": "I was seeing an accident on my way home.",
+    "right": "I saw an accident on my way home.",
+    "why": "*see* adalah aksi singkat dan kata kerja keadaan, jadi memakai past simple."
+   },
+   {
+    "wrong": "When the guests arrived, we still cooked the rice.",
+    "right": "When the guests arrived, we were still cooking the rice.",
+    "why": "Prosesnya sedang berlangsung saat tamu datang."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u006-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "At 9 o'clock last night I {{1}} a film.",
+   "blanks": [
+    {
+     "accept": [
+      "was watching"
+     ],
+     "hint": "watch"
+    }
+   ],
+   "explanation": "Sedang berlangsung pada waktu tertentu di masa lalu: was watching."
+  },
+  {
+   "id": "u006-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "When the electricity went off, we {{1}} dinner.",
+   "blanks": [
+    {
+     "accept": [
+      "were having"
+     ],
+     "hint": "have"
+    }
+   ],
+   "explanation": "Aksi yang sedang berlangsung saat kejadian lain terjadi: were having."
+  },
+  {
+   "id": "u006-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "What {{1}} when I called you?",
+   "blanks": [
+    {
+     "accept": [
+      "were you doing"
+     ],
+     "hint": "you / do"
+    }
+   ],
+   "explanation": "Pertanyaan past continuous: What were you doing …?"
+  },
+  {
+   "id": "u006-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "It {{1}} when I left the office, so I took a taxi.",
+   "blanks": [
+    {
+     "accept": [
+      "was raining"
+     ],
+     "hint": "rain"
+    }
+   ],
+   "explanation": "Latar kejadian: hujan sedang turun."
+  },
+  {
+   "id": "u006-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: past continuous atau past simple.",
+   "sentence": "While Sinta {{1}}, the phone {{2}}.",
+   "blanks": [
+    {
+     "accept": [
+      "was cooking"
+     ],
+     "hint": "cook"
+    },
+    {
+     "accept": [
+      "rang"
+     ],
+     "hint": "ring"
+    }
+   ],
+   "explanation": "Aksi panjang: was cooking. Aksi pendek yang memotongnya: rang (ring → rang)."
+  },
+  {
+   "id": "u006-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "I {{1}} when the teacher explained the homework.",
+   "blanks": [
+    {
+     "accept": [
+      "wasn't listening"
+     ],
+     "hint": "not / listen"
+    }
+   ],
+   "explanation": "Negatif past continuous: wasn't (was not) listening."
+  },
+  {
+   "id": "u006-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat: past continuous atau past simple.",
+   "sentence": "Dodi {{1}} off his bike while he {{2}} home.",
+   "blanks": [
+    {
+     "accept": [
+      "fell"
+     ],
+     "hint": "fall"
+    },
+    {
+     "accept": [
+      "was riding"
+     ],
+     "hint": "ride"
+    }
+   ],
+   "explanation": "Aksi pendek: fell (fall → fell). Aksi panjang: was riding."
+  },
+  {
+   "id": "u006-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk past continuous.",
+   "sentence": "We {{1}} along the beach when we saw a turtle.",
+   "blanks": [
+    {
+     "accept": [
+      "were walking"
+     ],
+     "hint": "walk"
+    }
+   ],
+   "explanation": "Aksi panjang yang sedang berlangsung: were walking."
+  },
+  {
+   "id": "u006-q09",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ my phone while I was running for the bus.",
+   "options": [
+    {
+     "id": "a",
+     "text": "dropped",
+     "why": "Benar. Aksi singkat yang terjadi di tengah aksi panjang memakai past simple."
+    },
+    {
+     "id": "b",
+     "text": "was dropping",
+     "why": "Menjatuhkan HP adalah aksi singkat, bukan proses yang berlangsung lama."
+    },
+    {
+     "id": "c",
+     "text": "drop",
+     "why": "Kalimatnya tentang masa lalu, jadi perlu bentuk lampau."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Aksi singkat: past simple. Latar yang sedang berlangsung: past continuous."
+  },
+  {
+   "id": "u006-q10",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "This time yesterday we ___ on the beach in Bali.",
+   "options": [
+    {
+     "id": "a",
+     "text": "lay",
+     "why": "Past simple menceritakan aksi utuh. this time yesterday menunjuk ke tengah-tengah aksi."
+    },
+    {
+     "id": "b",
+     "text": "were lying",
+     "why": "Benar. Sedang berlangsung pada waktu tertentu kemarin."
+    },
+    {
+     "id": "c",
+     "text": "are lying",
+     "why": "yesterday menunjukkan masa lalu."
+    }
+   ],
+   "answer": "b",
+   "explanation": "this time yesterday / at 8 p.m. last night + past continuous."
+  },
+  {
+   "id": "u006-q11",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When Rina phoned, I ___ dinner, so I couldn't answer.",
+   "options": [
+    {
+     "id": "a",
+     "text": "cooked",
+     "why": "cooked menceritakan aksi utuh, tidak menjelaskan bahwa saya sedang sibuk memasak saat telepon berdering."
+    },
+    {
+     "id": "b",
+     "text": "was cooking",
+     "why": "Benar. Saya sedang memasak saat Rina menelepon, jadi tidak bisa mengangkat."
+    },
+    {
+     "id": "c",
+     "text": "am cooking",
+     "why": "Kalimatnya tentang masa lalu."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Aksi yang sedang berlangsung saat kejadian lain terjadi: past continuous."
+  },
+  {
+   "id": "u006-q12",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ what to do, so I asked my boss.",
+   "options": [
+    {
+     "id": "a",
+     "text": "didn't know",
+     "why": "Benar. know adalah kata kerja keadaan, jadi memakai past simple."
+    },
+    {
+     "id": "b",
+     "text": "wasn't knowing",
+     "why": "know tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "wasn't know",
+     "why": "was tidak digabung dengan bentuk dasar kata kerja."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kata kerja keadaan (know, want, understand) memakai past simple."
+  },
+  {
+   "id": "u006-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apa yang sedang kamu lakukan jam sepuluh tadi?",
+   "tokens": [
+    "What",
+    "were",
+    "you",
+    "doing",
+    "at",
+    "ten",
+    "o'clock",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "were",
+     "you",
+     "doing",
+     "at",
+     "ten",
+     "o'clock",
+     "?"
+    ]
+   ],
+   "explanation": "What + were + you + V-ing + waktu."
+  },
+  {
+   "id": "u006-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya sedang tidur waktu kamu menelepon.",
+   "tokens": [
+    "I",
+    "was",
+    "sleeping",
+    "when",
+    "you",
+    "called",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "was",
+     "sleeping",
+     "when",
+     "you",
+     "called",
+     "."
+    ],
+    [
+     "when",
+     "you",
+     "called",
+     "I",
+     "was",
+     "sleeping",
+     "."
+    ]
+   ],
+   "explanation": "Aksi panjang (was sleeping) + when + aksi pendek (called)."
+  },
+  {
+   "id": "u006-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Mereka tidak sedang bekerja waktu itu.",
+   "tokens": [
+    "They",
+    "weren't",
+    "working",
+    "at",
+    "that",
+    "time",
+    "."
+   ],
+   "accept": [
+    [
+     "They",
+     "weren't",
+     "working",
+     "at",
+     "that",
+     "time",
+     "."
+    ]
+   ],
+   "explanation": "Negatif: weren't + V-ing."
+  },
+  {
+   "id": "u006-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia jatuh saat sedang menuruni tangga.",
+   "tokens": [
+    "She",
+    "fell",
+    "while",
+    "she",
+    "was",
+    "going",
+    "down",
+    "the",
+    "stairs",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "fell",
+     "while",
+     "she",
+     "was",
+     "going",
+     "down",
+     "the",
+     "stairs",
+     "."
+    ]
+   ],
+   "explanation": "Aksi pendek (fell) + while + aksi panjang (was going down)."
+  },
+  {
+   "id": "u006-q17",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "When the guests arrived,",
+    "we",
+    "still cooked",
+    "the rice."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "were still cooking"
+   ],
+   "corrected": "When the guests arrived, we were still cooking the rice.",
+   "explanation": "Prosesnya sedang berlangsung saat tamu datang: were still cooking."
+  },
+  {
+   "id": "u006-q18",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "was seeing",
+    "an accident",
+    "on my way home."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "saw"
+   ],
+   "corrected": "I saw an accident on my way home.",
+   "explanation": "see adalah aksi singkat/keadaan: saw."
+  },
+  {
+   "id": "u006-q19",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "While I",
+    "am walking",
+    "home, it started to rain."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "was walking",
+    "walked"
+   ],
+   "corrected": "While I was walking home, it started to rain.",
+   "explanation": "Kalimatnya tentang masa lalu. Aksi panjang yang terpotong hujan: was walking."
+  },
+  {
+   "id": "u006-q20",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We were playing football",
+    "when it",
+    "was starting",
+    "to rain."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "started"
+   ],
+   "corrected": "We were playing football when it started to rain.",
+   "explanation": "Hujan mulai turun adalah aksi singkat yang memotong: started."
+  }
+ ]
+}

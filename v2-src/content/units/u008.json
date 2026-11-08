@@ -1,0 +1,484 @@
+{
+ "schemaVersion": 1,
+ "no": 8,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect 2 (I have done)",
+ "lesson": {
+  "summary": "Present perfect juga dipakai untuk pengalaman sepanjang hidup sampai sekarang. Kita tidak menyebut kapan persisnya: *Have you ever been to Raja Ampat? I've never eaten durian.* *ever* (pernah) dipakai di kalimat tanya, sedangkan *never* (tidak pernah) di kalimat positif yang bermakna negatif. Keduanya diletakkan sebelum V3.\n\nSetelah bentuk superlatif, kita juga memakai present perfect: *It's the best rendang I've ever tasted.*\n\nBentuk ini juga dipakai untuk periode waktu yang belum selesai, seperti *today, this week, this month, this year, recently, so far*: *I've drunk three cups of coffee today. We haven't had much rain this month.* Kalau periodenya sudah selesai (*yesterday, last month*), pakai past simple.\n\nPola *It's the first time …* selalu diikuti present perfect: *It's the first time I've been on a plane.* Penutur Indonesia sering menulis *It's the first time I fly*, padahal bentuk yang benar memakai *have + V3*.",
+  "patterns": [
+   {
+    "formula": "Have you ever + V3 … ?",
+    "example": "Have you ever climbed a mountain?"
+   },
+   {
+    "formula": "subjek + have/has + never + V3",
+    "example": "I've never seen snow."
+   },
+   {
+    "formula": "It's the first time + subjek + have/has + V3",
+    "example": "It's the first time I've driven a car."
+   },
+   {
+    "formula": "superlatif + subjek + have/has + ever + V3",
+    "example": "It's the best film I've ever seen."
+   },
+   {
+    "formula": "have/has + V3 + today / this week / so far",
+    "example": "I've had two meetings today."
+   }
+  ],
+  "examples": [
+   {
+    "en": "Have you ever been to Raja Ampat? – No, never, but I'd love to go.",
+    "id": "Kamu pernah ke Raja Ampat? – Belum, tapi saya ingin sekali."
+   },
+   {
+    "en": "I've never eaten durian. I don't even want to try it.",
+    "id": "Saya belum pernah makan durian. Mencoba pun saya tidak mau."
+   },
+   {
+    "en": "It's the first time I've been on a plane.",
+    "id": "Ini pertama kalinya saya naik pesawat."
+   },
+   {
+    "en": "My father has drunk three cups of coffee today.",
+    "id": "Ayah saya sudah minum tiga cangkir kopi hari ini."
+   },
+   {
+    "en": "It's the best rendang I've ever tasted.",
+    "id": "Ini rendang terenak yang pernah saya cicipi."
+   },
+   {
+    "en": "I haven't seen Nina recently. Is she OK?",
+    "id": "Akhir-akhir ini saya tidak melihat Nina. Dia baik-baik saja?"
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "This is the first time I ride a horse.",
+    "right": "This is the first time I've ridden a horse.",
+    "why": "Pola *It's the first time …* memakai present perfect, bukan present simple."
+   },
+   {
+    "wrong": "I never have been to Korea.",
+    "right": "I've never been to Korea.",
+    "why": "*never* diletakkan di antara *have* dan V3."
+   },
+   {
+    "wrong": "It's the most beautiful beach I ever saw.",
+    "right": "It's the most beautiful beach I've ever seen.",
+    "why": "Setelah superlatif, pakai present perfect: *I've ever seen*."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u008-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "{{1}} to Raja Ampat? – No, never, but I'd love to go.",
+   "blanks": [
+    {
+     "accept": [
+      "Have you ever been"
+     ],
+     "hint": "you / ever / be"
+    }
+   ],
+   "explanation": "Menanyakan pengalaman: Have you ever been to …?"
+  },
+  {
+   "id": "u008-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "I {{1}} durian. I don't even want to try it.",
+   "blanks": [
+    {
+     "accept": [
+      "have never eaten",
+      "'ve never eaten"
+     ],
+     "hint": "never / eat"
+    }
+   ],
+   "explanation": "Pengalaman yang tidak pernah terjadi: have never + V3."
+  },
+  {
+   "id": "u008-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "This is the first time I {{1}} on a plane.",
+   "blanks": [
+    {
+     "accept": [
+      "have been",
+      "'ve been",
+      "have ever been",
+      "'ve ever been"
+     ],
+     "hint": "be"
+    }
+   ],
+   "explanation": "Pola the first time + present perfect."
+  },
+  {
+   "id": "u008-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "My father {{1}} three cups of coffee today.",
+   "blanks": [
+    {
+     "accept": [
+      "has drunk",
+      "'s drunk"
+     ],
+     "hint": "drink"
+    }
+   ],
+   "explanation": "today belum selesai: has drunk (drink → drunk)."
+  },
+  {
+   "id": "u008-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "We {{1}} much rain this month.",
+   "blanks": [
+    {
+     "accept": [
+      "haven't had"
+     ],
+     "hint": "not / have"
+    }
+   ],
+   "explanation": "this month belum selesai: haven't had."
+  },
+  {
+   "id": "u008-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "She's a great cook. It's the best rendang I {{1}}.",
+   "blanks": [
+    {
+     "accept": [
+      "have ever tasted",
+      "'ve ever tasted"
+     ],
+     "hint": "ever / taste"
+    }
+   ],
+   "explanation": "Setelah superlatif (the best): have ever + V3."
+  },
+  {
+   "id": "u008-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "How many films {{1}} this month?",
+   "blanks": [
+    {
+     "accept": [
+      "have you watched"
+     ],
+     "hint": "you / watch"
+    }
+   ],
+   "explanation": "this month belum selesai: How many … have you watched?"
+  },
+  {
+   "id": "u008-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "I {{1}} Nina recently. Is she OK?",
+   "blanks": [
+    {
+     "accept": [
+      "haven't seen"
+     ],
+     "hint": "not / see"
+    }
+   ],
+   "explanation": "recently = akhir-akhir ini sampai sekarang: haven't seen."
+  },
+  {
+   "id": "u008-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "This is the first time",
+    "I",
+    "ride",
+    "a horse."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "have ridden",
+    "have ever ridden"
+   ],
+   "corrected": "This is the first time I have ridden a horse.",
+   "explanation": "the first time + present perfect: I have ridden (I've ridden)."
+  },
+  {
+   "id": "u008-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "never have been",
+    "to Korea."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "have never been"
+   ],
+   "corrected": "I have never been to Korea.",
+   "explanation": "Urutannya: have + never + V3."
+  },
+  {
+   "id": "u008-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "It's the most beautiful beach",
+    "I",
+    "ever saw."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "have ever seen."
+   ],
+   "corrected": "It's the most beautiful beach I have ever seen.",
+   "explanation": "Setelah superlatif: have ever + V3 (see → seen)."
+  },
+  {
+   "id": "u008-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "have visited",
+    "Bali last year."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "visited"
+   ],
+   "corrected": "We visited Bali last year.",
+   "explanation": "last year adalah waktu yang sudah selesai, jadi pakai past simple: visited."
+  },
+  {
+   "id": "u008-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apakah kamu pernah naik gunung?",
+   "tokens": [
+    "Have",
+    "you",
+    "ever",
+    "climbed",
+    "a",
+    "mountain",
+    "?"
+   ],
+   "accept": [
+    [
+     "Have",
+     "you",
+     "ever",
+     "climbed",
+     "a",
+     "mountain",
+     "?"
+    ]
+   ],
+   "explanation": "Have + you + ever + V3?"
+  },
+  {
+   "id": "u008-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya belum pernah melihat salju.",
+   "tokens": [
+    "I",
+    "have",
+    "never",
+    "seen",
+    "snow",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "have",
+     "never",
+     "seen",
+     "snow",
+     "."
+    ]
+   ],
+   "explanation": "have + never + V3."
+  },
+  {
+   "id": "u008-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Ini pertama kalinya dia memasak untuk kami.",
+   "tokens": [
+    "It's",
+    "the",
+    "first",
+    "time",
+    "she",
+    "has",
+    "cooked",
+    "for",
+    "us",
+    "."
+   ],
+   "accept": [
+    [
+     "It's",
+     "the",
+     "first",
+     "time",
+     "she",
+     "has",
+     "cooked",
+     "for",
+     "us",
+     "."
+    ]
+   ],
+   "explanation": "the first time + present perfect."
+  },
+  {
+   "id": "u008-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah minum tiga gelas teh hari ini.",
+   "tokens": [
+    "We",
+    "have",
+    "drunk",
+    "three",
+    "glasses",
+    "of",
+    "tea",
+    "today",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "have",
+     "drunk",
+     "three",
+     "glasses",
+     "of",
+     "tea",
+     "today",
+     "."
+    ]
+   ],
+   "explanation": "today belum selesai: have drunk."
+  },
+  {
+   "id": "u008-q17",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ a famous person? – Yes, I once met a famous footballer at an airport.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you ever met",
+     "why": "Benar. Menanyakan pengalaman: Have you ever + V3."
+    },
+    {
+     "id": "b",
+     "text": "Do you ever meet",
+     "why": "Ini menanyakan kebiasaan sekarang, bukan pengalaman."
+    },
+    {
+     "id": "c",
+     "text": "Have you ever meet",
+     "why": "Setelah have perlu V3: met."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Pengalaman sampai sekarang: Have you ever …?"
+  },
+  {
+   "id": "u008-q18",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "This is the first time I ___ a speech in English.",
+   "options": [
+    {
+     "id": "a",
+     "text": "give",
+     "why": "Pola the first time tidak memakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "have given",
+     "why": "Benar. the first time + present perfect."
+    },
+    {
+     "id": "c",
+     "text": "am giving",
+     "why": "Pola the first time memakai present perfect, bukan present continuous."
+    }
+   ],
+   "answer": "b",
+   "explanation": "It's the first time + have/has + V3."
+  },
+  {
+   "id": "u008-q19",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ any emails today. The internet is down.",
+   "options": [
+    {
+     "id": "a",
+     "text": "haven't sent",
+     "why": "Benar. today belum selesai, jadi pakai present perfect."
+    },
+    {
+     "id": "b",
+     "text": "haven't send",
+     "why": "Setelah haven't perlu V3: sent."
+    },
+    {
+     "id": "c",
+     "text": "don't send",
+     "why": "Ini menyatakan kebiasaan, bukan keadaan hari ini sampai sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Periode yang belum selesai (today, this week) memakai present perfect."
+  },
+  {
+   "id": "u008-q20",
+   "type": "mc",
+   "instruction": "Pilih keterangan waktu yang tepat.",
+   "sentence": "Riko has worked at three different companies ___.",
+   "options": [
+    {
+     "id": "a",
+     "text": "so far",
+     "why": "Benar. so far (sejauh ini) cocok dengan present perfect."
+    },
+    {
+     "id": "b",
+     "text": "yesterday",
+     "why": "yesterday sudah selesai, jadi butuh past simple."
+    },
+    {
+     "id": "c",
+     "text": "last year",
+     "why": "last year sudah selesai, jadi butuh past simple."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Present perfect cocok dengan so far, recently, today, this year."
+  }
+ ]
+}

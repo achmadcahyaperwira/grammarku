@@ -1,0 +1,491 @@
+{
+ "schemaVersion": 1,
+ "no": 2,
+ "groupId": "present-past",
+ "title": "Present simple (I do)",
+ "lesson": {
+  "summary": "Present simple dipakai untuk hal yang umum: fakta, kebiasaan, dan sesuatu yang terjadi berulang kali. Contohnya *The sun rises in the east* atau *I usually take the KRL to work.* Bentuk ini tidak menyatakan aksi yang sedang berlangsung saat ini.\n\nUntuk *he, she, it* (dan satu orang atau satu benda), kata kerja diberi akhiran *-s* atau *-es*: *she works, he watches, it goes*. Kata *have* menjadi *has*. Untuk *I, you, we, they*, kata kerja tetap bentuk dasar.\n\nKalimat tanya dan negatif memakai *do/does*. Setelah *does* atau *doesn't*, kata kerja kembali ke bentuk dasar tanpa *-s*: *Does she work here? She doesn't eat meat.* Pertanyaan tentang arti kata juga memakai *does*: *What does this word mean?*\n\nUntuk menyatakan seberapa sering, pakai *always, usually, often, sometimes, rarely, never*. Kata-kata ini diletakkan sebelum kata kerja utama (*She never drinks coffee*). Untuk bertanya, pakai *How often …?*\n\nAda juga kata kerja yang tindakannya terjadi saat diucapkan, misalnya *I promise, I apologise, I suggest, I agree*. Semua kata kerja ini memakai present simple.",
+  "patterns": [
+   {
+    "formula": "I / you / we / they + V1",
+    "example": "I work in Surabaya."
+   },
+   {
+    "formula": "he / she / it + V1-s/es",
+    "example": "She works in a hospital. He watches the news."
+   },
+   {
+    "formula": "do/does + not + V1",
+    "example": "We don't eat pork. He doesn't smoke."
+   },
+   {
+    "formula": "Do/Does + subjek + V1 … ?",
+    "example": "Does your brother live here?"
+   },
+   {
+    "formula": "subjek + always/usually/never + V",
+    "example": "I usually walk to the office."
+   }
+  ],
+  "examples": [
+   {
+    "en": "My father takes the 6.15 train to Bogor every morning.",
+    "id": "Ayah saya naik kereta jam 6.15 ke Bogor setiap pagi."
+   },
+   {
+    "en": "Water freezes at 0 degrees Celsius.",
+    "id": "Air membeku pada suhu 0 derajat Celsius."
+   },
+   {
+    "en": "Siti doesn't drink coffee after lunch.",
+    "id": "Siti tidak minum kopi setelah makan siang."
+   },
+   {
+    "en": "How often do you call your parents?",
+    "id": "Seberapa sering kamu menelepon orang tuamu?"
+   },
+   {
+    "en": "The museum closes at four on Mondays.",
+    "id": "Museum tutup jam empat setiap hari Senin."
+   },
+   {
+    "en": "I promise I'll pay you back next week.",
+    "id": "Saya janji akan mengembalikan uangmu minggu depan."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "My sister work in a bank.",
+    "right": "My sister works in a bank.",
+    "why": "Subjek tunggal orang ketiga (my sister = she) membutuhkan akhiran *-s*. Bahasa Indonesia tidak punya aturan ini, jadi akhiran ini sering terlupa."
+   },
+   {
+    "wrong": "He don't like spicy food.",
+    "right": "He doesn't like spicy food.",
+    "why": "Untuk *he/she/it*, bentuk negatifnya *doesn't*, bukan *don't*."
+   },
+   {
+    "wrong": "Does she lives near here?",
+    "right": "Does she live near here?",
+    "why": "Setelah *does*, kata kerja kembali ke bentuk dasar. Akhiran *-s* sudah \"pindah\" ke *does*."
+   },
+   {
+    "wrong": "What means this word?",
+    "right": "What does this word mean?",
+    "why": "Pertanyaan present simple membutuhkan *do/does* sebelum subjek."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u002-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "My father {{1}} the 6.15 train to Bogor every morning.",
+   "blanks": [
+    {
+     "accept": [
+      "takes"
+     ],
+     "hint": "take"
+    }
+   ],
+   "explanation": "Kebiasaan + subjek he (my father): takes."
+  },
+  {
+   "id": "u002-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "Water {{1}} at 0 degrees Celsius.",
+   "blanks": [
+    {
+     "accept": [
+      "freezes"
+     ],
+     "hint": "freeze"
+    }
+   ],
+   "explanation": "Fakta umum + subjek it (water): freezes."
+  },
+  {
+   "id": "u002-q03",
+   "type": "gap",
+   "instruction": "Lengkapi dengan do/does dan kata kerja yang tepat.",
+   "sentence": "Where {{1}} your sister {{2}}? – In a hotel in Surabaya.",
+   "blanks": [
+    {
+     "accept": [
+      "does"
+     ]
+    },
+    {
+     "accept": [
+      "work"
+     ],
+     "hint": "work"
+    }
+   ],
+   "explanation": "Subjek your sister (she) memakai does, lalu kata kerja bentuk dasar (work)."
+  },
+  {
+   "id": "u002-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "I {{1}} coffee in the evening because it keeps me awake.",
+   "blanks": [
+    {
+     "accept": [
+      "don't drink"
+     ],
+     "hint": "not / drink"
+    }
+   ],
+   "explanation": "Negatif untuk I: don't (do not) + bentuk dasar."
+  },
+  {
+   "id": "u002-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "My little brother {{1}} his homework without help.",
+   "blanks": [
+    {
+     "accept": [
+      "never does"
+     ],
+     "hint": "never / do"
+    }
+   ],
+   "explanation": "never diletakkan sebelum kata kerja utama, dan kata kerjanya tetap diberi -s: never does."
+  },
+  {
+   "id": "u002-q06",
+   "type": "gap",
+   "instruction": "Lengkapi dengan do/does dan kata kerja yang tepat.",
+   "sentence": "What {{1}} this word {{2}}?",
+   "blanks": [
+    {
+     "accept": [
+      "does"
+     ]
+    },
+    {
+     "accept": [
+      "mean"
+     ],
+     "hint": "mean"
+    }
+   ],
+   "explanation": "Pertanyaan tentang arti kata: What does … mean?"
+  },
+  {
+   "id": "u002-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "The shop {{1}} at 9 a.m. on weekdays.",
+   "blanks": [
+    {
+     "accept": [
+      "opens"
+     ],
+     "hint": "open"
+    }
+   ],
+   "explanation": "Jadwal tetap + subjek it (the shop): opens."
+  },
+  {
+   "id": "u002-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk present simple.",
+   "sentence": "How often {{1}} to the gym?",
+   "blanks": [
+    {
+     "accept": [
+      "do you go"
+     ],
+     "hint": "you / go"
+    }
+   ],
+   "explanation": "Pertanyaan How often + do + you + bentuk dasar."
+  },
+  {
+   "id": "u002-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Rina",
+    "work",
+    "at a bank",
+    "in Medan."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "works",
+    "is working",
+    "worked"
+   ],
+   "corrected": "Rina works at a bank in Medan.",
+   "explanation": "Subjek Rina (she) membutuhkan works."
+  },
+  {
+   "id": "u002-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Pak Budi",
+    "don't",
+    "like",
+    "spicy food."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "doesn't",
+    "didn't"
+   ],
+   "corrected": "Pak Budi doesn't like spicy food.",
+   "explanation": "Negatif untuk he: doesn't (does not)."
+  },
+  {
+   "id": "u002-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Does",
+    "your father",
+    "drives",
+    "to work?"
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "drive"
+   ],
+   "corrected": "Does your father drive to work?",
+   "explanation": "Setelah does, kata kerja kembali ke bentuk dasar: drive."
+  },
+  {
+   "id": "u002-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Sinta",
+    "usually go",
+    "to bed",
+    "at ten."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "usually goes",
+    "usually went"
+   ],
+   "corrected": "Sinta usually goes to bed at ten.",
+   "explanation": "Subjek she membutuhkan goes, dan usually tetap di depan kata kerja."
+  },
+  {
+   "id": "u002-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kamu biasanya bangun jam berapa?",
+   "tokens": [
+    "What",
+    "time",
+    "do",
+    "you",
+    "usually",
+    "get",
+    "up",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "time",
+     "do",
+     "you",
+     "usually",
+     "get",
+     "up",
+     "?"
+    ]
+   ],
+   "explanation": "Kata tanya + do + subjek + usually + kata kerja dasar."
+  },
+  {
+   "id": "u002-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia tidak makan daging.",
+   "tokens": [
+    "She",
+    "doesn't",
+    "eat",
+    "meat",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "doesn't",
+     "eat",
+     "meat",
+     "."
+    ]
+   ],
+   "explanation": "Negatif untuk she: doesn't + bentuk dasar (eat)."
+  },
+  {
+   "id": "u002-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kereta terakhir berangkat jam sebelas.",
+   "tokens": [
+    "The",
+    "last",
+    "train",
+    "leaves",
+    "at",
+    "eleven",
+    "."
+   ],
+   "accept": [
+    [
+     "The",
+     "last",
+     "train",
+     "leaves",
+     "at",
+     "eleven",
+     "."
+    ]
+   ],
+   "explanation": "Jadwal tetap memakai present simple, dan subjek tunggal membutuhkan leaves."
+  },
+  {
+   "id": "u002-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya janji tidak akan terlambat lagi.",
+   "tokens": [
+    "I",
+    "promise",
+    "I",
+    "won't",
+    "be",
+    "late",
+    "again",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "promise",
+     "I",
+     "won't",
+     "be",
+     "late",
+     "again",
+     "."
+    ]
+   ],
+   "explanation": "I promise diucapkan sambil berjanji, jadi memakai present simple."
+  },
+  {
+   "id": "u002-q17",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Andi ___ English very well.",
+   "options": [
+    {
+     "id": "a",
+     "text": "speak",
+     "why": "Subjek Andi (he) membutuhkan akhiran -s."
+    },
+    {
+     "id": "b",
+     "text": "speaks",
+     "why": "Benar. Kemampuan atau fakta umum + subjek he: speaks."
+    },
+    {
+     "id": "c",
+     "text": "is speak",
+     "why": "is tidak digabung dengan bentuk dasar kata kerja."
+    }
+   ],
+   "answer": "b",
+   "explanation": "he/she/it + kata kerja -s."
+  },
+  {
+   "id": "u002-q18",
+   "type": "mc",
+   "instruction": "Pilih kata yang tepat.",
+   "sentence": "___ your parents live near here?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Do",
+     "why": "Benar. your parents = they, jadi pakai Do."
+    },
+    {
+     "id": "b",
+     "text": "Does",
+     "why": "Does untuk he/she/it. your parents jamak."
+    },
+    {
+     "id": "c",
+     "text": "Are",
+     "why": "Are + live tidak benar. Pertanyaan present simple dengan kata kerja live memakai do/does."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Do untuk I/you/we/they, Does untuk he/she/it."
+  },
+  {
+   "id": "u002-q19",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ for the mistake in your bill.",
+   "options": [
+    {
+     "id": "a",
+     "text": "apologise",
+     "why": "Benar. Permintaan maaf terjadi saat diucapkan, jadi pakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "am apologising",
+     "why": "Kata kerja seperti apologise dan promise memakai present simple saat tindakannya terjadi bersamaan dengan ucapannya."
+    },
+    {
+     "id": "c",
+     "text": "apologising",
+     "why": "Kalimat ini tidak punya kata kerja lengkap."
+    }
+   ],
+   "answer": "a",
+   "explanation": "I promise / I apologise / I suggest memakai present simple."
+  },
+  {
+   "id": "u002-q20",
+   "type": "mc",
+   "instruction": "Pilih jawaban yang tepat.",
+   "sentence": "How often do you eat out? – ___",
+   "options": [
+    {
+     "id": "a",
+     "text": "Twice a week.",
+     "why": "Benar. How often menanyakan frekuensi."
+    },
+    {
+     "id": "b",
+     "text": "For two weeks.",
+     "why": "Ini menjawab How long, bukan How often."
+    },
+    {
+     "id": "c",
+     "text": "Since Monday.",
+     "why": "Ini menjawab sejak kapan, bukan seberapa sering."
+    }
+   ],
+   "answer": "a",
+   "explanation": "How often + present simple menanyakan frekuensi (once a day, twice a week, every month)."
+  }
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "schemaVersion": 1,
+ "no": 1,
+ "groupId": "present-past",
+ "title": "Present continuous (I am doing)",
+ "lesson": {
+  "summary": "Present continuous dibentuk dengan *am/is/are + kata kerja -ing*. Bentuk ini dipakai untuk aksi yang sedang berlangsung dan belum selesai. Biasanya aksinya terjadi saat kita berbicara (*She's cooking now*). Bisa juga sesuatu yang sedang kita jalani akhir-akhir ini walaupun tidak sedang dilakukan detik ini: *I'm reading a novel about Aceh* berarti saya sudah mulai membacanya dan belum selesai.\n\nPresent continuous juga dipakai dengan periode di sekitar sekarang, seperti *today, this week, this semester, these days*: *Dimas is working from home this week.*\n\nBentuk ini juga dipakai untuk perubahan yang sedang terjadi, sering dengan *get, become, change, rise, increase, start*: *It's getting dark. Prices are going up.*\n\nPenutur Indonesia sering melupakan *am/is/are* karena kata \"sedang\" cukup satu kata. Dalam bahasa Inggris, bentuk *-ing* saja tidak cukup. Harus ada *am/is/are* di depannya.",
+  "patterns": [
+   {
+    "formula": "I am + V-ing",
+    "example": "I'm studying for my exam."
+   },
+   {
+    "formula": "he / she / it is + V-ing",
+    "example": "She's cooking fried rice."
+   },
+   {
+    "formula": "we / you / they are + V-ing",
+    "example": "They're playing futsal."
+   },
+   {
+    "formula": "Negatif: am/is/are + not + V-ing",
+    "example": "It isn't raining now."
+   },
+   {
+    "formula": "Tanya: Am/Is/Are + subjek + V-ing … ?",
+    "example": "Are you listening?"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Please be quiet. The baby is sleeping.",
+    "id": "Tolong tenang. Bayinya sedang tidur."
+   },
+   {
+    "en": "Rudi isn't answering his phone. Maybe he's driving.",
+    "id": "Rudi tidak mengangkat telepon. Mungkin dia sedang menyetir."
+   },
+   {
+    "en": "I'm reading a novel about the history of Aceh at the moment.",
+    "id": "Saat ini saya sedang membaca novel tentang sejarah Aceh."
+   },
+   {
+    "en": "My sister is learning Japanese because she wants to work in Osaka.",
+    "id": "Adik saya sedang belajar bahasa Jepang karena ingin bekerja di Osaka."
+   },
+   {
+    "en": "Are you working from home this week?",
+    "id": "Minggu ini kamu bekerja dari rumah?"
+   },
+   {
+    "en": "Prices at the market are going up again.",
+    "id": "Harga di pasar naik lagi."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "She cooking in the kitchen.",
+    "right": "She is cooking in the kitchen.",
+    "why": "Kata \"sedang\" tidak punya padanan satu kata. Present continuous selalu butuh *am/is/are* + *-ing*."
+   },
+   {
+    "wrong": "Look! It rains.",
+    "right": "Look! It's raining.",
+    "why": "Hujan yang sedang turun sekarang memakai present continuous, bukan present simple."
+   },
+   {
+    "wrong": "Listen! Somebody sings next door.",
+    "right": "Listen! Somebody is singing next door.",
+    "why": "Aksi yang terjadi saat kita berbicara memakai present continuous."
+   },
+   {
+    "wrong": "I am agree with you.",
+    "right": "I agree with you.",
+    "why": "*agree* adalah kata kerja, bukan kata sifat, jadi tidak memakai *am*. Ini kesalahan yang sangat sering muncul."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u001-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Shh! The children {{1}} their homework.",
+   "blanks": [
+    {
+     "accept": [
+      "are doing"
+     ],
+     "hint": "do"
+    }
+   ],
+   "explanation": "Aksi yang sedang berlangsung sekarang: are + doing (subjek jamak)."
+  },
+  {
+   "id": "u001-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Why {{1}}? Is something wrong?",
+   "blanks": [
+    {
+     "accept": [
+      "are you crying"
+     ],
+     "hint": "you / cry"
+    }
+   ],
+   "explanation": "Pertanyaan present continuous: Are + you + crying."
+  },
+  {
+   "id": "u001-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Sari can't come to the phone right now. She {{1}} a shower.",
+   "blanks": [
+    {
+     "accept": [
+      "is having",
+      "'s having"
+     ],
+     "hint": "have"
+    }
+   ],
+   "explanation": "Sedang terjadi sekarang (right now): is having."
+  },
+  {
+   "id": "u001-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Look outside. It {{1}} any more, so we can go.",
+   "blanks": [
+    {
+     "accept": [
+      "is not raining",
+      "'s not raining"
+     ],
+     "hint": "not / rain"
+    }
+   ],
+   "explanation": "Negatif present continuous: is not (isn't) + raining."
+  },
+  {
+   "id": "u001-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "My cousin {{1}} for a new job these days, but it's not easy.",
+   "blanks": [
+    {
+     "accept": [
+      "is looking",
+      "'s looking"
+     ],
+     "hint": "look"
+    }
+   ],
+   "explanation": "these days = periode di sekitar sekarang. Dia sedang dalam proses mencari kerja."
+  },
+  {
+   "id": "u001-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Hurry up! It {{1}} late.",
+   "blanks": [
+    {
+     "accept": [
+      "is getting",
+      "'s getting"
+     ],
+     "hint": "get"
+    }
+   ],
+   "explanation": "Perubahan yang sedang terjadi: it is getting late (hari makin larut)."
+  },
+  {
+   "id": "u001-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "{{1}} at this hotel all week, or just tonight?",
+   "blanks": [
+    {
+     "accept": [
+      "Are you staying"
+     ],
+     "hint": "you / stay"
+    }
+   ],
+   "explanation": "Pertanyaan tentang situasi sementara: Are you staying …?"
+  },
+  {
+   "id": "u001-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "Rani {{1}} hard this semester because she wants a scholarship.",
+   "blanks": [
+    {
+     "accept": [
+      "is studying",
+      "'s studying"
+     ],
+     "hint": "study"
+    }
+   ],
+   "explanation": "this semester = periode di sekitar sekarang."
+  },
+  {
+   "id": "u001-q09",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I can't talk now. I ___ dinner.",
+   "options": [
+    {
+     "id": "a",
+     "text": "cook",
+     "why": "Present simple untuk kebiasaan, bukan untuk aksi yang sedang terjadi sekarang."
+    },
+    {
+     "id": "b",
+     "text": "am cooking",
+     "why": "Benar. Aksinya sedang berlangsung saat ini."
+    },
+    {
+     "id": "c",
+     "text": "cooking",
+     "why": "Bentuk -ing butuh am di depannya."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Aksi yang sedang terjadi saat berbicara: am/is/are + V-ing."
+  },
+  {
+   "id": "u001-q10",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Where's Budi? – He ___ in the garden.",
+   "options": [
+    {
+     "id": "a",
+     "text": "works",
+     "why": "works menyatakan kebiasaan. Pertanyaan Where's Budi? menanyakan keadaan sekarang."
+    },
+    {
+     "id": "b",
+     "text": "is working",
+     "why": "Benar. Budi sedang bekerja di kebun saat ini."
+    },
+    {
+     "id": "c",
+     "text": "work",
+     "why": "Subjek he butuh is working (atau works), bukan work."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Untuk menjawab apa yang sedang dilakukan seseorang sekarang, pakai present continuous."
+  },
+  {
+   "id": "u001-q11",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Look! The bus ___.",
+   "options": [
+    {
+     "id": "a",
+     "text": "comes",
+     "why": "Look! menunjukkan sesuatu yang sedang terjadi, jadi bukan present simple."
+    },
+    {
+     "id": "b",
+     "text": "is coming",
+     "why": "Benar. Busnya sedang datang saat ini."
+    },
+    {
+     "id": "c",
+     "text": "come",
+     "why": "Subjek tunggal the bus tidak memakai come, dan maknanya juga perlu continuous."
+    }
+   ],
+   "answer": "b",
+   "explanation": "Look! dan Listen! biasanya diikuti present continuous."
+  },
+  {
+   "id": "u001-q12",
+   "type": "mc",
+   "instruction": "Pilih kalimat yang benar.",
+   "sentence": "(Harga bensin terus naik.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "The price of petrol is rising.",
+     "why": "Benar. Perubahan yang sedang terjadi memakai is + rising."
+    },
+    {
+     "id": "b",
+     "text": "The price of petrol rising.",
+     "why": "Tidak ada is sebelum rising."
+    },
+    {
+     "id": "c",
+     "text": "The price of petrol is rise.",
+     "why": "Setelah is perlu bentuk -ing (rising), bukan bentuk dasar."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Perubahan yang sedang berlangsung: is/are + V-ing (rising, getting, increasing)."
+  },
+  {
+   "id": "u001-q13",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "My brother",
+    "watching",
+    "a football match",
+    "on TV right now."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "is watching"
+   ],
+   "corrected": "My brother is watching a football match on TV right now.",
+   "explanation": "Bentuk -ing harus didahului is: My brother is watching …"
+  },
+  {
+   "id": "u001-q14",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Please be quiet.",
+    "I try",
+    "to concentrate."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "I am trying"
+   ],
+   "corrected": "Please be quiet. I am trying to concentrate.",
+   "explanation": "Aksi yang sedang dilakukan sekarang: I am trying (I'm trying)."
+  },
+  {
+   "id": "u001-q15",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Are",
+    "you",
+    "enjoy",
+    "the party so far?"
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "enjoying"
+   ],
+   "corrected": "Are you enjoying the party so far?",
+   "explanation": "Pertanyaan present continuous: Are you + V-ing."
+  },
+  {
+   "id": "u001-q16",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "They",
+    "are not",
+    "listen",
+    "to me right now."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "listening"
+   ],
+   "corrected": "They are not listening to me right now.",
+   "explanation": "Setelah are not perlu bentuk -ing: are not listening."
+  },
+  {
+   "id": "u001-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kenapa kamu tertawa?",
+   "tokens": [
+    "Why",
+    "are",
+    "you",
+    "laughing",
+    "?"
+   ],
+   "accept": [
+    [
+     "Why",
+     "are",
+     "you",
+     "laughing",
+     "?"
+    ]
+   ],
+   "explanation": "Pertanyaan present continuous: kata tanya + are + you + V-ing."
+  },
+  {
+   "id": "u001-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sedang menunggu bus.",
+   "tokens": [
+    "She",
+    "is",
+    "waiting",
+    "for",
+    "the",
+    "bus",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "is",
+     "waiting",
+     "for",
+     "the",
+     "bus",
+     "."
+    ]
+   ],
+   "explanation": "Subjek + is + waiting + for + the bus."
+  },
+  {
+   "id": "u001-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Udaranya makin dingin.",
+   "tokens": [
+    "It",
+    "is",
+    "getting",
+    "colder",
+    "."
+   ],
+   "accept": [
+    [
+     "It",
+     "is",
+     "getting",
+     "colder",
+     "."
+    ]
+   ],
+   "explanation": "Perubahan yang sedang terjadi: It is getting + kata sifat bentuk -er."
+  },
+  {
+   "id": "u001-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami tidak sedang menonton TV.",
+   "tokens": [
+    "We",
+    "are",
+    "not",
+    "watching",
+    "TV",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "are",
+     "not",
+     "watching",
+     "TV",
+     "."
+    ]
+   ],
+   "explanation": "Negatif: are + not + V-ing."
+  }
+ ]
+}

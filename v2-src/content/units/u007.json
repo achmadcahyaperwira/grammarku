@@ -1,0 +1,488 @@
+{
+ "schemaVersion": 1,
+ "no": 7,
+ "groupId": "present-perfect-past",
+ "title": "Present perfect 1 (I have done)",
+ "lesson": {
+  "summary": "Present perfect dibentuk dengan *have/has + past participle* (V3): *I have lost, she has finished, they have gone*. Untuk kata kerja beraturan, V3 sama dengan V2 (*worked, finished*). Kata kerja tidak beraturan punya bentuk sendiri (*go → gone, see → seen, eat → eaten*).\n\nBentuk ini dipakai untuk kejadian di masa lalu yang terkait dengan keadaan sekarang. Biasanya ini informasi baru. *I've lost my wallet* berarti dompetnya hilang dan sampai sekarang belum ketemu. Waktu persisnya tidak penting dan biasanya tidak disebut.\n\nPresent perfect sering dipakai dengan *just* (baru saja), *already* (sudah, lebih cepat dari dugaan), dan *yet* (sudah/belum, di kalimat tanya dan negatif). *just* dan *already* diletakkan di antara *have* dan V3: *I've just eaten. She's already left.* *yet* biasanya di akhir kalimat: *Have you finished yet? We haven't eaten yet.*\n\nDalam bahasa Indonesia, kata \"sudah\" bisa menandai banyak hal. Dalam bahasa Inggris, \"sudah\" yang terkait dengan sekarang biasanya diterjemahkan dengan present perfect. Catatan: dalam bahasa Inggris Amerika, past simple juga sering dipakai di sini (*I just ate*). Aplikasi ini mengikuti kebiasaan British.",
+  "patterns": [
+   {
+    "formula": "I / you / we / they + have + V3",
+    "example": "I've finished my report."
+   },
+   {
+    "formula": "he / she / it + has + V3",
+    "example": "She's gone out."
+   },
+   {
+    "formula": "have/has + just/already + V3",
+    "example": "We've just arrived. He's already paid."
+   },
+   {
+    "formula": "haven't/hasn't + V3 … yet",
+    "example": "I haven't decided yet."
+   },
+   {
+    "formula": "Have/Has + subjek + V3 … yet?",
+    "example": "Have you eaten yet?"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Oh no! I've lost my wallet.",
+    "id": "Aduh! Dompet saya hilang."
+   },
+   {
+    "en": "Is Dina here? – No, she's gone out.",
+    "id": "Dina ada? – Tidak, dia sedang keluar."
+   },
+   {
+    "en": "I've just got a message from Rio.",
+    "id": "Saya baru saja dapat pesan dari Rio."
+   },
+   {
+    "en": "My parents have already bought their tickets to Makassar.",
+    "id": "Orang tua saya sudah membeli tiket ke Makassar."
+   },
+   {
+    "en": "We haven't eaten yet, so I'm really hungry.",
+    "id": "Kami belum makan, jadi saya lapar sekali."
+   },
+   {
+    "en": "The price of chillies has gone up a lot this month.",
+    "id": "Harga cabai naik banyak bulan ini."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I have finish my work.",
+    "right": "I have finished my work.",
+    "why": "Setelah *have/has*, pakai V3 (past participle), bukan bentuk dasar."
+   },
+   {
+    "wrong": "She has went home.",
+    "right": "She has gone home.",
+    "why": "*went* adalah V2. Setelah *has* perlu V3: *gone*."
+   },
+   {
+    "wrong": "I already finished.",
+    "right": "I've already finished.",
+    "why": "Dalam British English, \"sudah\" yang terkait dengan sekarang memakai present perfect: *have/has + already + V3*."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u007-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "Oh no! I {{1}} my wallet.",
+   "blanks": [
+    {
+     "accept": [
+      "have lost",
+      "'ve lost"
+     ],
+     "hint": "lose"
+    }
+   ],
+   "explanation": "Kejadian lampau dengan akibat sekarang (dompetnya masih hilang): have lost."
+  },
+  {
+   "id": "u007-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "Look! Somebody {{1}} the window.",
+   "blanks": [
+    {
+     "accept": [
+      "has broken",
+      "'s broken"
+     ],
+     "hint": "break"
+    }
+   ],
+   "explanation": "Informasi baru dengan hasil terlihat sekarang: has broken (break → broken)."
+  },
+  {
+   "id": "u007-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "Is Dina here? – No, she {{1}} out.",
+   "blanks": [
+    {
+     "accept": [
+      "has gone",
+      "'s gone"
+     ],
+     "hint": "go"
+    }
+   ],
+   "explanation": "Dina pergi dan belum kembali: has gone."
+  },
+  {
+   "id": "u007-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "{{1}} the report yet?",
+   "blanks": [
+    {
+     "accept": [
+      "Have you finished"
+     ],
+     "hint": "you / finish"
+    }
+   ],
+   "explanation": "Pertanyaan dengan yet: Have + subjek + V3."
+  },
+  {
+   "id": "u007-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "We {{1}} yet, so I'm really hungry.",
+   "blanks": [
+    {
+     "accept": [
+      "haven't eaten"
+     ],
+     "hint": "not / eat"
+    }
+   ],
+   "explanation": "Negatif dengan yet: haven't + V3 (eat → eaten)."
+  },
+  {
+   "id": "u007-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "I {{1}} a message from Rio.",
+   "blanks": [
+    {
+     "accept": [
+      "have just got",
+      "'ve just got",
+      "have just received",
+      "'ve just received"
+     ],
+     "hint": "just / get"
+    }
+   ],
+   "explanation": "just diletakkan di antara have dan V3: have just got."
+  },
+  {
+   "id": "u007-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "My parents {{1}} their tickets to Makassar already.",
+   "blanks": [
+    {
+     "accept": [
+      "have bought",
+      "'ve bought"
+     ],
+     "hint": "buy"
+    }
+   ],
+   "explanation": "buy → bought (V3). already bisa juga di akhir kalimat."
+  },
+  {
+   "id": "u007-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk present perfect.",
+   "sentence": "The price of chillies {{1}} a lot this month.",
+   "blanks": [
+    {
+     "accept": [
+      "has gone up",
+      "'s gone up"
+     ],
+     "hint": "go up"
+    }
+   ],
+   "explanation": "Perubahan yang hasilnya terasa sekarang: has gone up."
+  },
+  {
+   "id": "u007-q09",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I can't find my glasses. ___ them?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you seen",
+     "why": "Benar. Pertanyaan tentang kejadian yang hasilnya penting sekarang: Have + you + V3."
+    },
+    {
+     "id": "b",
+     "text": "Did you saw",
+     "why": "Setelah did harus bentuk dasar, dan kalimat ini lebih tepat memakai present perfect."
+    },
+    {
+     "id": "c",
+     "text": "Have you saw",
+     "why": "saw adalah V2. Setelah have perlu V3: seen."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Have/Has + subjek + V3 untuk menanyakan kejadian yang terkait dengan sekarang."
+  },
+  {
+   "id": "u007-q10",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Rafi isn't hungry. He ___ lunch.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has already had",
+     "why": "Benar. already diletakkan di antara has dan V3."
+    },
+    {
+     "id": "b",
+     "text": "has already have",
+     "why": "Setelah has perlu V3 (had), bukan bentuk dasar."
+    },
+    {
+     "id": "c",
+     "text": "already has",
+     "why": "Present simple tidak menyatakan kejadian yang sudah selesai; perlu has already had."
+    }
+   ],
+   "answer": "a",
+   "explanation": "has + already + V3."
+  },
+  {
+   "id": "u007-q11",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ the new film at the cinema yet?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Have you watched",
+     "why": "Benar. Pertanyaan dengan yet memakai present perfect."
+    },
+    {
+     "id": "b",
+     "text": "Did you watch yet",
+     "why": "yet tidak diletakkan langsung setelah kata kerja, dan dalam British English pertanyaan dengan yet memakai present perfect."
+    },
+    {
+     "id": "c",
+     "text": "Have you watch",
+     "why": "Setelah have perlu V3: watched."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Have you + V3 … yet?"
+  },
+  {
+   "id": "u007-q12",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Can I borrow your pen? I ___ mine at home.",
+   "options": [
+    {
+     "id": "a",
+     "text": "'ve left",
+     "why": "Benar. Akibatnya terasa sekarang: pulpennya tidak ada di sini."
+    },
+    {
+     "id": "b",
+     "text": "leave",
+     "why": "leave adalah bentuk sekarang/kebiasaan, padahal kejadiannya sudah terjadi."
+    },
+    {
+     "id": "c",
+     "text": "have leave",
+     "why": "Setelah have perlu V3: left."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kejadian lampau yang akibatnya terasa sekarang: present perfect."
+  },
+  {
+   "id": "u007-q13",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya baru saja makan.",
+   "tokens": [
+    "I",
+    "have",
+    "just",
+    "eaten",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "have",
+     "just",
+     "eaten",
+     "."
+    ]
+   ],
+   "explanation": "have + just + V3."
+  },
+  {
+   "id": "u007-q14",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apakah kamu sudah menelepon ibumu?",
+   "tokens": [
+    "Have",
+    "you",
+    "called",
+    "your",
+    "mother",
+    "yet",
+    "?"
+   ],
+   "accept": [
+    [
+     "Have",
+     "you",
+     "called",
+     "your",
+     "mother",
+     "yet",
+     "?"
+    ]
+   ],
+   "explanation": "Have + subjek + V3 + … + yet?"
+  },
+  {
+   "id": "u007-q15",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Mereka belum datang.",
+   "tokens": [
+    "They",
+    "haven't",
+    "arrived",
+    "yet",
+    "."
+   ],
+   "accept": [
+    [
+     "They",
+     "haven't",
+     "arrived",
+     "yet",
+     "."
+    ],
+    [
+     "They",
+     "haven't",
+     "yet",
+     "arrived",
+     "."
+    ]
+   ],
+   "explanation": "haven't + V3 + yet."
+  },
+  {
+   "id": "u007-q16",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sudah mengerjakan PR-nya.",
+   "tokens": [
+    "She",
+    "has",
+    "already",
+    "done",
+    "her",
+    "homework",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "has",
+     "already",
+     "done",
+     "her",
+     "homework",
+     "."
+    ],
+    [
+     "She",
+     "has",
+     "done",
+     "her",
+     "homework",
+     "already",
+     "."
+    ]
+   ],
+   "explanation": "has + already + V3 (do → done)."
+  },
+  {
+   "id": "u007-q17",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "have",
+    "finish",
+    "my work already."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "finished"
+   ],
+   "corrected": "I have finished my work already.",
+   "explanation": "Setelah have perlu V3: finished."
+  },
+  {
+   "id": "u007-q18",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "has",
+    "went",
+    "home."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "gone"
+   ],
+   "corrected": "She has gone home.",
+   "explanation": "went adalah V2. V3 dari go adalah gone."
+  },
+  {
+   "id": "u007-q19",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Have",
+    "you",
+    "finish",
+    "your homework yet?"
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "finished"
+   ],
+   "corrected": "Have you finished your homework yet?",
+   "explanation": "Setelah have perlu V3: finished."
+  },
+  {
+   "id": "u007-q20",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "haven't",
+    "saw",
+    "that film yet."
+   ],
+   "errorIndex": 2,
+   "accept": [
+    "seen"
+   ],
+   "corrected": "We haven't seen that film yet.",
+   "explanation": "Setelah haven't perlu V3: seen."
+  }
+ ]
+}

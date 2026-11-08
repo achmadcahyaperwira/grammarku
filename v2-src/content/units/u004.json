@@ -1,0 +1,508 @@
+{
+ "schemaVersion": 1,
+ "no": 4,
+ "groupId": "present-past",
+ "title": "Present continuous and present simple 2 (I am doing and I do)",
+ "lesson": {
+  "summary": "Ada kata kerja yang menyatakan keadaan, bukan aksi. Kata kerja seperti ini biasanya tidak dipakai dalam bentuk continuous, walaupun maknanya \"sekarang\". Contohnya *know, understand, believe, remember, mean, like, love, hate, want, need, prefer, belong, contain, seem*. Jadi yang benar *I know*, bukan *I am knowing*.\n\n*think* punya dua makna. Kalau artinya \"berpendapat\", pakai simple: *What do you think of the new café?* Kalau artinya \"sedang menimbang atau memikirkan\", continuous boleh dipakai: *She's thinking about changing jobs.*\n\n*see, hear, smell, taste* biasanya memakai present simple: *Do you see that man? This soup tastes great.* Untuk *look* (terlihat) dan *feel* (merasa) yang menggambarkan keadaan sekarang, simple maupun continuous sama-sama benar: *How do you feel? / How are you feeling?*\n\n*am/is/are being* dipakai untuk perilaku seseorang saat ini saja: *He's being very rude today* (biasanya tidak begitu). Bandingkan dengan *He's rude*, yang berarti sifatnya memang begitu.",
+  "patterns": [
+   {
+    "formula": "know / understand / like / want / need + simple",
+    "example": "I understand. I need a break."
+   },
+   {
+    "formula": "think = berpendapat → simple",
+    "example": "I think he is right."
+   },
+   {
+    "formula": "think = menimbang → continuous boleh",
+    "example": "I'm thinking of moving to Bandung."
+   },
+   {
+    "formula": "look / feel (keadaan sekarang) → keduanya benar",
+    "example": "You look tired. / You're looking tired."
+   },
+   {
+    "formula": "is being + sifat = berperilaku sekarang",
+    "example": "She's being very patient today."
+   }
+  ],
+  "examples": [
+   {
+    "en": "I don't remember her name, but I know her face.",
+    "id": "Saya tidak ingat namanya, tetapi saya kenal wajahnya."
+   },
+   {
+    "en": "This bag belongs to my sister.",
+    "id": "Tas ini milik kakak saya."
+   },
+   {
+    "en": "What do you think of the new teacher?",
+    "id": "Bagaimana pendapatmu tentang guru baru itu?"
+   },
+   {
+    "en": "Don't disturb Ayu. She's thinking about her thesis.",
+    "id": "Jangan ganggu Ayu. Dia sedang memikirkan skripsinya."
+   },
+   {
+    "en": "This sambal tastes amazing!",
+    "id": "Sambal ini rasanya luar biasa!"
+   },
+   {
+    "en": "Budi is usually quiet, but he's being very loud tonight.",
+    "id": "Budi biasanya pendiam, tetapi malam ini dia berisik sekali."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "I am knowing the answer.",
+    "right": "I know the answer.",
+    "why": "*know* adalah kata kerja keadaan, jadi tidak memakai bentuk *-ing*."
+   },
+   {
+    "wrong": "Are you understanding?",
+    "right": "Do you understand?",
+    "why": "*understand* memakai present simple walaupun maknanya \"sekarang\"."
+   },
+   {
+    "wrong": "I am needing your help.",
+    "right": "I need your help.",
+    "why": "*need* dan *want* tidak dipakai dalam bentuk continuous."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u004-q01",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ what you mean.",
+   "options": [
+    {
+     "id": "a",
+     "text": "understand",
+     "why": "Benar. understand adalah kata kerja keadaan."
+    },
+    {
+     "id": "b",
+     "text": "am understanding",
+     "why": "understand biasanya tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "am understand",
+     "why": "am tidak digabung dengan bentuk dasar kata kerja."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kata kerja keadaan (know, understand, mean) memakai present simple."
+  },
+  {
+   "id": "u004-q02",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "This bag ___ to my sister.",
+   "options": [
+    {
+     "id": "a",
+     "text": "belongs",
+     "why": "Benar. Kepemilikan adalah keadaan, jadi pakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "is belonging",
+     "why": "belong tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "belong",
+     "why": "Subjek this bag (it) membutuhkan -s: belongs."
+    }
+   ],
+   "answer": "a",
+   "explanation": "belong, own, contain memakai present simple."
+  },
+  {
+   "id": "u004-q03",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "What ___ of the new teacher?",
+   "options": [
+    {
+     "id": "a",
+     "text": "do you think",
+     "why": "Benar. Menanyakan pendapat: think dalam bentuk simple."
+    },
+    {
+     "id": "b",
+     "text": "are you thinking",
+     "why": "Kalau artinya pendapat, think tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "you think",
+     "why": "Pertanyaan present simple butuh do sebelum subjek."
+    }
+   ],
+   "answer": "a",
+   "explanation": "think = berpendapat → present simple."
+  },
+  {
+   "id": "u004-q04",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Don't disturb Ayu. She ___ about her thesis.",
+   "options": [
+    {
+     "id": "a",
+     "text": "thinks",
+     "why": "Kalimat ini membicarakan apa yang sedang dia lakukan saat ini, jadi bukan simple."
+    },
+    {
+     "id": "b",
+     "text": "is thinking",
+     "why": "Benar. think = sedang memikirkan/menimbang, jadi continuous boleh dipakai."
+    },
+    {
+     "id": "c",
+     "text": "think",
+     "why": "Subjek she tidak memakai bentuk dasar, dan aksinya sedang berlangsung."
+    }
+   ],
+   "answer": "b",
+   "explanation": "think = memikirkan/menimbang → bisa continuous."
+  },
+  {
+   "id": "u004-q05",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "This soup ___ delicious.",
+   "options": [
+    {
+     "id": "a",
+     "text": "tastes",
+     "why": "Benar. taste (terasa) memakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "is tasting",
+     "why": "taste dengan arti \"terasa\" tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "taste",
+     "why": "Subjek this soup (it) membutuhkan -s: tastes."
+    }
+   ],
+   "answer": "a",
+   "explanation": "taste, smell, sound (terasa, tercium, terdengar) memakai present simple."
+  },
+  {
+   "id": "u004-q06",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "___ that man over there? He's my uncle.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Do you see",
+     "why": "Benar. see (melihat) biasanya memakai present simple."
+    },
+    {
+     "id": "b",
+     "text": "Are you seeing",
+     "why": "see dengan arti \"melihat\" biasanya tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "Are you see",
+     "why": "are tidak digabung dengan bentuk dasar kata kerja."
+    }
+   ],
+   "answer": "a",
+   "explanation": "see dan hear biasanya memakai present simple."
+  },
+  {
+   "id": "u004-q07",
+   "type": "mc",
+   "instruction": "Kalimat mana yang berarti \"dia bersikap egois hari ini saja\"?",
+   "sentence": "(Pilih satu.)",
+   "options": [
+    {
+     "id": "a",
+     "text": "He is selfish.",
+     "why": "Ini berarti sifatnya memang egois."
+    },
+    {
+     "id": "b",
+     "text": "He is being selfish.",
+     "why": "Benar. is being + sifat = berperilaku begitu saat ini saja."
+    },
+    {
+     "id": "c",
+     "text": "He has selfish.",
+     "why": "have tidak dipakai dengan kata sifat seperti ini."
+    }
+   ],
+   "answer": "b",
+   "explanation": "am/is/are being + kata sifat = perilaku saat ini, bukan sifat permanen."
+  },
+  {
+   "id": "u004-q08",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ a new phone. Mine is broken.",
+   "options": [
+    {
+     "id": "a",
+     "text": "need",
+     "why": "Benar. need adalah kata kerja keadaan."
+    },
+    {
+     "id": "b",
+     "text": "am needing",
+     "why": "need tidak dipakai dalam bentuk continuous."
+    },
+    {
+     "id": "c",
+     "text": "needs",
+     "why": "Subjek I tidak memakai akhiran -s."
+    }
+   ],
+   "answer": "a",
+   "explanation": "need dan want memakai present simple."
+  },
+  {
+   "id": "u004-q09",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "am knowing",
+    "the answer."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "know",
+    "knew"
+   ],
+   "corrected": "I know the answer.",
+   "explanation": "know adalah kata kerja keadaan: I know."
+  },
+  {
+   "id": "u004-q10",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "This box",
+    "is containing",
+    "old photos."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "contains",
+    "contained"
+   ],
+   "corrected": "This box contains old photos.",
+   "explanation": "contain memakai present simple: contains."
+  },
+  {
+   "id": "u004-q11",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "Are you believing",
+    "in ghosts?"
+   ],
+   "errorIndex": 0,
+   "accept": [
+    "Do you believe"
+   ],
+   "corrected": "Do you believe in ghosts?",
+   "explanation": "believe memakai present simple: Do you believe …?"
+  },
+  {
+   "id": "u004-q12",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "is seeming",
+    "tired today."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "seems",
+    "seemed"
+   ],
+   "corrected": "She seems tired today.",
+   "explanation": "seem adalah kata kerja keadaan: seems."
+  },
+  {
+   "id": "u004-q13",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "I {{1}} her name.",
+   "blanks": [
+    {
+     "accept": [
+      "don't remember",
+      "can't remember"
+     ],
+     "hint": "not / remember"
+    }
+   ],
+   "explanation": "remember memakai present simple. Negatifnya don't remember."
+  },
+  {
+   "id": "u004-q14",
+   "type": "gap",
+   "instruction": "Tulis bentuk present continuous.",
+   "sentence": "We {{1}} of moving to Bandung next year.",
+   "blanks": [
+    {
+     "accept": [
+      "are thinking"
+     ],
+     "hint": "think"
+    }
+   ],
+   "explanation": "think of + -ing = sedang menimbang, jadi continuous: are thinking."
+  },
+  {
+   "id": "u004-q15",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "This jacket {{1}} me any more.",
+   "blanks": [
+    {
+     "accept": [
+      "doesn't fit"
+     ],
+     "hint": "not / fit"
+    }
+   ],
+   "explanation": "fit (pas ukurannya) adalah keadaan: doesn't fit."
+  },
+  {
+   "id": "u004-q16",
+   "type": "gap",
+   "instruction": "Tulis bentuk yang tepat.",
+   "sentence": "How {{1}} now? – Much better, thanks.",
+   "blanks": [
+    {
+     "accept": [
+      "are you feeling",
+      "do you feel"
+     ],
+     "hint": "you / feel"
+    }
+   ],
+   "explanation": "Untuk feel (keadaan sekarang), simple dan continuous sama-sama benar."
+  },
+  {
+   "id": "u004-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kamu mau minum apa?",
+   "tokens": [
+    "What",
+    "do",
+    "you",
+    "want",
+    "to",
+    "drink",
+    "?"
+   ],
+   "accept": [
+    [
+     "What",
+     "do",
+     "you",
+     "want",
+     "to",
+     "drink",
+     "?"
+    ]
+   ],
+   "explanation": "want memakai present simple: What do you want …?"
+  },
+  {
+   "id": "u004-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Saya lebih suka teh daripada kopi.",
+   "tokens": [
+    "I",
+    "prefer",
+    "tea",
+    "to",
+    "coffee",
+    "."
+   ],
+   "accept": [
+    [
+     "I",
+     "prefer",
+     "tea",
+     "to",
+     "coffee",
+     "."
+    ]
+   ],
+   "explanation": "prefer A to B, dalam present simple."
+  },
+  {
+   "id": "u004-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sedang menimbang untuk pindah kerja.",
+   "tokens": [
+    "She",
+    "is",
+    "thinking",
+    "about",
+    "changing",
+    "jobs",
+    "."
+   ],
+   "accept": [
+    [
+     "She",
+     "is",
+     "thinking",
+     "about",
+     "changing",
+     "jobs",
+     "."
+    ]
+   ],
+   "explanation": "think = menimbang → is thinking about + -ing."
+  },
+  {
+   "id": "u004-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Apakah kamu mengerti pertanyaannya?",
+   "tokens": [
+    "Do",
+    "you",
+    "understand",
+    "the",
+    "question",
+    "?"
+   ],
+   "accept": [
+    [
+     "Do",
+     "you",
+     "understand",
+     "the",
+     "question",
+     "?"
+    ]
+   ],
+   "explanation": "understand memakai present simple: Do you understand …?"
+  }
+ ]
+}

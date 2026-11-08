@@ -1,0 +1,509 @@
+{
+ "schemaVersion": 1,
+ "no": 16,
+ "groupId": "present-perfect-past",
+ "title": "Past perfect continuous (I had been doing)",
+ "lesson": {
+  "summary": "Past perfect continuous dibentuk dengan *had been + V-ing*. Bentuk ini dipakai untuk aktivitas yang sudah berlangsung sampai suatu titik di masa lalu. Bisa juga aktivitas yang baru berhenti sebelum titik itu dan hasilnya masih terlihat: *The ground was wet. It had been raining.*\n\nBentuk ini sering dipakai dengan *how long, for, since* untuk menyatakan durasi sampai titik di masa lalu: *We had been waiting for an hour when the bus finally came.*\n\nBandingkan tiga bentuk ini. *have been doing* berpatokan pada sekarang. *had been doing* berpatokan pada masa lalu. *was doing* hanya berarti sedang berlangsung pada saat itu, tanpa keterangan sudah berapa lama. Jadi *We were talking when the teacher came in* benar. Tetapi kalau ada *for ten minutes*, bentuknya *We had been talking for ten minutes when the teacher came in.*\n\nKata kerja keadaan (*know, like, want*) tetap memakai past perfect simple: *I had known him for years* (bukan *had been knowing*).",
+  "patterns": [
+   {
+    "formula": "had been + V-ing (semua subjek)",
+    "example": "She had been crying."
+   },
+   {
+    "formula": "had been + V-ing + for … when + past simple",
+    "example": "We had been waiting for an hour when it came."
+   },
+   {
+    "formula": "How long + had + subjek + been + V-ing … ?",
+    "example": "How long had you been looking for a job?"
+   },
+   {
+    "formula": "know / like → had + V3",
+    "example": "I had known him for years."
+   }
+  ],
+  "examples": [
+   {
+    "en": "The ground was wet. It had been raining.",
+    "id": "Tanahnya basah. Sebelumnya hujan."
+   },
+   {
+    "en": "We had been waiting for an hour when the bus finally came.",
+    "id": "Kami sudah menunggu sejam waktu busnya akhirnya datang."
+   },
+   {
+    "en": "Her eyes were red because she had been crying.",
+    "id": "Matanya merah karena habis menangis."
+   },
+   {
+    "en": "He had been living in Japan for five years before he moved back to Indonesia.",
+    "id": "Dia sudah tinggal di Jepang lima tahun sebelum pindah kembali ke Indonesia."
+   },
+   {
+    "en": "The children were dirty because they had been playing in the garden.",
+    "id": "Anak-anak kotor karena habis bermain di kebun."
+   },
+   {
+    "en": "I had known him for years before we became friends.",
+    "id": "Saya sudah lama kenal dia sebelum kami berteman."
+   }
+  ],
+  "commonMistakes": [
+   {
+    "wrong": "She was tired because she has been studying all night.",
+    "right": "She was tired because she had been studying all night.",
+    "why": "Patokannya masa lalu (*was*), jadi pakai *had been*."
+   },
+   {
+    "wrong": "He had been knowing her for years.",
+    "right": "He had known her for years.",
+    "why": "*know* tidak memakai bentuk *-ing*."
+   },
+   {
+    "wrong": "I was waiting for two hours when she called.",
+    "right": "I had been waiting for two hours when she called.",
+    "why": "Durasi sampai titik di masa lalu (*for two hours*) memakai *had been + V-ing*."
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "u016-q01",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "The ground was wet. It {{1}}.",
+   "blanks": [
+    {
+     "accept": [
+      "had been raining",
+      "'d been raining"
+     ],
+     "hint": "rain"
+    }
+   ],
+   "explanation": "Aktivitas yang baru berhenti sebelum titik di masa lalu: had been raining."
+  },
+  {
+   "id": "u016-q02",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "We {{1}} for an hour when the bus finally came.",
+   "blanks": [
+    {
+     "accept": [
+      "had been waiting",
+      "'d been waiting"
+     ],
+     "hint": "wait"
+    }
+   ],
+   "explanation": "Durasi sampai bus datang: had been waiting."
+  },
+  {
+   "id": "u016-q03",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "Her eyes were red because she {{1}}.",
+   "blanks": [
+    {
+     "accept": [
+      "had been crying",
+      "'d been crying"
+     ],
+     "hint": "cry"
+    }
+   ],
+   "explanation": "Penyebab yang terlihat di masa lalu: had been crying."
+  },
+  {
+   "id": "u016-q04",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect (simple atau continuous).",
+   "sentence": "He {{1}} in Japan for five years before he moved back to Indonesia.",
+   "blanks": [
+    {
+     "accept": [
+      "had been living",
+      "had lived",
+      "'d been living",
+      "'d lived"
+     ],
+     "hint": "live"
+    }
+   ],
+   "explanation": "live boleh simple atau continuous: had been living / had lived."
+  },
+  {
+   "id": "u016-q05",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "I was exhausted. I {{1}} all day.",
+   "blanks": [
+    {
+     "accept": [
+      "had been working",
+      "'d been working"
+     ],
+     "hint": "work"
+    }
+   ],
+   "explanation": "Aktivitas seharian sebelum titik di masa lalu: had been working."
+  },
+  {
+   "id": "u016-q06",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "How long {{1}} before you got the job?",
+   "blanks": [
+    {
+     "accept": [
+      "had you been looking"
+     ],
+     "hint": "you / look"
+    }
+   ],
+   "explanation": "How long + had + you + been + V-ing."
+  },
+  {
+   "id": "u016-q07",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect continuous.",
+   "sentence": "The children were dirty because they {{1}} in the garden.",
+   "blanks": [
+    {
+     "accept": [
+      "had been playing",
+      "'d been playing"
+     ],
+     "hint": "play"
+    }
+   ],
+   "explanation": "Penyebab di masa lalu: had been playing."
+  },
+  {
+   "id": "u016-q08",
+   "type": "gap",
+   "instruction": "Tulis bentuk past perfect.",
+   "sentence": "I {{1}} him for years before we became friends.",
+   "blanks": [
+    {
+     "accept": [
+      "had known",
+      "'d known"
+     ],
+     "hint": "know"
+    }
+   ],
+   "explanation": "know tidak memakai -ing: had known."
+  },
+  {
+   "id": "u016-q09",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "When I woke up, the streets were wet. It ___ in the night.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had been raining",
+     "why": "Benar. Hujannya berlangsung sebelum saya bangun."
+    },
+    {
+     "id": "b",
+     "text": "has been raining",
+     "why": "Patokannya masa lalu (woke up, were), jadi pakai had."
+    },
+    {
+     "id": "c",
+     "text": "is raining",
+     "why": "Ini bentuk sekarang."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Patokan masa lalu: had been + V-ing."
+  },
+  {
+   "id": "u016-q10",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "Rudi was out of breath. He ___.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had been running",
+     "why": "Benar. Penyebab napas terengah-engah saat itu."
+    },
+    {
+     "id": "b",
+     "text": "has been running",
+     "why": "Patokannya masa lalu (was), jadi pakai had."
+    },
+    {
+     "id": "c",
+     "text": "runs",
+     "why": "Ini bentuk sekarang/kebiasaan."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Penyebab keadaan di masa lalu: had been + V-ing."
+  },
+  {
+   "id": "u016-q11",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "We ___ for ten minutes when the teacher came in.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had been talking",
+     "why": "Benar. for ten minutes = durasi sampai guru masuk."
+    },
+    {
+     "id": "b",
+     "text": "were talking",
+     "why": "were talking benar tanpa for ten minutes, tetapi durasi sampai titik di masa lalu butuh had been + V-ing."
+    },
+    {
+     "id": "c",
+     "text": "have been talking",
+     "why": "Patokannya masa lalu (came in)."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Durasi sampai titik di masa lalu: had been + V-ing."
+  },
+  {
+   "id": "u016-q12",
+   "type": "mc",
+   "instruction": "Pilih bentuk yang tepat.",
+   "sentence": "I ___ the answer before the teacher told us.",
+   "options": [
+    {
+     "id": "a",
+     "text": "had known",
+     "why": "Benar. know adalah kata kerja keadaan."
+    },
+    {
+     "id": "b",
+     "text": "had been knowing",
+     "why": "know tidak dipakai dalam bentuk -ing."
+    },
+    {
+     "id": "c",
+     "text": "have known",
+     "why": "Patokannya masa lalu (told)."
+    }
+   ],
+   "answer": "a",
+   "explanation": "Kata kerja keadaan: had + V3."
+  },
+  {
+   "id": "u016-q13",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "She",
+    "was tired",
+    "because she",
+    "has been studying all night."
+   ],
+   "errorIndex": 3,
+   "accept": [
+    "had been studying all night."
+   ],
+   "corrected": "She was tired because she had been studying all night.",
+   "explanation": "Patokannya masa lalu: had been studying."
+  },
+  {
+   "id": "u016-q14",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "We",
+    "had been wait",
+    "for hours",
+    "when the doctor arrived."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "had been waiting"
+   ],
+   "corrected": "We had been waiting for hours when the doctor arrived.",
+   "explanation": "Setelah been perlu bentuk -ing: had been waiting."
+  },
+  {
+   "id": "u016-q15",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "He",
+    "had been knowing",
+    "her",
+    "for years."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "had known"
+   ],
+   "corrected": "He had known her for years.",
+   "explanation": "know tidak memakai -ing: had known."
+  },
+  {
+   "id": "u016-q16",
+   "type": "fix",
+   "instruction": "Ketuk bagian yang salah, lalu tulis perbaikannya.",
+   "segments": [
+    "I",
+    "was waiting",
+    "for two hours",
+    "when she finally called."
+   ],
+   "errorIndex": 1,
+   "accept": [
+    "had been waiting"
+   ],
+   "corrected": "I had been waiting for two hours when she finally called.",
+   "explanation": "Durasi sampai titik di masa lalu: had been waiting."
+  },
+  {
+   "id": "u016-q17",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Kami sudah berjalan selama tiga jam waktu itu.",
+   "tokens": [
+    "We",
+    "had",
+    "been",
+    "walking",
+    "for",
+    "three",
+    "hours",
+    "."
+   ],
+   "accept": [
+    [
+     "We",
+     "had",
+     "been",
+     "walking",
+     "for",
+     "three",
+     "hours",
+     "."
+    ]
+   ],
+   "explanation": "had been + V-ing + for + durasi."
+  },
+  {
+   "id": "u016-q18",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Dia sudah bekerja di sana sepuluh tahun sebelum pensiun.",
+   "tokens": [
+    "He",
+    "had",
+    "been",
+    "working",
+    "there",
+    "for",
+    "ten",
+    "years",
+    "before",
+    "he",
+    "retired",
+    "."
+   ],
+   "accept": [
+    [
+     "He",
+     "had",
+     "been",
+     "working",
+     "there",
+     "for",
+     "ten",
+     "years",
+     "before",
+     "he",
+     "retired",
+     "."
+    ],
+    [
+     "before",
+     "he",
+     "retired",
+     "he",
+     "had",
+     "been",
+     "working",
+     "there",
+     "for",
+     "ten",
+     "years",
+     "."
+    ]
+   ],
+   "explanation": "had been + V-ing … before + past simple."
+  },
+  {
+   "id": "u016-q19",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Sudah berapa lama mereka menunggu (waktu itu)?",
+   "tokens": [
+    "How",
+    "long",
+    "had",
+    "they",
+    "been",
+    "waiting",
+    "?"
+   ],
+   "accept": [
+    [
+     "How",
+     "long",
+     "had",
+     "they",
+     "been",
+     "waiting",
+     "?"
+    ]
+   ],
+   "explanation": "How long + had + subjek + been + V-ing."
+  },
+  {
+   "id": "u016-q20",
+   "type": "order",
+   "instruction": "Susun kata menjadi kalimat.",
+   "hint": "Tangan saya kotor karena saya habis berkebun.",
+   "tokens": [
+    "My",
+    "hands",
+    "were",
+    "dirty",
+    "because",
+    "I",
+    "had",
+    "been",
+    "gardening",
+    "."
+   ],
+   "accept": [
+    [
+     "My",
+     "hands",
+     "were",
+     "dirty",
+     "because",
+     "I",
+     "had",
+     "been",
+     "gardening",
+     "."
+    ]
+   ],
+   "explanation": "Penyebab di masa lalu: had been + V-ing."
+  }
+ ]
+}

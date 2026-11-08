@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.vite/
+test-results/
+__pycache__/
+public/packs/
+public/catalog.json
