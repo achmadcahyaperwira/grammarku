@@ -2,15 +2,18 @@ import { render } from 'preact';
 import { registerSW } from 'virtual:pwa-register';
 import { App } from './App';
 import './styles/app.css';
+import { isNative } from './lib/native';
 
 render(<App />, document.getElementById('app')!);
 
-// Minta penyimpanan permanen sekali; browser yang memutuskan.
-navigator.storage?.persisted?.().then((p) => {
-  if (!p) navigator.storage.persist?.().catch(() => undefined);
-});
+// Minta penyimpanan permanen sekali; browser yang memutuskan. Di aplikasi Android tidak perlu.
+if (!isNative)
+  navigator.storage?.persisted?.().then((p) => {
+    if (!p) navigator.storage.persist?.().catch(() => undefined);
+  });
 
-if ('serviceWorker' in navigator) {
+// Di aplikasi Android semua file sudah ada di dalam APK, jadi service worker tidak dipakai.
+if (!isNative && 'serviceWorker' in navigator) {
   const updateSW = registerSW({
     immediate: true,
     onNeedRefresh() {

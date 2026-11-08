@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Nomor versi naik otomatis di setiap build GitHub Actions, supaya APK baru bisa dipasang di atas yang lama.
+def buildNumber = (System.getenv('GITHUB_RUN_NUMBER') ?: '1').toInteger()
+
+android {
+    namespace 'com.caysenglish.v2'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.caysenglish.v2'
+        minSdk 24
+        targetSdk 34
+        versionCode buildNumber
+        versionName "2.0.${buildNumber}"
+    }
+
+    signingConfigs {
+        release {
+            // Kunci khusus aplikasi pribadi ini. APK versi berikutnya harus ditandatangani kunci yang sama.
+            storeFile file('cays-v2.keystore')
+            storePassword 'f_sOiBATvb2p7ShAEAMLSMQF'
+            keyAlias 'cays'
+            keyPassword 'f_sOiBATvb2p7ShAEAMLSMQF'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+}
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.11.0'
+}
